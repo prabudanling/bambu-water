@@ -4,6 +4,7 @@ import { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ArrowRight, Leaf, Droplets, Truck } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { MagneticButton } from '@/components/site/motion-primitives';
 import { useI18n } from '@/lib/i18n/context';
 
 const DROPLETS = [
@@ -47,6 +48,15 @@ export function Hero() {
         <div className="absolute inset-0 bg-gradient-to-b from-emerald-950/80 via-emerald-950/55 to-emerald-950/90" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_0%,rgba(6,45,27,0.55)_100%)]" />
       </motion.div>
+
+      {/* Aurora mesh — cahaya hidup sinematik */}
+      <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
+        <div className="animate-aurora absolute -left-1/4 top-[-20%] h-[70vh] w-[70vw] rounded-full bg-[radial-gradient(ellipse_at_center,rgba(16,185,129,0.28),transparent_65%)] blur-3xl" />
+        <div className="animate-aurora absolute -right-1/4 top-[10%] h-[60vh] w-[55vw] rounded-full bg-[radial-gradient(ellipse_at_center,rgba(45,212,191,0.22),transparent_65%)] blur-3xl" style={{ animationDelay: '-7s' }} />
+        <div className="animate-aurora absolute bottom-[-25%] left-1/4 h-[55vh] w-[60vw] rounded-full bg-[radial-gradient(ellipse_at_center,rgba(251,191,36,0.14),transparent_60%)] blur-3xl" style={{ animationDelay: '-14s' }} />
+        <div className="animate-orb absolute right-[12%] top-[24%] h-16 w-16 rounded-full border border-white/20 bg-white/5 backdrop-blur-sm" style={{ animationDelay: '-2s' }} />
+        <div className="animate-orb absolute left-[16%] top-[58%] h-10 w-10 rounded-full border border-teal-200/25 bg-teal-200/10" style={{ animationDelay: '-5s' }} />
+      </div>
 
       {/* Tetesan air jatuh */}
       <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
@@ -108,25 +118,25 @@ export function Hero() {
           <h1 className="text-4xl font-bold leading-[1.08] text-white sm:text-6xl lg:text-7xl">
             <motion.span
               className="block"
-              initial={{ opacity: 0, y: 34 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.85, delay: 0.3 }}
+              initial={{ opacity: 0, y: 34, filter: 'blur(14px)' }}
+              animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+              transition={{ duration: 0.95, delay: 0.3, ease: [0.21, 0.47, 0.32, 0.98] }}
             >
               {s.titleLine1}
             </motion.span>
             <motion.span
               className="animate-gradient-flow block bg-gradient-to-r from-emerald-200 via-teal-100 to-amber-200 bg-clip-text text-transparent"
-              initial={{ opacity: 0, y: 34 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.85, delay: 0.48 }}
+              initial={{ opacity: 0, y: 34, filter: 'blur(14px)' }}
+              animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+              transition={{ duration: 0.95, delay: 0.48, ease: [0.21, 0.47, 0.32, 0.98] }}
             >
               {s.titleLine2}
             </motion.span>
             <motion.span
               className="block"
-              initial={{ opacity: 0, y: 34 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.85, delay: 0.66 }}
+              initial={{ opacity: 0, y: 34, filter: 'blur(14px)' }}
+              animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+              transition={{ duration: 0.95, delay: 0.66, ease: [0.21, 0.47, 0.32, 0.98] }}
             >
               {s.titleLine3}
             </motion.span>
@@ -149,16 +159,19 @@ export function Hero() {
             transition={{ duration: 0.85, delay: 1 }}
             className="mt-9 flex flex-col items-center justify-center gap-4 sm:flex-row"
           >
-            <Button
-              asChild
-              size="lg"
-              className="group h-14 rounded-full bg-gradient-to-r from-emerald-500 to-teal-500 px-8 text-base font-semibold text-white shadow-xl shadow-emerald-900/40 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-emerald-800/40"
-            >
-              <a href="#/air-bambu-suling">
-                {s.ctaPrimary}
-                <ArrowRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1.5" aria-hidden />
-              </a>
-            </Button>
+            <MagneticButton>
+              <Button
+                asChild
+                size="lg"
+                className="group relative h-14 overflow-hidden rounded-full bg-gradient-to-r from-emerald-500 to-teal-500 px-8 text-base font-semibold text-white shadow-xl shadow-emerald-900/40 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-emerald-800/40"
+              >
+                <a href="#/air-bambu-suling">
+                  <span aria-hidden className="shine-overlay" />
+                  {s.ctaPrimary}
+                  <ArrowRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1.5" aria-hidden />
+                </a>
+              </Button>
+            </MagneticButton>
             <Button
               asChild
               size="lg"

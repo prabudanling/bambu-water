@@ -10,6 +10,7 @@ import { useHashRoute, setCanonical } from '@/hooks/use-hash-route';
 import { useI18n, pageMeta } from '@/lib/i18n/context';
 import { Logo } from './logo';
 import { LanguageSwitcher } from './language-switcher';
+import { CommandPaletteTrigger } from './command-palette';
 import { cn } from '@/lib/utils';
 
 /**
@@ -81,7 +82,7 @@ export function Navbar({ activeSlug }: { activeSlug: string }) {
                     aria-expanded={group.children ? openGroup === group.label : undefined}
                     aria-haspopup={group.children ? 'true' : undefined}
                     className={cn(
-                      'relative flex items-center gap-1 rounded-full px-3.5 py-2 text-sm font-medium transition-colors duration-300',
+                      'relative flex items-center gap-1 rounded-full px-3 py-2 text-sm font-medium transition-colors duration-300',
                       isActive
                         ? onDark
                           ? 'text-white'
@@ -180,6 +181,7 @@ export function Navbar({ activeSlug }: { activeSlug: string }) {
           </nav>
 
           <div className="flex items-center gap-2">
+            <CommandPaletteTrigger onDark={onDark} />
             <LanguageSwitcher onDark={onDark} />
             <Button
               asChild

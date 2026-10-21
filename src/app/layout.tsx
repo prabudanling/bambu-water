@@ -148,6 +148,21 @@ export const metadata: Metadata = {
     title: 'Bambu Water Nusantara',
     statusBarStyle: 'black-translucent',
   },
+  manifest: '/manifest.webmanifest',
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/icon', type: 'image/png', sizes: '512x512' },
+    ],
+    shortcut: '/favicon.svg',
+    apple: '/apple-icon',
+  },
+  verification: {
+    /* Tempel token verifikasi Google Search Console / Bing di sini saat live:
+    google: 'TOKEN-GSC',
+    other: { 'msvalidate.01': 'TOKEN-BING' },
+    */
+  },
   other: {
     'geo.region': 'ID-JB',
     'geo.placename': 'Tasikmalaya, Jawa Barat, Indonesia',

@@ -50,3 +50,59 @@ Stage Summary:
 - 2 bug sitewide kritikal diperbaiki (navigasi Link hash mati total; robots.txt 500) + hardening hydration-safe
 - File baru: src/lib/data/{cities,conditions,services,bamboo-types}.ts, src/lib/auto-pages.ts, src/components/pages/{auto-shared,auto-pages-renderer}.tsx, README.md
 - Diubah: app-shell.tsx, sitemap.ts, pages-registry.ts, footer.tsx, use-hash-route.ts (patch history), public/ (hapus robots.txt statis)
+
+---
+Task ID: 2
+Agent: Z.ai Code (main)
+Task: God-mode upgrade v2 — tampilan lebih smooth/animatif/cepat, skor SEO 10/10, halaman-halaman tersendiri baru, semua super-idea diterapkan (permintaan user)
+
+Work Log:
+TRACK A — UI/UX SMOOTH & ANIMATIF:
+- globals.css v2: Motion System baru — keyframes GPU (aurora-drift, water-wave, blur-in, shine-sweep, glow-pulse, orb-float, line-dance), utilitas glass/glass-dark, gradient-border, card-lift, shine-overlay, link-underline, text-wrap balance/pretty, prefers-reduced-motion global damper, main contain:layout style
+- motion-primitives.tsx (baru): ScrollProgress (bar kemajuan scroll spring), ReadingProgress, CountUp (useInView+animate), TiltCard (3D tilt), MagneticButton (efek magnetik), BackToTop (cincin kemajuan SVG), ParallaxOrnament — semua ramah reduced-motion
+- Hero sinematik: 3 aurora mesh orbs + 2 floating orbs + judul blur-in stagger (filter blur 14→0) + CTA magnetik dengan shine sweep
+- BackToTop + ScrollProgress dipasang sitewide di app-shell
+
+TRACK B — SEO 10/10:
+- manifest.ts (baru): PWA manifest lengkap (name, icons, shortcuts ke Kontak/Kesehatan/Harga, theme #14532d)
+- icon.tsx + apple-icon.tsx (baru): favicon PNG dinamis via next/og (512px + 180px iOS)
+- robots.ts v2: rules granular (Googlebot×4, Bingbot/DuckDuck/Yandex/Baidu, AI bots GPTBot/ClaudeBot/Perplexity), sitemap + host eksplisit
+- layout.tsx: manifest, icons triple (svg+png+apple), verification slot GSC/Bing siap tempel
+- JSON-LD BlogPosting diperkaya: datePublished/dateModified, wordCount, articleSection, author.founder Person, publisher.logo ImageObject
+- HowTo JSON-LD baru di cara-pemesanan (rich result langkah, totalTime, estimatedCost)
+- Sitemap kini 2.654 URL (8 halaman baru × 31 hreflang = masuk core section)
+
+TRACK C — 8 HALAMAN BARU (25 → 33 halaman inti):
+- kalkulator-kesehatan: interaktif 3in1 (kebutuhan air harian slider+formula EFSA, BMI+kategori berwarna, dosis terapi) + WebApplication JSON-LD + FAQ JSON-LD + CTA WA personalisasi hasil
+- peta-situs: HTML sitemap seluruh 2.654 halaman — pencarian live, grup lipat animasi (inti, 60 kondisi, 2.524 kota, 25 layanan, 8 bambu, indeks)
+- glossarium: 41 istilah terkurasi + pencarian live + filter 13 kategori + DefinedTermSet JSON-LD (SEO long-tail)
+- perbandingan: matriks 7 kriteria × 5 minuman, tab animasi layoutId spring, analisis jujur per minuman + Article JSON-LD
+- lacak-pesanan: simulasi timeline 6 tahap deterministik dari nomor order (seed hash), animasi maju bertahap + FAQ JSON-LD
+- karier: 3 nilai kerja + 4 posisi + JobPosting JSON-LD per posisi (rich result lowongan)
+- kebijakan-privasi & syarat-ketentuan: server components statis super cepat, ringkasan 10 detik, E-E-A-T trust
+- Semua terdaftar: PAGES_META (meta SEO lengkap), PAGE_MAP, NAV_GROUPS (grup baru "Alat"), footer kolom baru "Alat & Bantuan"
+
+TRACK D — SUPER IDEAS:
+- Command Palette Ctrl/Cmd+K: indeks 2.654+ halaman, keyboard nav ↑↓/Enter/ESC, grup berwarna (Kota=emas), dipicu tombol navbar "Cari Ctrl K" (adaptif gelap/terang via onDark) — internal linking + UX boost besar
+- pageMeta fallback berlapis: t.pages → idSource → PAGES_META registry (memperbaiki PageHero/label halaman baru di semua locale)
+
+BUG KRITIS PRE-EXISTING DITEMUKAN & DIPERBAKI:
+- SEMUA 7 halaman artikel crash total (main kosong): `t.ui.article` tidak pernah ada di compiled dictionary id/en → TypeError 'poinUtama'. E2E sesi sebelumnya tak pernah menguji artikel. Fix: ARTICLE_UI_FALLBACK hardcoded id di article-page.tsx + merge override kamus. Verifikasi: 7 artikel kini render 12-13K chars + BlogPosting JSON-LD OK
+- CommandPaletteTrigger awalnya teks putih di navbar putih (tak terlihat saat scroll) → prop onDark + tampil di xl
+- Navbar 8 grup tergencet di 1440px → label 'Alat & Info'→'Alat', px-3.5→px-3
+- Lint rules React baru (set-state-in-effect, refs): CountUp/CommandPalette/LacakPesanan direfactor ke pola legal (reset di callback event, ref mirror via effect)
+
+VERIFIKASI E2E (agent-browser):
+- 33 halaman inti + 7 artikel: SEMUA title SEO dinamis benar & konten render (regresi penuh: beranda, kesehatan, kota/bandung, layanan, bambu/petung, harga, kontak, faq, tentang)
+- Interaktif terverifikasi: kalkulator slider 80kg → "2.3–2.7 liter"; lacak pesanan BWN-20250615-014 → timeline animasi 6 tahap; command palette cari "ginjal" → 3 hasil → Enter → halaman kondisi ginjal; peta situs cari "bandung" → 2 hasil; perbandingan tab → Teh Hijau panel; BackToTop muncul setelah scroll; ESC menutup palette
+- Endpoint SEO: sitemap.xml 2.654 URL (1MB), robots.txt multi-bot, manifest.webmanifest, /icon 54KB, /apple-icon — semua 200
+- JSON-LD kalkulator: 14 node termasuk WebApplication(HealthApplication)
+- Mobile iPhone 14: hero sinematik + kalkulator layout sempurna (screenshot)
+- Lint CLEAN 0/0; dev.log bersih setelah recompile (57 error lama = jejak transient sebelum file dibuat)
+- Screenshot: preview-hero-v2.png, preview-kalkulator-mobile.png, preview-kalkulator-fixed.png, preview-peta-situs-desktop.png, preview-perbandingan-desktop.png, preview-final-desktop-stats.png
+
+Stage Summary:
+- Situs kini 33 halaman inti + 2.654 URL sitemap; 8 fitur interaktif baru; motion system sinematik GPU-accelerated; SEO infrastruktur lengkap (PWA manifest, ikon dinamis, robots granular, 12+ tipe JSON-LD: Person/Corporation/WebSite/LocalBusiness/Product/FAQPage/Organization/BreadcrumbList/BlogPosting/HowTo/JobPosting/WebApplication/DefinedTermSet/Article)
+- 1 bug kritis pre-existing sitewide ditemukan & diperbaiki (artikel crash) — kualitas E2E kini menguji SEMUA tipe halaman
+- File baru (13): motion-primitives, command-palette, kalkulator-kesehatan, peta-situs, glossarium, perbandingan, lacak-pesanan, karier, kebijakan-privasi, syarat-ketentuan, manifest.ts, icon.tsx, apple-icon.tsx
+- Diubah (12): globals.css, layout.tsx, robots.ts, app-shell, navbar, footer, hero, pages-registry, i18n/context, article-page, cara-pemesanan, motion-primitives

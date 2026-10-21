@@ -6,10 +6,32 @@ import { SectionHeading } from '@/components/site/section-heading';
 import { Reveal } from '@/components/site/reveal';
 import { QuoteForm } from '@/components/site/quote-form';
 import { CtaBand } from '@/components/site/cta-band';
-import { waLink, COMPANY } from '@/lib/company';
+import { waLink, COMPANY, SITE_URL } from '@/lib/company';
 import { useI18n } from '@/lib/i18n/context';
 
 const STEP_ICONS = [Search, MessageCircle, CreditCard, PackageCheck];
+
+/** JSON-LD HowTo — rich result langkah pemesanan di Google */
+function HowToJsonLd({ steps }: { steps: { title: string; text: string }[] }) {
+  const data = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    '@id': `${SITE_URL}/#/cara-pemesanan#howto`,
+    name: 'Cara Memesan Air Bambu & Bambu Batang di Bambu Water Nusantara',
+    description:
+      'Empat langkah mudah memesan air bambu suling, air bambu tabib, dan bambu batang: pilih produk, konfirmasi WhatsApp, pembayaran, dan pengiriman.',
+    totalTime: 'PT15M',
+    estimatedCost: { '@type': 'MonetaryAmount', currency: 'IDR', value: '150000' },
+    step: steps.map((st, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: st.title.replace(/^\d\. /, ''),
+      text: st.text.replace('{wa}', COMPANY.whatsappDisplay),
+      url: `${SITE_URL}/#/cara-pemesanan#langkah-${i + 1}`,
+    })),
+  };
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
+}
 
 /** Halaman 22/25 — Cara Pemesanan */
 export function CaraPemesananPage() {
@@ -18,6 +40,7 @@ export function CaraPemesananPage() {
 
   return (
     <>
+      <HowToJsonLd steps={s.steps} />
       <PageHero slug="cara-pemesanan" />
 
       <PageSection bg="light">

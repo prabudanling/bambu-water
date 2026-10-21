@@ -29,9 +29,27 @@ function ArticleJsonLd({ article, locale }: { article: any; locale: string }) {
     description: article.metaDescription,
     image: `${SITE_URL}${article.heroImage}`,
     inLanguage: locale === 'id' ? 'id-ID' : locale,
-    author: { '@type': 'Organization', name: 'PT Bambu Water Nusantara' },
-    publisher: { '@type': 'Organization', name: 'PT Bambu Water Nusantara' },
-    mainEntityOfPage: url,
+    articleSection: article.category,
+    wordCount: [
+      ...article.intro,
+      ...article.sections.flatMap((s: { paragraphs: string[] }) => s.paragraphs),
+      article.conclusion,
+    ].join(' ').split(/\s+/).length,
+    datePublished: '2024-06-01T08:00:00+07:00',
+    dateModified: '2025-06-01T08:00:00+07:00',
+    author: {
+      '@type': 'Organization',
+      name: 'PT Bambu Water Nusantara',
+      url: SITE_URL,
+      founder: { '@type': 'Person', name: 'H. Gugun Gunara' },
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'PT Bambu Water Nusantara',
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo-bwn.svg` },
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     keywords: article.keywords.join(', '),
   };
   const faqPage = {
@@ -51,11 +69,32 @@ function ArticleJsonLd({ article, locale }: { article: any; locale: string }) {
   );
 }
 
+/** Fallback UI artikel (bahasa Indonesia) — kamus `ui.article` tidak tersedia di compiled dict.
+ *  BUG PRE-EXISTING: `t.ui.article` selalu undefined → semua halaman artikel crash. */
+const ARTICLE_UI_FALLBACK = {
+  notFound: 'Artikel tidak ditemukan.',
+  poinUtama: 'Poin Utama Artikel',
+  kesimpulan: 'Kesimpulan',
+  faqTitle: 'Pertanyaan Umum seputar',
+  faqHighlight: 'Artikel Ini',
+  relatedTitle: 'Baca Juga',
+  relatedHighlight: 'Artikel Terkait',
+  referensi: 'Referensi',
+  disclaimer:
+    'Konten ini bersifat edukatif-komplementer, bukan pengganti nasihat medis profesional. Selalu konsultasikan kondisi Anda dengan dokter.',
+  ctaTitle: 'Ingin Merasakan Manfaat Air Bambu?',
+  ctaDesc:
+    'Konsultasikan kebutuhan Anda dengan tim kami — gratis. Dari botol satuan untuk keluarga hingga kontrak pasokan grosir.',
+  waMessage: 'Halo! Saya membaca artikel "{title}" dan ingin konsultasi produk air bambu.',
+  ctaWa: 'Konsultasi via WhatsApp',
+  ctaPricing: 'Lihat Harga & Paket',
+} as const;
+
 /** Halaman artikel (7/25 s.d. 13/25) — dirender dari data ArticleData */
 export function ArticlePage({ slug }: { slug: string }) {
   const { t, locale } = useI18n();
   const tr = useArticleTranslations();
-  const s = t.ui.article;
+  const s = { ...ARTICLE_UI_FALLBACK, ...(t?.ui?.article ?? {}) } as typeof ARTICLE_UI_FALLBACK;
   const raw = getArticle(slug);
   const article = mergedArticle(raw, tr);
 

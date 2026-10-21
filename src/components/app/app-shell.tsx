@@ -15,6 +15,8 @@ import { JsonLd } from '@/components/site/json-ld';
 import { Navbar } from '@/components/site/navbar';
 import { Footer } from '@/components/site/footer';
 import { WhatsAppFloat } from '@/components/site/whatsapp-float';
+import { ScrollProgress, BackToTop } from '@/components/site/motion-primitives';
+import { CommandPalette } from '@/components/site/command-palette';
 
 import { HomePage } from '@/components/pages/home';
 import { TentangKamiPage } from '@/components/pages/tentang-kami';
@@ -35,6 +37,14 @@ import { CaraPemesananPage } from '@/components/pages/cara-pemesanan';
 import { TestimoniPage } from '@/components/pages/testimoni';
 import { FaqPage } from '@/components/pages/faq';
 import { KontakPage } from '@/components/pages/kontak';
+import { KalkulatorKesehatanPage } from '@/components/pages/kalkulator-kesehatan';
+import { PetaSitusPage } from '@/components/pages/peta-situs';
+import { GlossariumPage } from '@/components/pages/glossarium';
+import { PerbandinganPage } from '@/components/pages/perbandingan';
+import { LacakPesananPage } from '@/components/pages/lacak-pesanan';
+import { KarierPage } from '@/components/pages/karier';
+import KebijakanPrivasiPage from '@/components/pages/kebijakan-privasi';
+import SyaratKetentuanPage from '@/components/pages/syarat-ketentuan';
 
 const ARTICLE_SLUGS = [
   'air-bambu-gula-darah',
@@ -65,6 +75,14 @@ const PAGE_MAP: Record<string, () => React.ReactElement> = {
   testimoni: () => <TestimoniPage />,
   faq: () => <FaqPage />,
   kontak: () => <KontakPage />,
+  'kalkulator-kesehatan': () => <KalkulatorKesehatanPage />,
+  'peta-situs': () => <PetaSitusPage />,
+  glossarium: () => <GlossariumPage />,
+  perbandingan: () => <PerbandinganPage />,
+  'lacak-pesanan': () => <LacakPesananPage />,
+  karier: () => <KarierPage />,
+  'kebijakan-privasi': () => <KebijakanPrivasiPage />,
+  'syarat-ketentuan': () => <SyaratKetentuanPage />,
 };
 
 function Shell() {
@@ -168,8 +186,10 @@ function Shell() {
 
   return (
     <div className="flex min-h-screen flex-col">
+      <ScrollProgress />
       <JsonLd locale={locale} />
       <Navbar activeSlug={slug} />
+      <CommandPalette />
 
       <main className="flex-1" id="konten-utama">
         {/* TANPA AnimatePresence mode="wait" — navigasi cepat bisa membuat exit
@@ -187,6 +207,7 @@ function Shell() {
 
       <Footer />
       <WhatsAppFloat />
+      <BackToTop />
     </div>
   );
 }

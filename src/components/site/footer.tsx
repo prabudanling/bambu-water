@@ -10,7 +10,7 @@ import { Logo } from './logo';
 type FooterLink = { slug: string; href: string; label: string };
 type FooterColumn = { key: string; heading: string; links: FooterLink[] };
 
-/** Sitemap footer — 25 halaman bambuwater.web.id (label id fallback; label aktif dari dictionary) */
+/** Sitemap footer — halaman inti + alat baru bambuwater.web.id */
 const FOOTER_NAV: FooterColumn[] = [
   {
     key: 'explore',
@@ -20,6 +20,7 @@ const FOOTER_NAV: FooterColumn[] = [
       { slug: 'tentang-kami', href: '#/tentang-kami', label: 'Tentang Kami' },
       { slug: 'testimoni', href: '#/testimoni', label: 'Testimoni' },
       { slug: 'faq', href: '#/faq', label: 'FAQ' },
+      { slug: 'karier', href: '#/karier', label: 'Karier' },
       { slug: 'kontak', href: '#/kontak', label: 'Kontak' },
     ],
   },
@@ -73,6 +74,19 @@ const FOOTER_NAV: FooterColumn[] = [
       { slug: 'kota/bandung', href: '#/kota/bandung', label: 'Air Bambu Bandung' },
       { slug: 'kota/surabaya', href: '#/kota/surabaya', label: 'Air Bambu Surabaya' },
       { slug: 'air-bambu-untuk/asam-urat', href: '#/air-bambu-untuk/asam-urat', label: 'Air Bambu & Asam Urat' },
+    ],
+  },
+  {
+    key: 'tools',
+    heading: 'Alat & Bantuan',
+    links: [
+      { slug: 'kalkulator-kesehatan', href: '#/kalkulator-kesehatan', label: 'Kalkulator Kesehatan' },
+      { slug: 'perbandingan', href: '#/perbandingan', label: 'Perbandingan Minuman' },
+      { slug: 'lacak-pesanan', href: '#/lacak-pesanan', label: 'Lacak Pesanan' },
+      { slug: 'glossarium', href: '#/glossarium', label: 'Glossarium Istilah' },
+      { slug: 'peta-situs', href: '#/peta-situs', label: 'Peta Situs' },
+      { slug: 'kebijakan-privasi', href: '#/kebijakan-privasi', label: 'Kebijakan Privasi' },
+      { slug: 'syarat-ketentuan', href: '#/syarat-ketentuan', label: 'Syarat & Ketentuan' },
     ],
   },
 ];
@@ -146,7 +160,7 @@ export function Footer() {
       </div>
 
       {/* Kolom footer */}
-      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-6">
+      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-5">
         <div className="lg:col-span-2">
           <Logo dark />
           <p className="mt-4 text-sm leading-relaxed text-emerald-100/70">

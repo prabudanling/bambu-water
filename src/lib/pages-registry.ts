@@ -596,6 +596,184 @@ export const PAGES_META = {
     priority: 0.9,
     updated: UPDATED,
   },
+
+  /* ============ ALAT & UTILITAS (EKSPANSI GOD-MODE) ============ */
+  'kalkulator-kesehatan': {
+    slug: 'kalkulator-kesehatan',
+    navLabel: 'Kalkulator Kesehatan',
+    seoTitle: 'Kalkulator Kebutuhan Air Harian & Dosis Terapi Air Bambu — Gratis',
+    metaDescription:
+      'Kalkulator kebutuhan cairan harian, BMI, dan dosis terapi air bambu yang dipersonalisasi — berdasarkan berat badan, usia, dan tingkat aktivitas Anda.',
+    keywords: [
+      'kalkulator kebutuhan air harian',
+      'kalkulator minum air',
+      'berapa liter air harus minum',
+      'kalkulator bmi',
+      'dosis air bambu harian',
+      'kalkulator kesehatan air bambu',
+      'hitung kebutuhan cairan tubuh',
+    ],
+    h1: 'Kalkulator Kesehatan Interaktif',
+    eyebrow: 'Alat Interaktif Gratis',
+    intro:
+      'Geser slider, hasil instan: kebutuhan cairan harian, BMI, dan dosis terapi air bambu yang disesuaikan dengan tubuh Anda.',
+    heroImage: '/images/wellness.jpg',
+    priority: 0.8,
+    updated: UPDATED,
+  },
+
+  'peta-situs': {
+    slug: 'peta-situs',
+    navLabel: 'Peta Situs',
+    seoTitle: 'Peta Situs — Indeks Seluruh Halaman bambuwater.web.id',
+    metaDescription:
+      'Direktori lengkap semua halaman: terapi kesehatan, 2.500+ kota pengiriman, layanan, jenis bambu, artikel, dan alat interaktif. Temukan dalam sekejap.',
+    keywords: [
+      'peta situs bambu water',
+      'sitemap bambuwater',
+      'daftar halaman air bambu',
+      'indeks situs air bambu',
+      'daftar kota pengiriman air bambu',
+    ],
+    h1: 'Peta Situs Lengkap',
+    eyebrow: 'Direktori Navigasi',
+    intro:
+      'Semua halaman dalam satu peta — dari terapi 60+ kondisi kesehatan hingga 2.500+ kota. Gunakan pencarian untuk menemukan sekejap.',
+    heroImage: '/images/product-bulk.jpg',
+    priority: 0.6,
+    updated: UPDATED,
+  },
+
+  glossarium: {
+    slug: 'glossarium',
+    navLabel: 'Glossarium',
+    seoTitle: 'Glossarium Air Bambu — Kamus 40+ Istilah Sains, Tradisi & Bisnis',
+    metaDescription:
+      'Kamus istilah air bambu terlengkap: silika organik, teknik mata tunas, MOQ, kargo LCL/FCL, hingga istilah tabib tradisional — dijelaskan sederhana.',
+    keywords: [
+      'istilah air bambu',
+      'apa itu silika organik',
+      'teknik mata tunas bambu',
+      'kamus minuman kesehatan',
+      'istilah tabib tradisional',
+      'glossarium air bambu',
+    ],
+    h1: 'Glossarium Air Bambu Nusantara',
+    eyebrow: 'Kamus Istilah',
+    intro:
+      'Semua istilah teknis, ilmiah, dan tradisional di situs ini — dijelaskan bahasa sederhana. Cari atau filter per kategori.',
+    heroImage: '/images/process-distillation.jpg',
+    priority: 0.6,
+    updated: UPDATED,
+  },
+
+  perbandingan: {
+    slug: 'perbandingan',
+    navLabel: 'Perbandingan',
+    seoTitle: 'Air Bambu vs Air Mineral, Teh Hijau & Air Kelapa — Perbandingan Jujur',
+    metaDescription:
+      'Matriks 7 kriteria: silika organik, antioksidan, mineral alami, kalori, terapi tradisional, rasa, dan keberlanjutan. Pilih minuman sehat terbaik Anda.',
+    keywords: [
+      'perbandingan air bambu dan air mineral',
+      'air bambu vs teh hijau',
+      'air bambu vs air kelapa',
+      'minuman sehat terbaik',
+      'minuman antioksidan perbandingan',
+      'minuman silika organik',
+    ],
+    h1: 'Perbandingan Minuman Sehat',
+    eyebrow: 'Matriks 7 Kriteria',
+    intro:
+      'Data objektif, analisis jujur: air bambu vs air mineral, teh hijau, air kelapa, dan infused water — temukan yang tepat untuk tujuan Anda.',
+    heroImage: '/images/product-water-bottle.jpg',
+    priority: 0.7,
+    updated: UPDATED,
+  },
+
+  'lacak-pesanan': {
+    slug: 'lacak-pesanan',
+    navLabel: 'Lacak Pesanan',
+    seoTitle: 'Lacak Pesanan — Pantau Kiriman Air Bambu Anda 6 Tahapan',
+    metaDescription:
+      'Pantau status pesanan air bambu & bambu batang BWN: dari konfirmasi, packing, ekspedisi, hingga tiba di tujuan. Resi resmi via WhatsApp admin.',
+    keywords: [
+      'lacak pesanan air bambu',
+      'cek resi bambu water',
+      'status pengiriman air bambu',
+      'lacak kargo bambu',
+      'pantau pesanan bwn',
+    ],
+    h1: 'Lacak Pesanan Anda',
+    eyebrow: 'Pantau Kiriman',
+    intro:
+      'Enam tahapan transparan dari pesanan diterima hingga tiba di rumah. Masukkan nomor pesanan BWN untuk melihat alurnya.',
+    heroImage: '/images/product-bulk.jpg',
+    priority: 0.6,
+    updated: UPDATED,
+  },
+
+  karier: {
+    slug: 'karier',
+    navLabel: 'Karier',
+    seoTitle: 'Karier — Lowongan Kerja & Kemitraan di Bambu Water Nusantara',
+    metaDescription:
+      'Bergabung dengan tim BWN: staf produksi & uji mutu, admin penjualan, digital marketing, dan kemitraan petani sadapan. Lamar via WhatsApp.',
+    keywords: [
+      'lowongan kerja tasikmalaya',
+      'loker bambu water',
+      'lowongan produksi minuman',
+      'kemitraan petani bambu',
+      'lowongan admin penjualan wa',
+      'karier bambu water nusantara',
+    ],
+    h1: 'Karier di Bambu Water Nusantara',
+    eyebrow: 'Bergabung dengan Kami',
+    intro:
+      'Tumbuh bersama misi bambu Nusantara — posisi produksi, admin, digital, dan kemitraan petani yang berdampak ke ekonomi desa.',
+    heroImage: '/images/about-plantation.jpg',
+    priority: 0.5,
+    updated: UPDATED,
+  },
+
+  'kebijakan-privasi': {
+    slug: 'kebijakan-privasi',
+    navLabel: 'Kebijakan Privasi',
+    seoTitle: 'Kebijakan Privasi — Perlindungan Data Pelanggan BWN',
+    metaDescription:
+      'Bagaimana PT Bambu Water Nusantara mengumpulkan, menggunakan, dan melindungi data pribadi Anda — ringkas, jelas, tanpa jargon legal.',
+    keywords: [
+      'kebijakan privasi bambu water',
+      'perlindungan data pelanggan',
+      'privasi bambuwater.web.id',
+      'keamanan data pemesanan',
+    ],
+    h1: 'Kebijakan Privasi',
+    eyebrow: 'Transparansi Data',
+    intro:
+      'Kami hanya mengumpulkan data yang Anda berikan untuk pemesanan, tidak pernah menjualnya, dan Anda dapat meminta hapus kapan saja.',
+    priority: 0.3,
+    updated: UPDATED,
+  },
+
+  'syarat-ketentuan': {
+    slug: 'syarat-ketentuan',
+    navLabel: 'Syarat & Ketentuan',
+    seoTitle: 'Syarat & Ketentuan Layanan — PT Bambu Water Nusantara',
+    metaDescription:
+      'Ketentuan penggunaan situs, pemesanan produk, pengiriman, retur, kemitraan distribusi, dan hak kekayaan intelektual BWN.',
+    keywords: [
+      'syarat ketentuan bambu water',
+      'ketentuan pemesanan air bambu',
+      's&k bambuwater',
+      'aturan retur air bambu',
+    ],
+    h1: 'Syarat & Ketentuan',
+    eyebrow: 'Perjanjian Layanan',
+    intro:
+      'Aturan main yang melindungi Anda dan kami — dari produk, pemesanan, pengiriman, hingga hak konten situs.',
+    priority: 0.3,
+    updated: UPDATED,
+  },
 } as const satisfies Record<string, PageMeta>;
 
 export type PageSlug = keyof typeof PAGES_META;
@@ -678,6 +856,19 @@ export const NAV_GROUPS: NavGroup[] = [
       { label: 'Tentang Kami', slug: 'tentang-kami', desc: 'Profil, visi misi & legalitas' },
       { label: 'Testimoni', slug: 'testimoni', desc: 'Cerita nyata pelanggan' },
       { label: 'FAQ', slug: 'faq', desc: 'Pertanyaan yang sering diajukan' },
+      { label: 'Karier', slug: 'karier', desc: 'Lowongan & kemitraan petani' },
+    ],
+  },
+  {
+    label: 'Alat',
+    children: [
+      { label: 'Kalkulator Kesehatan', slug: 'kalkulator-kesehatan', desc: 'Hitung kebutuhan air & dosis terapi' },
+      { label: 'Perbandingan Minuman', slug: 'perbandingan', desc: 'Air bambu vs minuman sehat lain' },
+      { label: 'Lacak Pesanan', slug: 'lacak-pesanan', desc: 'Pantau 6 tahapan kiriman' },
+      { label: 'Glossarium', slug: 'glossarium', desc: 'Kamus 40+ istilah air bambu' },
+      { label: 'Peta Situs', slug: 'peta-situs', desc: 'Indeks seluruh halaman' },
+      { label: 'Kebijakan Privasi', slug: 'kebijakan-privasi', desc: 'Perlindungan data Anda' },
+      { label: 'Syarat & Ketentuan', slug: 'syarat-ketentuan', desc: 'Aturan layanan & transaksi' },
     ],
   },
 ];

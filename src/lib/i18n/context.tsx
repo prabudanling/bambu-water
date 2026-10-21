@@ -10,6 +10,7 @@ import {
   type ReactNode,
 } from 'react';
 import { DEFAULT_LOCALE, LOCALES, localeMeta, parseHash, buildHash, type Locale } from './config';
+import { PAGES_META } from '@/lib/pages-registry';
 
 /** Dictionary longgar — bentuk mengikuti compiled/id.json */
 export type Dictionary = any;
@@ -182,9 +183,14 @@ export function useI18n(): I18nValue {
   return useContext(I18nContext);
 }
 
-/** Helper mengambil meta halaman terjemahan: t.pages[slug] ?? id */
+/** Helper mengambil meta halaman terjemahan: t.pages[slug] ?? id ?? registry */
 export function pageMeta(t: Dictionary, slug: string): any {
   const p = t?.pages?.[slug];
   if (p && (p.h1 || p.seoTitle)) return p;
-  return idSource.pages[slug] ?? {};
+  const idP = idSource.pages?.[slug];
+  if (idP && (idP.h1 || idP.seoTitle)) return idP;
+  /* Fallback terakhir: registry statis (mencakup 8 halaman ekspansi god-mode) */
+  const reg = (PAGES_META as Record<string, any>)[slug];
+  if (reg && (reg.h1 || reg.seoTitle)) return reg;
+  return {};
 }
