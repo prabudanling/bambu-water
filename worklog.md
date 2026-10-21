@@ -106,3 +106,21 @@ Stage Summary:
 - 1 bug kritis pre-existing sitewide ditemukan & diperbaiki (artikel crash) — kualitas E2E kini menguji SEMUA tipe halaman
 - File baru (13): motion-primitives, command-palette, kalkulator-kesehatan, peta-situs, glossarium, perbandingan, lacak-pesanan, karier, kebijakan-privasi, syarat-ketentuan, manifest.ts, icon.tsx, apple-icon.tsx
 - Diubah (12): globals.css, layout.tsx, robots.ts, app-shell, navbar, footer, hero, pages-registry, i18n/context, article-page, cara-pemesanan, motion-primitives
+
+---
+Task ID: 1-2 (install + maksimalkan)
+Agent: Z.ai Code (main)
+Task: Clone GitHub prabudanling/bambu-water, install penuh, jalankan & verifikasi maksimal
+
+Work Log:
+- Clone repo ke /home/z/my-project/bambu-water (Next.js 16 + React 19 + Tailwind 4 + Prisma/SQLite + shadcn/ui, hash-routing 25 halaman, i18n 30 bahasa)
+- bun install: 827 paket sukses 4.4s
+- .env DATABASE_URL -> db/custom.db; prisma generate v6.19.2 + db push sukses
+- Kill server lama sisa sesi sebelumnya (PID 1194, EADDRINUSE port 3000) -> start fresh `bun run dev`
+- Verifikasi: HOME HTTP 200 (0.13s); API /api/contact POST success:true (tersimpan ke DB, id cmvik6tqa...); robots.txt 200; sitemap.xml 200 (25 URL); hero image 200
+- Browser E2E: 0 console error; 1 H1 + 12 section + 10 blok JSON-LD; hero render sempurna; #/faq title benar; #/en/... lang=en benar
+- eslint key files: CLEAN
+
+Stage Summary:
+- Tahap 1 (install) & 2 (setup+run) SELESAI MAKSIMAL — situs hidup di port 3000, full fungsional
+- Berikutnya (menunggu perintah user): tahap 3+ (UI smooth/animatif/cepat, skor 10/10 SEO, ratusan halaman & layanan)
