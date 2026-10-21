@@ -124,3 +124,16 @@ Work Log:
 Stage Summary:
 - Tahap 1 (install) & 2 (setup+run) SELESAI MAKSIMAL — situs hidup di port 3000, full fungsional
 - Berikutnya (menunggu perintah user): tahap 3+ (UI smooth/animatif/cepat, skor 10/10 SEO, ratusan halaman & layanan)
+
+---
+Task ID: FINAL (perintah user)
+Agent: Z.ai Code (main)
+Task: Buat roadmap 20 langkah penyempurnaan website — SIMPAN SAJA, JANGAN eksekusi
+
+Work Log:
+- Roadmap 20 item disimpan di /home/z/my-project/bambu-water/ROADMAP.md (Fase A UI/Performa 1-5, B SEO 10/10 6-10, C Ratusan Halaman 11-15, D Layanan & Bisnis 16-20)
+- Protokol lanjutan tertanam di file: kode "LANJUTKAN BWN-20" -> baca ROADMAP.md + worklog lalu eksekusi berurutan
+- TIDAK ada eksekusi dilakukan sesuai instruksi user
+
+Stage Summary:
+- Roadmap tersimpan permanen; eksekusi menunggu kode aktivasi dari user
