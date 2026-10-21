@@ -1,0 +1,33 @@
+{
+  "ui": {
+    "benefits": {
+      "ariaLabel": "Manfaat air bambu untuk kesehatan",
+      "eyebrow": "Manfaat & Terapi",
+      "title": "Warisan Penyembuhan",
+      "highlight": "Air Bambu",
+      "description": "Dipercaya tabib Nusantara selama berabad-abad, kini didukung kajian ilmiah internasional. Air bambu adalah pendamping alami menuju tubuh yang seimbang.",
+      "research": "Didukung Riset Ilmiah",
+      "researchSub": "Kami transparan mengutip sumber kredibel.",
+      "disclaimer": "* Air bambu Bambu Water Nusantara adalah minuman kesehatan alami dan pendamping terapi — bukan pengganti obat resep dokter. Konsultasikan kondisi kesehatan Anda dengan tenaga medis profesional.",
+      "sources": [
+        {
+          "title": "Journal of Medicinal Plant Research (2015)",
+          "detail": "Ekstrak bambu terdokumentasi memberi proteksi terhadap stres oksidatif, inflamasi, lipotoksisitas, kanker, dan penyakit kardiovaskular."
+        },
+        {
+          "title": "TIME — \u201cBamboo Water Is Now a Thing\u201d",
+          "detail": "Media internasional melaporkan air bambu sebagai fenomena minuman kesehatan global dengan efek antioksidan & antimikroba."
+        }
+      ]
+    },
+    "faq": {
+      "ariaLabel": "Pertanyaan yang sering diajukan",
+      "eyebrow": "FAQ",
+      "title": "Pertanyaan yang",
+      "highlight": "Sering Diajukan",
+      "description": "Semua yang perlu Anda tahu tentang air bambu, produk bambu, dan cara memesan.",
+      "moreAsk": "Masih ada pertanyaan?",
+      "moreCta": "Tanya langsung via WhatsApp"
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+ "ui": {
+  "common": {
+   "home": "Главная",
+   "learnMore": "Узнать больше",
+   "seeAll": "Посмотреть все",
+   "readMore": "Читать полностью",
+   "readArticle": "Читать статью",
+   "orderNow": "Заказать сейчас",
+   "chatWa": "Чат WhatsApp",
+   "fillForm": "Заполнить форму",
+   "backHome": "Вернуться на главную",
+   "updated": "Обновлено",
+   "minutes": "минут чтения",
+   "minRead": "мин",
+   "officialSite": "официальный сайт",
+   "notMedicalAdvice": "Естественная вспомогательная терапия — не заменяет медицинские консультации",
+   "legalPt": "Официальное юридическое лицо PT",
+   "languageLabel": "Язык",
+   "changeLanguage": "Сменить язык",
+   "copyright": "Все права защищены."
+  },
+  "nav": {
+   "openMenu": "Открыть навигационное меню",
+   "closeMenu": "Закрыть меню",
+   "orderCta": "Заказать сейчас",
+   "waCta": "WhatsApp",
+   "groups": {
+    "Beranda": "Главная",
+    "Kesehatan": "Здоровье",
+    "Artikel": "Статьи",
+    "Produk": "Продукты",
+    "Layanan": "Услуги",
+    "Tentang": "О нас"
+   }
+  },
+  "float": {
+   "title": "Нужна быстрая помощь?",
+   "desc": "Напишите нам сейчас — бесплатная консультация, быстрый ответ в рабочее время.",
+   "cta": "Начать чат",
+   "open": "Открыть виджет чата WhatsApp",
+   "close": "Закрыть виджет чата WhatsApp",
+   "waMessage": "Здравствуйте, Bambu Water Nusantara! Я хотел(а) бы задать вопрос о бамбуковой воде / бамбуковых стеблях."
+  },
+  "pageHero": {
+   "breadcrumbHome": "Главная",
+   "breadcrumbLabel": "Навигационная цепочка",
+   "updatedPrefix": "Обновлено"
+  },
+  "languageSwitcher": {
+   "label": "Язык",
+   "current": "Активный язык",
+   "choose": "Выберите язык — доступно 30 языков",
+   "search": "Поиск языка...",
+   "noResults": "Язык не найден",
+   "count": "30 языков"
+  },
+  "about": {
+   "ariaLabel": "О компании",
+   "eyebrow": "О нас — С 2007 года",
+   "title": "Пионер бамбуковой воды",
+   "highlight": "Крупнейший и первый в Индонезии",
+   "description": "С 2007 года мы несем традицию исцеления водой из бамбука Нусантары в современную эпоху — со стандартами гигиенического производства и национальной сетью дистрибуции по всей Индонезии.",
+   "imgAlt": "Поля устойчивых бамбуковых плантаций на зеленых холмах Индонезии, охраняемые PT Bambu Water Nusantara",
+   "landChip": "2,1 млн га бамбуковых земель в Индонезии",
+   "expLabel": "Опыт",
+   "expSince": "С 2007 года",
+   "expHighlight": "Крупнейший и первый",
+   "expYears": "в Индонезии — {years}+ лет обслуживания",
+   "narrLead": "родилась из веры в то, что Нусантара хранит самое простое сокровище исцеления:",
+   "narrEm": "вода, текущая внутри бамбука",
+   "narrAfter": "Веками традиционные целители собирали молодые побеги бамбука для снижения температуры, облегчения кашля и восстановления сил. Сегодня мы представляем эту мудрость со стандартами современного производства — дистиллированная опытными монахами и под наблюдением совета экспертов из различных областей, от устойчивого сбора до национальной доставки.",
+   "visionTitle": "Видение",
+   "visionText": "Стать ведущим поставщиком терапевтической бамбуковой воды в Юго-Восточной Азии и одновременно опорой индонезийской бамбуковой экономики.",
+   "missionTitle": "Миссия",
+   "missionText": "Menyediakan air bambu murni berkualitas farmasi, memasok bambu konstruksi nasional, dan mengangkat kesejahteraan petani bambu."
+  },
+  "science": {
+   "ariaLabel": "Kandungan nutrisi air bambu",
+   "eyebrow": "Kandungan Alami",
+   "title": "Ilmu di Balik",
+   "highlight": "Setiap Tetes",
+   "description": "Silika organik bambu termasuk yang tertinggi di alam — dipadukan flavonoid, klorofil, asam amino, dan elektrolit esensial.",
+   "imgAlt": "Segelas air bambu bening di atas batu alam dengan daun bambu segar — suasana tenang dan menyembuhkan",
+   "electrolyteLabel": "Kaya Elektrolit Alami",
+   "microTestLabel": "Diuji Mikrobiologi",
+   "cardTitle": "Profil Nutrisi Air Bambu",
+   "cardSub": "Indeks kekayaan relatif per komponen alami"
+  },
+  "reasons": {
+   "ariaLabel": "Rahasia awet muda kaisar China dan 10 alasan minum air bambu",
+   "badge": "Rahasia Kuno yang Nyaris Tergores Sejarah",
+   "title": "Rahasia Awet Muda",
+   "highlight": "Kaisar China",
+   "p1Lead": "Sejak ribuan tahun lalu, tabib istana Dinasti China menyimpan satu rahasia paling dijaga:",
+   "p1Strong": "sari bambu",
+   "p1Mid": "— elixir yang dipercaya menjaga awet muda kaisar dan para bangsawan. Terdokumentasi dalam pengobatan tradisional Tiongkok sebagai",
+   "p1Em": "\"Tian Zhu Li\"",
+   "p1Tail": "(天竹瀝), sari bambu disuling dari ruas bambu muda untuk meredakan panas, menyegarkan tubuh, dan merawat vitalitas sang penguasa.",
+   "p2Lead": "Namun seiring waktu, rahasia besar itu nyaris",
+   "p2Strong": "tergores sejarah",
+   "p2Tail": "— hanya diketahui segelintir pembantu istana dan tabib warisan. Kini rahasia kuno itu kembali: riset modern membuktikan kandungan silika organik tertinggi di alam dan antioksidan luar biasa dalam air bambu.",
+   "luckLine": "Jadilah orang yang beruntung — Anda kini tahu rahasia besar ini. 🌿",
+   "subheading": "10 Alasan Kenapa Anda",
+   "subheadingHighlight": "Harus Minum Air Bambu",
+   "subDesc": "Dari rahasia kuno hingga pembuktian ilmiah modern.",
+   "cta": "Mulai Ritual Sehat Anda",
+   "ctaMessage": "Halo! Saya ingin mencoba air bambu — rahasia awet muda kaisar China 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "Testimoni pelanggan",
+   "eyebrow": "Cerita Mereka",
+   "title": "Kepercayaan yang",
+   "highlight": "Mengalir",
+   "description": "Dari dapur keluarga hingga proyek konstruksi nasional — inilah pengalaman pelanggan Bambu Water Nusantara.",
+   "ratingAria": "Rating {rating} dari 5",
+   "prevAria": "Testimoni sebelumnya",
+   "nextAria": "Testimoni berikutnya",
+   "dotAria": "Tampilkan testimoni {n}"
+  },
+  "leadership": {
+   "ariaLabel": "Struktur pimpinan perusahaan",
+   "eyebrow": "Tata Kelola",
+   "title": "Tim Pimpinan",
+   "highlight": "Berpengalaman",
+   "description": "Dewan pendiri, komisaris, direksi, hingga divisi manager operasional — kombinasi pengalaman bisnis, dedikasi kesehatan masyarakat, dan standar mutu modern.",
+   "pendiriTitle": "Dewan Pendiri",
+   "komisarisTitle": "Dewan Komisaris",
+   "direkturTitle": "Dewan Direksi",
+   "managersTitle": "Divisi Manager Operasional",
+   "sharesLabel": "Saham"
+  },
+  "benefits": {
+   "ariaLabel": "Manfaat air bambu untuk kesehatan",
+   "eyebrow": "Manfaat & Terapi",
+   "title": "Warisan Penyembuhan",
+   "highlight": "Air Bambu",
+   "description": "Dipercaya tabib Nusantara selama berabad-abad, kini didukung kajian ilmiah internasional. Air bambu adalah pendamping alami menuju tubuh yang seimbang.",
+   "research": "Didukung Riset Ilmiah",
+   "researchSub": "Kami transparan mengutip sumber kredibel.",
+   "disclaimer": "* Air bambu Bambu Water Nusantara adalah minuman kesehatan alami dan pendamping terapi — bukan pengganti obat resep dokter. Konsultasikan kondisi kesehatan Anda dengan tenaga medis profesional.",
+   "sources": [
+    {
+     "title": "Journal of Medicinal Plant Research (2015)",
+     "detail": "Ekstrak bambu terdokumentasi memberi proteksi terhadap stres oksidatif, inflamasi, lipotoksisitas, kanker, dan penyakit kardiovaskular."
+    },
+    {
+     "title": "TIME — “Bamboo Water Is Now a Thing”",
+     "detail": "Media internasional melaporkan air bambu sebagai fenomena minuman kesehatan global dengan efek antioksidan & antimikroba."
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "Pertanyaan yang sering diajukan",
+   "eyebrow": "FAQ",
+   "title": "Pertanyaan yang",
+   "highlight": "Sering Diajukan",
+   "description": "Semua yang perlu Anda tahu tentang air bambu, produk bambu, dan cara memesan.",
+   "moreAsk": "Masih ada pertanyaan?",
+   "moreCta": "Tanya langsung via WhatsApp"
+  },
+  "contact": {
+   "ariaLabel": "Kontak dan pemesanan",
+   "eyebrow": "Hubungi Kami",
+   "title": "Pesan Sekarang,",
+   "highlight": "Kirim ke Mana Saja",
+   "description": "Ceritakan kebutuhan Anda — tim kami akan membalas dengan penawaran terbaik dalam 1×24 jam kerja.",
+   "officeTitle": "Kantor Pemasaran",
+   "phoneLabel": "Telepon / WhatsApp",
+   "emailLabel": "Email",
+   "addressLabel": "Alamat",
+   "hoursLabel": "Jam Operasional",
+   "branchesNote": "Branch 2: Mangkubumi, Tasikmalaya • Branch 3: Cihaurgeulis, Bandung",
+   "guarantees": [
+    {
+     "title": "Balasan < 24 Jam",
+     "text": "Respons cepat tim kami"
+    },
+    {
+     "title": "Dokumen Lengkap",
+     "text": "Untuk tender & pengadaan"
+    },
+    {
+     "title": "Kemasan Aman",
+     "text": "Standar ekspedisi nasional"
+    },
+    {
+     "title": "Garansi Mutu",
+     "text": "Retur bila tidak sesuai"
+    }
+   ],
+   "formTitle": "Formulir Pemesanan & Konsultasi",
+   "formSubtitle": "Isi kebutuhan Anda — retail maupun jumlah besar (grosir/kargo).",
+   "orderLegend": "Saya ingin memesan",
+   "orderTypeLabels": [
+    "Air Bambu (Retail)",
+    "Bambu Batang",
+    "Grosir / Reseller",
+    "Korporat / Proyek"
+   ],
+   "nameLabel": "Nama Lengkap",
+   "namePlaceholder": "cth. Ahmad Setiawan",
+   "phonePlaceholder": "cth. 0812-3456-7890",
+   "emailPlaceholder": "nama@email.com",
+   "cityLabel": "Kota Tujuan Pengiriman",
+   "cityPlaceholder": "Pilih kota",
+   "cityOther": "Kota lainnya",
+   "messageLabel": "Detail Kebutuhan",
+   "messagePlaceholder": "cth. Butuh air bambu suling 50 galon/bulan untuk kafe di Bandung, kirim tiap Senin.",
+   "submitting": "Mengirim…",
+   "submitCta": "Kirim Permintaan Penawaran",
+   "submitNote": "Dengan mengirim formulir, Anda setuju dihubungi oleh tim kami.",
+   "sentTitle": "Pesan Anda Terkirim!",
+   "sentThanks": "Terima kasih,",
+   "sentBody": "Tim Bambu Water Nusantara akan menghubungi Anda melalui telepon/WhatsApp dalam 1×24 jam kerja.",
+   "sendAnother": "Kirim Pesan Lain",
+   "toastIncompleteTitle": "Data belum lengkap",
+   "toastIncompleteDesc": "Mohon isi nama, nomor telepon, dan pesan Anda.",
+   "errorFallback": "Gagal mengirim",
+   "toastSuccessTitle": "Pesan terkirim! 🌿",
+   "toastSuccessDesc": "Terima kasih! Tim kami akan menghubungi Anda dalam 1×24 jam kerja.",
+   "toastFailTitle": "Gagal mengirim pesan",
+   "toastFailDesc": "Silakan coba lagi atau hubungi WhatsApp kami."
+  },
+  "quoteForm": {
+   "ariaLabel": "Formulir pemesanan air bambu",
+   "title": "Formulir Pemesanan & Konsultasi",
+   "subtitle": "Gratis, tanpa komitmen — balasan dalam 1×24 jam kerja.",
+   "nameLabel": "Nama Lengkap",
+   "namePlaceholder": "cth. Budi Santoso",
+   "phoneLabel": "No. WhatsApp / Telepon",
+   "phonePlaceholder": "cth. 0812 3456 7890",
+   "emailLabel": "Email (opsional)",
+   "emailPlaceholder": "nama@email.com",
+   "cityLabel": "Kota Pengiriman",
+   "cityPlaceholder": "cth. Surabaya",
+   "needTypeLabel": "Jenis Kebutuhan",
+   "orderTypeLabels": [
+    "Air Bambu (Retail)",
+    "Bambu Batang",
+    "Grosir / Reseller",
+    "Korporat / Proyek"
+   ],
+   "messageLabel": "Pesan / Kebutuhan",
+   "messagePlaceholder": "cth. Saya ingin pesan galon air bambu suling 19L sebanyak 10 galon ke Surabaya...",
+   "submitting": "Mengirim...",
+   "submitCta": "Kirim Permintaan",
+   "privacyNote": "Data Anda aman & hanya digunakan untuk memproses pesanan.",
+   "sentTitle": "Terima Kasih",
+   "sentBody": "Permintaan Anda sudah kami terima. Tim Bambu Water Nusantara akan menghubungi Anda melalui WhatsApp atau telepon dalam 1×24 jam kerja.",
+   "waConfirmCta": "Konfirmasi via WhatsApp",
+   "waMessage": "Halo, saya {name} baru saja mengirim permintaan ({type}). Mohon diproses ya!",
+   "toastIncompleteTitle": "Data belum lengkap",
+   "toastIncompleteDesc": "Mohon isi nama, nomor telepon/WhatsApp, dan pesan Anda.",
+   "errorFallback": "Gagal mengirim",
+   "toastSuccessTitle": "Permintaan terkirim! 🌿",
+   "toastSuccessDesc": "Terima kasih! Tim kami akan menghubungi Anda dalam 1×24 jam kerja.",
+   "toastFailTitle": "Gagal mengirim",
+   "toastFailDesc": "Silakan coba lagi atau hubungi via WhatsApp."
+  },
+  "footer": {
+   "ariaLabel": "Footer situs",
+   "ctaTitle": "Mulai Hidup Sehat dengan",
+   "ctaHighlight": "Sari Bambu",
+   "ctaDesc": "Pesan air bambu untuk keluarga Anda, atau jadikan mitra distribusi kami di kota Anda.",
+   "ctaConsult": "Konsultasi gratis via WhatsApp",
+   "waCta": "WhatsApp",
+   "ctaForm": "Formulir Pemesanan",
+   "waMessage": "Halo Bambu Water Nusantara! Saya ingin konsultasi gratis tentang air bambu / bambu batang.",
+   "columns": {
+    "explore": "Jelajahi",
+    "health": "Kesehatan",
+    "products": "Produk & Layanan",
+    "articles": "Artikel Kesehatan"
+   },
+   "navAria": "Navigasi footer",
+   "articleLinks": [
+    "Semua Artikel",
+    "Air Bambu & Gula Darah",
+    "Air Bambu & Batu Ginjal",
+    "Air Bambu & Kolesterol",
+    "Detoksifikasi Alami",
+    "Tulang & Sendi",
+    "Kecantikan & Kulit"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "Sejarah Air Bambu"
+   },
+   "socialLabels": [
+    "Instagram Bambu Water Nusantara",
+    "Facebook Bambu Water Nusantara",
+    "LinkedIn Bambu Water Nusantara"
+   ],
+   "phoneNote": "telepon / WhatsApp",
+   "fullAddressNote": "alamat lengkap di halaman Kontak"
+  },
+  "hero": {
+   "ariaLabel": "Beranda Bambu Water Nusantara",
+   "imageAlt": "Hutan bambu Indonesia saat fajar — sinar keemasan menembus kabut dan tetesan air sadapan menetes dari ruas bambu muda",
+   "badge": "Terbesar & Pertama di Indonesia",
+   "badgeSince": "Sejak 2007",
+   "titleLine1": "Sari Bambu Murni,",
+   "titleLine2": "Kesehatan dari Alam",
+   "titleLine3": "Nusantara",
+   "subtitle": "Air sadapan bambu untuk terapi kesehatan alami — kaya silika organik, flavonoid, dan mineral esensial. Kami juga melayani",
+   "subtitleHighlight": "distribusi air bambu & bambu berkualitas",
+   "subtitleAfter": "dalam jumlah besar ke seluruh Indonesia.",
+   "ctaPrimary": "Jelajahi Produk",
+   "ctaSecondary": "Pesan Grosir / Kargo",
+   "trust": [
+    "Suling bertahap higienis",
+    "100% alami tanpa pengawet",
+    "Kirim ke 38 provinsi"
+   ],
+   "scrollAriaLabel": "Gulir ke bawah — Tentang kami"
+  },
+  "stats": {
+   "millionSuffix": " jt",
+   "thousandSuffix": "rb"
+  },
+  "cta": {
+   "ariaLabel": "Ajakan bertindak",
+   "title": "Siap Merasakan Manfaat Air Bambu?",
+   "description": "Konsultasi gratis dengan tim kami — untuk kebutuhan terapi keluarga, grosir, hingga kargo bambu massal ke kota Anda.",
+   "legal": "Badan hukum resmi",
+   "chatCta": "Chat WhatsApp",
+   "formCta": "Isi Formulir"
+  },
+  "productTemplate": {
+   "packaging": "Pilihan Kemasan",
+   "orderWa": "Pesan via WhatsApp",
+   "viewPrice": "Lihat Harga",
+   "usesEyebrow": "Untuk Apa",
+   "usesTitle": "Kegunaan &",
+   "usesHighlight": "Manfaatnya",
+   "guideTitle": "Panduan",
+   "guideHighlight": "Penggunaan",
+   "faqTitle": "Pertanyaan",
+   "faqHighlight": "Umum",
+   "safetyNote": "Produk food-grade, diproses higienis, tanpa pengawet.",
+   "relatedLabel": "Produk Lainnya"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "Beranda",
+   "seoTitle": "Bambu Water Nusantara — Air Bambu Terapi Pengobatan Alami & Distribusi Bambu Se-Indonesia",
+   "metaDescription": "Produsen air bambu suling & air bambu tabib untuk pengobatan alami. Distribusi bambu berkualitas massal ke seluruh kota Indonesia. WA 0813-1651-6524.",
+   "h1": "Sari Bambu Murni untuk Kesehatan Sejak Dalam",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "Air sadapan bambu pilihan untuk pengobatan & terapi kesehatan alami, serta bambu berkualitas dalam jumlah besar — dikirim ke seluruh Indonesia.",
+   "menuDesc": ""
+  },
+  "tentang-kami": {
+   "navLabel": "Tentang Kami",
+   "seoTitle": "Tentang Kami — PT Bambu Water Nusantara, Badan Hukum Resmi Terpercaya",
+   "metaDescription": "Kenali PT Bambu Water Nusantara: profil perusahaan, visi misi, legalitas akta pendirian, susunan pimpinan, dan komitmen kualitas kami.",
+   "h1": "Tentang PT Bambu Water Nusantara",
+   "eyebrow": "Profil Perusahaan",
+   "intro": "Perusahaan badan hukum resmi yang menghadirkan air bambu terapi berkualitas dan bambu premium Nusantara — dari hutan rakyat terkurasi ke rumah Anda.",
+   "menuDesc": "Profil, visi misi & legalitas"
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "Apa Itu Air Bambu",
+   "seoTitle": "Apa Itu Air Bambu? Panduan Lengkap Air Sadapan Bambu & Manfaatnya",
+   "metaDescription": "Pahami apa itu air bambu (air tuak bambu): asal usul sadapan ruas bambu muda, cara pengambilan teknik mata tunas, jenis, hingga proses distilasi.",
+   "h1": "Apa Itu Air Bambu?",
+   "eyebrow": "Panduan Lengkap",
+   "intro": "Mengenal air sadapan bambu — harta alam Nusantara yang kaya silika dan antioksidan, dari proses terbentuknya hingga sampai ke gelas Anda.",
+   "menuDesc": "Pengertian, asal usul & jenis air bambu"
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "Manfaat Air Bambu",
+   "seoTitle": "8 Manfaat Air Bambu untuk Kesehatan & Pengobatan Alami Terbukti",
+   "metaDescription": "8 manfaat air bambu untuk kesehatan: turunkan demam, legakan batuk, jaga jantung, gula darah, pencernaan, imun, kulit, hingga nyeri haid.",
+   "h1": "8 Manfaat Air Bambu untuk Kesehatan",
+   "eyebrow": "Manfaat & Khasiat",
+   "intro": "Dari tradisi tabib Nusantara hingga kajian ilmiah modern — manfaat lengkap air bambu untuk tubuh, dari dalam hingga luar.",
+   "menuDesc": "8 manfaat utama untuk tubuh"
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "Kandungan Nutrisi",
+   "seoTitle": "Kandungan Nutrisi Air Bambu — Silika Organik Tertinggi & Antioksidan",
+   "metaDescription": "Analisis kandungan air bambu: silika organik hingga 70%, flavonoid, polifenol, klorofil, asam amino, dan mineral K-Ca-Mg untuk tubuh.",
+   "h1": "Kandungan Nutrisi & Sains Air Bambu",
+   "eyebrow": "Analisis Ilmiah",
+   "intro": "Mengapa air bambu disebut \"mineral air paling lengkap dari alam\"? Bedah kandungan berdasarkan riset ilmiah terkini.",
+   "menuDesc": "Silika, flavonoid & mineral alami"
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "Untuk Pengobatan",
+   "seoTitle": "Air Bambu untuk Pengobatan Tradisional & Terapi Komplementer",
+   "metaDescription": "Peran air bambu dalam pengobatan tradisional Nusantara: demam, batuk, diabetes, kolesterol, hingga nyeri haid — panduan aman & tepat.",
+   "h1": "Air Bambu untuk Pengobatan Tradisional",
+   "eyebrow": "Terapi Komplementer",
+   "intro": "Warisan pengobatan leluhur yang kini didukung riset — cara tepat memanfaatkan air bambu sebagai pendamping terapi kesehatan.",
+   "menuDesc": "Terapi tradisional & komplementer"
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "Air Bambu untuk Gula Darah & Diabetes",
+   "seoTitle": "Air Bambu untuk Gula Darah & Diabetes — Fakta, Riset, dan Cara Aman",
+   "metaDescription": "Apakah air bambu membantu menstabilkan gula darah penderita diabetes? Simak fakta ilmiah, tradisi, cara konsumsi aman, dan batasannya.",
+   "h1": "Air Bambu untuk Gula Darah & Diabetes",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Jutaan orang Indonesia hidup dengan diabetes. Bisakah air bambu menjadi pendamping minuman yang membantu? Ini jawaban berdasarkan riset.",
+   "menuDesc": "Pendamping penderita diabetes"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "Air Bambu untuk Batu Ginjal & Kesehatan Ginjal",
+   "seoTitle": "Air Bambu untuk Batu Ginjal & Kesehatan Ginjal — Manfaat & Tips Aman",
+   "metaDescription": "Air bambu sebagai minuman pendukung kesehatan ginjal: hidrasi optimal, mineral alami, dan tradisi melancarkan buang air kecil secara aman.",
+   "h1": "Air Bambu untuk Batu Ginjal & Kesehatan Ginjal",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Ginjal adalah filter tubuh. Beginilah cara air bambu membantu menjaga ginjal tetap bersih dan bekerja optimal.",
+   "menuDesc": "Menjaga ginjal tetap bersih"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "Air Bambu untuk Kolesterol & Kesehatan Jantung",
+   "seoTitle": "Air Bambu untuk Kolesterol & Kesehatan Jantung — Panduan Lengkap",
+   "metaDescription": "Flavonoid & polifenol air bambu membantu melawan kolesterol jahat dan melindungi jantung. Simak mekanisme, riset, dan cara konsumsinya.",
+   "h1": "Air Bambu untuk Kolesterol & Kesehatan Jantung",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Penyakit kardiovaskular adalah pembunuh nomor satu. Bagaimana antioksidan air bambu membantu melindungi jantung dan pembuluh darah?",
+   "menuDesc": "Melindungi jantung & pembuluh darah"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "Detoksifikasi Alami dengan Air Bambu",
+   "seoTitle": "Detoksifikasi Alami dengan Air Bambu — Program 7 Hari Penuh Energi",
+   "metaDescription": "Program detoksifikasi alami 7 hari dengan air bambu: melancarkan pencernaan, membuang toksin, dan memulihkan energi tubuh secara lembut.",
+   "h1": "Detoksifikasi Alami dengan Air Bambu",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Tubuh menumpuk toksin setiap hari dari makanan, polusi, dan stres. Air bambu menawarkan cara detoks yang lembut dan menyegarkan.",
+   "menuDesc": "Program detoks 7 hari"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "Silika Air Bambu untuk Tulang & Sendi",
+   "seoTitle": "Silika Air Bambu untuk Tulang & Sendi — Preventif Osteoporosis Alami",
+   "metaDescription": "Silika organik air bambu — tertinggi di alam — berperan penting dalam pembentukan tulang, menjaga sendi, dan mencegah osteoporosis.",
+   "h1": "Silika Air Bambu untuk Tulang & Sendi",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Kalsium bukan satu-satunya kunci tulang kuat. Kenali peran silika organik — dan mengapa bambu adalah sumbernya yang terbaik.",
+   "menuDesc": "Silika untuk kepadatan tulang"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "Air Bambu untuk Kecantikan Kulit, Rambut & Kuku",
+   "seoTitle": "Air Bambu untuk Kecantikan — Kulit Kenyal, Rambut & Kuku Kuat",
+   "metaDescription": "Rahasia kulit kenyal dari alam: silika air bambu mendukung produksi kolagen untuk kulit, rambut, dan kuku. Beauty from within alami.",
+   "h1": "Air Bambu untuk Kecantikan Kulit, Rambut & Kuku",
+   "eyebrow": "Artikel Kesehatan",
+   "intro": "Kecantikan sejati dimulai dari dalam. Bagaimana silika dan antioksidan air bambu bekerja sebagai \"kolagen alami\" dari alam?",
+   "menuDesc": "Kolagen alami dari dalam"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "Sejarah & Tradisi Air Bambu Nusantara",
+   "seoTitle": "Sejarah Air Bambu — Warisan Pengobatan Tradisional Nusantara",
+   "metaDescription": "Menelusuri sejarah air bambu: dari tradisi tabib Sunda & Jawa, tamoe barang bamboo Tiongkok, hingga tren minuman kesehatan dunia saat ini.",
+   "h1": "Sejarah & Tradisi Air Bambu Nusantara",
+   "eyebrow": "Artikel Budaya",
+   "intro": "Berabad-abad sebelum jadi tren dunia, air bambu sudah menjadi rahasia penyembuhan leluhur Nusantara. Inilah perjalanannya.",
+   "menuDesc": "Warisan tabib Nusantara"
+  },
+  "air-bambu-suling": {
+   "navLabel": "Air Bambu Suling",
+   "seoTitle": "Air Bambu Suling Premium — Minuman Terapi Harian 600ml–19L",
+   "metaDescription": "Air bambu suling premium: sadapan bambu muda dimurnikan dengan distilasi bertahap. Botol 600ml, 1,5L, galon 19L hingga drum 30L grosir.",
+   "h1": "Air Bambu Suling Premium",
+   "eyebrow": "Produk Unggulan",
+   "intro": "Sari sadapan bambu muda yang dimurnikan dengan distilasi bertahap — mineral & silika alaminya terjaga, keamanannya terjamin.",
+   "menuDesc": "Minuman terapi harian premium"
+  },
+  "air-bambu-tabib": {
+   "navLabel": "Air Bambu Tabib",
+   "seoTitle": "Air Bambu Tabib — Sadapan Mentah Segar untuk Terapi & Pengobatan",
+   "metaDescription": "Air Bambu Tabib: sadapan mentah segar langsung dari ruas bambu muda, dipanen teknik mata tunas untuk terapis, tabib & praktik pengobatan.",
+   "h1": "Air Bambu Tabib — Sadapan Mentah untuk Terapi",
+   "eyebrow": "Produk Terapi",
+   "intro": "Air sadapan murni sebagaimana dikenal tradisi tabib Nusantara — dipanen segar per pesanan dengan teknik mata tunas.",
+   "menuDesc": "Sadapan mentah segar untuk terapi"
+  },
+  "bambu-berkualitas": {
+   "navLabel": "Bambu Berkualitas",
+   "seoTitle": "Bambu Berkualitas Massal — Petung, Wulung, Apus, Ori Se-Indonesia",
+   "metaDescription": "Bambu berkualitas pilihan umur 3+ tahun: Petung konstruksi, Wulung premium, Apus anyaman, Ori rangka. Per batang hingga per truk ke seluruh Indonesia.",
+   "h1": "Bambu Berkualitas dalam Jumlah Besar",
+   "eyebrow": "Produk Massal",
+   "intro": "Petung, Wulung, Apus, dan Ori — terseleksi dari hutan rakyat terkurasi, siap kirim per batang hingga per truk ke seluruh Indonesia.",
+   "menuDesc": "Petung, Wulung, Apus, Ori massal"
+  },
+  "proses-produksi": {
+   "navLabel": "Proses Produksi",
+   "seoTitle": "Proses Produksi & Distilasi Air Bambu — Standar Higienis BWN",
+   "metaDescription": "4 tahap produksi air bambu BWN: panen berkelanjutan, sadapan mata tunas, distilasi & uji mutu mikrobiologi, hingga pengemasan food-grade.",
+   "h1": "Proses Produksi & Distilasi",
+   "eyebrow": "Standar Mutu",
+   "intro": "Dari rumpun bambu lestari hingga kemasan food-grade — transparansi penuh bagaimana kami menghasilkan air bambu berkualitas.",
+   "menuDesc": "Panen, sadapan, distilasi & uji mutu"
+  },
+  "pengiriman-massal": {
+   "navLabel": "Pengiriman Massal",
+   "seoTitle": "Pengiriman Massal Air Bambu & Bambu Batang ke Seluruh Indonesia",
+   "metaDescription": "Layanan pengiriman jumlah besar: jerigen, drum, hingga kargo truk bambu batang. Reguler 1-3 hari, kargo antar pulau, ekspres udara.",
+   "h1": "Pengiriman Massal ke Seluruh Indonesia",
+   "eyebrow": "Layanan Distribusi",
+   "intro": "Volume besar bukan masalah — jerigen, drum, ikat bambu hingga kargo truk penuh, kami antar ke 38 provinsi dengan packing aman.",
+   "menuDesc": "Kargo darat, laut & udara"
+  },
+  "jangkauan-kota": {
+   "navLabel": "Jangkauan Kota",
+   "seoTitle": "Jangkauan Kota Pengiriman — 38 Provinsi Se-Indonesia | BWN",
+   "metaDescription": "Kami mengirim air bambu & bambu batang ke kota-kota seluruh Indonesia: Jakarta, Bandung, Surabaya, Medan, Makassar hingga Jayapura.",
+   "h1": "Jangkauan Kota Se-Indonesia",
+   "eyebrow": "Cakupan Wilayah",
+   "intro": "38 provinsi, puluhan kota, satu jaringan distribusi terpercaya. Temukan kota Anda dan mulai pesan hari ini.",
+   "menuDesc": "38 provinsi se-Indonesia"
+  },
+  "harga-paket": {
+   "navLabel": "Harga & Paket",
+   "seoTitle": "Harga & Paket Air Bambu dan Bambu Batang — Retail hingga Grosir",
+   "metaDescription": "Daftar harga air bambu suling, air bambu tabib, dan bambu batang (Petung, Wulung, Apus, Ori) — retail, grosir, dan kargo korporat.",
+   "h1": "Harga & Paket",
+   "eyebrow": "Transparan & Terjangkau",
+   "intro": "Harga jelas tanpa biaya tersembunyi — dari botol satuan untuk keluarga hingga kargo truk untuk distributor dan proyek.",
+   "menuDesc": "Retail, grosir & korporat"
+  },
+  "cara-pemesanan": {
+   "navLabel": "Cara Pemesanan",
+   "seoTitle": "Cara Pemesanan Air Bambu & Bambu Batang — 4 Langkah Mudah",
+   "metaDescription": "Cara pesan air bambu & bambu batang BWN: pilih produk, konfirmasi via WhatsApp 0813-1651-6524, pembayaran aman, pengiriman se-Indonesia.",
+   "h1": "Cara Pemesanan Mudah & Cepat",
+   "eyebrow": "Panduan Order",
+   "intro": "Empat langkah sederhana dari memilih produk hingga air bambu tiba di depan pintu Anda — di mana pun di Indonesia.",
+   "menuDesc": "4 langkah mudah memesan"
+  },
+  "artikel": {
+   "navLabel": "Semua Artikel",
+   "seoTitle": "Artikel & Pengetahuan Air Bambu — Pusat Informasi Kesehatan BWN",
+   "metaDescription": "Kumpulan artikel kesehatan air bambu: diabetes, batu ginjal, kolesterol, detoks, tulang, kecantikan, hingga sejarah tradisi Nusantara.",
+   "h1": "Pusat Pengetahuan Air Bambu",
+   "eyebrow": "Blog & Artikel",
+   "intro": "Semua yang perlu Anda tahu tentang air bambu — dikurasi dari riset ilmiah dan kearifan tradisional Nusantara.",
+   "menuDesc": "Pusat pengetahuan air bambu"
+  },
+  "testimoni": {
+   "navLabel": "Testimoni",
+   "seoTitle": "Testimoni Pelanggan — Cerita Nyata Manfaat Air Bambu BWN",
+   "metaDescription": "Cerita nyata pelanggan Bambu Water Nusantara: keluarga sehat, terapis yang mempercayai, dan mitra distributor di seluruh Indonesia.",
+   "h1": "Testimoni Pelanggan Kami",
+   "eyebrow": "Cerita Nyata",
+   "intro": "Dari dapur keluarga hingga klinik terapis — inilah cerita mereka yang telah merasakan manfaat air bambu BWN.",
+   "menuDesc": "Cerita nyata pelanggan"
+  },
+  "faq": {
+   "navLabel": "FAQ",
+   "seoTitle": "FAQ — Pertanyaan Umum Seputar Air Bambu & Layanan BWN",
+   "metaDescription": "Jawaban lengkap pertanyaan umum: apa itu air bambu, keamanan harian, perbedaan produk, cara pesan grosir, pengiriman, dan legalitas perusahaan.",
+   "h1": "Pertanyaan yang Sering Diajukan",
+   "eyebrow": "Bantuan & Info",
+   "intro": "Semua pertanyaan tentang air bambu, produk, pemesanan, dan pengiriman — dijawab lengkap dalam satu halaman.",
+   "menuDesc": "Pertanyaan yang sering diajukan"
+  },
+  "kontak": {
+   "navLabel": "Kontak",
+   "seoTitle": "Kontak & Pemesanan — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "Hubungi PT Bambu Water Nusantara: WhatsApp 0813-1651-6524, email, formulir pemesanan. Konsultasi gratis untuk kebutuhan terapi & grosir.",
+   "h1": "Hubungi Kami — Konsultasi Gratis",
+   "eyebrow": "Kontak & Pemesanan",
+   "intro": "Tim kami siap membantu kebutuhan terapi keluarga hingga kontrak distribusi massal. Balasan cepat di jam kerja.",
+   "menuDesc": ""
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "air-bambu-pengobatan": {
+      "s": {
+        "p1_a": "Dalam khazanah",
+        "p1_strong1": "pengobatan tradisional Nusantara",
+        "p1_b": ", air bambu dikenal sebagai",
+        "p1_em": "\"air kehidupan\"",
+        "p1_c": "— disarankan tabib untuk meredakan demam, melapangkan napas, melancarkan pencernaan, hingga mendampingi program penurunan gula darah dan kolesterol. Tradisi ini kini diperkaya bukti ilmiah: kajian 2015 (Journal of Medicinal Plant Research) mencatat ekstrak bambu memiliki efek",
+        "p1_strong2": "antioksidan, anti-inflamasi, dan proteksi kardiovaskular",
+        "principle_strong": "Prinsip kami:",
+        "principle_a": "air bambu adalah",
+        "principle_strong2": "terapi komplementer pendamping",
+        "principle_b": "— mendukung, bukan menggantikan pengobatan medis. Selalu konsultasikan dengan dokter atau tabib Anda.",
+        "therapy_eyebrow": "Aplikasi Terapi",
+        "therapy_title": "Untuk Siapa &",
+        "therapy_highlight": "Untuk Apa?",
+        "therapy_uses": [
+          { "title": "Demam & Panas Dalam", "text": "Sifat mendinginkan alami air bambu dipakai tabib Nusantara menurunkan suhu tubuh — diminum hangat perlahan.", "audience": "Keluarga" },
+          { "title": "Batuk & Dahak", "text": "Membantu melapangkan saluran napas dan melunakkan dahak secara alami tanpa kafein.", "audience": "Keluarga" },
+          { "title": "Pendamping Diabetes & Kolesterol", "text": "Dikonsumsi sebagai minuman rendah gula pengganti minuman manis, dalam program pola hidup sehat penderita.", "audience": "Dengan pengawasan medis" },
+          { "title": "Pemulihan & Daya Tahan", "text": "Mineral, asam amino, dan antioksidan mendukung pemulihan tubuh pasien sakit atau pasca operasi (sesuai anjuran).", "audience": "Pasien & lansia" }
+        ],
+        "pract_eyebrow": "Mitra Praktisi",
+        "pract_title": "Dipercaya Para",
+        "pract_highlight": "Penyembuh Tradisional",
+        "pract_desc": "Sejak 2007, tabib dan praktisi di berbagai kota mempercayakan pasokan air bambu kepada kami.",
+        "practitioners": [
+          { "title": "Tabib & Praktisi Tradisional", "text": "Air Bambu Tabib (sadapan mentah) untuk praktik pengobatan komplementer sesuai tradisi." },
+          { "title": "Klinik Terapi & Spa", "text": "Pasokan rutin air bambu suling untuk program detoks & terapi minum klien." },
+          { "title": "Komunitas Herbal & Edukasi", "text": "Materi edukasi + sampel untuk sosialisasi pengobatan tradisional di komunitas." },
+          { "title": "Rumah Sehat & Panti", "text": "Kemitraan pasokan minuman sehat alami bagi penghuni program pemulihan." }
+        ],
+        "quality_eyebrow": "Standar Terapi",
+        "quality_title": "Kualitas yang Layak untuk",
+        "quality_highlight": "Penyembuhan",
+        "cta_title": "Butuh Pasokan Rutin untuk Praktik Anda?",
+        "cta_desc": "Harga khusus tabib, terapis & klinik — kontrak bulanan fleksibel dengan pengiriman terjadwal.",
+        "cta_wa": "Halo! Saya tabib/terapis dan ingin memesan Air Bambu Tabib secara rutin."
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pages": {
+    "kandungan-nutrisi": {
+      "s": {
+        "science_eyebrow": "Analisis Ilmiah",
+        "science_title": "Profil Nutrisi",
+        "science_highlight": "Air Bambu",
+        "science_desc": "Visualisasi kandungan berdasarkan kajian ekstrak bambu (Journal of Medicinal Plant Research, 2015).",
+        "components_eyebrow": "Bedah Komponen",
+        "components_title": "Apa yang Ada di Dalam",
+        "components_highlight": "Setiap Gelas?",
+        "components": [
+          { "name": "Silika Organik (Si)", "level": "Tertinggi di alam — hingga ~70%", "role": "Membangun kolagen, kepadatan tulang, kekuatan rambut & kuku, serta elastisitas pembuluh darah." },
+          { "name": "Flavonoid & Polifenol", "level": "Antioksidan utama", "role": "Melawan radikal bebas, meredakan peradangan, dan melindungi jantung serta pembuluh darah." },
+          { "name": "Klorofil Alami", "level": "Detoks alami", "role": "Mendukung pembersihan tubuh, regenerasi sel, dan menetralkan bau badan dari dalam." },
+          { "name": "Asam Amino Esensial", "level": "Blok bangun protein", "role": "Mendukung perbaikan jaringan, enzim pencernaan, dan energi harian." },
+          { "name": "Kalium, Kalsium & Magnesium", "level": "Elektrolit alami", "role": "Menyeimbangkan cairan tubuh, menjaga fungsi otot & saraf, serta kesehatan tulang." }
+        ],
+        "research_eyebrow": "Dukungan Riset",
+        "research_title": "Sains di Balik",
+        "research_highlight": "Sari Bambu",
+        "research": [
+          { "title": "Kajian 2015 — J. Medicinal Plant Research", "text": "Ekstrak bambu terbukti memberi efek proteksi oksidatif, anti-inflamasi, dan melindungi kardiovaskular pada model uji (PMC4659479)." },
+          { "title": "Silika Tertinggi di Alam", "text": "Ekstrak daun bambu (Bambusa vulgaris) mencatat kandungan silika organik hingga 70% — tertinggi di antara tanaman yang dikaji." },
+          { "title": "TIME 2015 — Tren Dunia", "text": "\"Bamboo Water Is Now a Thing\" — media global menyoroti bambu sebagai sumber minuman fungsional masa depan." }
+        ],
+        "disclaimer": "*Nilai kandungan bersifat indikatif berdasarkan publikasi riset ekstrak bambu dan dapat bervariasi antar panen. Air bambu bukan obat — konsultasikan kondisi kesehatan Anda dengan tenaga medis.",
+        "cta_title": "Mineral Alami, Terverifikasi Higienis",
+        "cta_desc": "Setiap batch air bambu BWN melewati distilasi bertahap dan uji mutu sebelum dikirim ke Anda.",
+        "cta_wa": "Halo! Saya ingin tahu detail kandungan & uji mutu air bambu BWN."
+      }
+    }
+  }
+}

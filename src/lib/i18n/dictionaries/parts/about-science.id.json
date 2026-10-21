@@ -1,0 +1,79 @@
+{
+  "ui": {
+    "about": {
+      "ariaLabel": "Tentang perusahaan",
+      "eyebrow": "Tentang Kami — Sejak 2007",
+      "title": "Pionir Air Bambu",
+      "highlight": "Terbesar & Pertama di Indonesia",
+      "description": "Sejak 2007 kami membawa tradisi penyembuhan air bambu Nusantara ke era modern — dengan standar produksi higienis dan jaringan distribusi nasional ke seluruh Indonesia.",
+      "imgAlt": "Hamparan perkebunan bambu berkelanjutan di perbukitan hijau Indonesia yang dijaga PT Bambu Water Nusantara",
+      "landChip": "Lahan bambu 2,1 juta ha di Indonesia",
+      "expLabel": "Pengalaman",
+      "expSince": "Sejak 2007",
+      "expHighlight": "Terbesar & Pertama",
+      "expYears": "di Indonesia — {years}+ tahun melayani",
+      "narrLead": "lahir dari keyakinan bahwa Nusantara menyimpan harta penyembuhan paling sederhana:",
+      "narrEm": "air yang mengalir di dalam bambu",
+      "narrAfter": "Selama berabad-abad, tabib tradisional memanen sadapan bambu muda untuk menurunkan demam, meredakan batuk, dan memulihkan tenaga. Kini kami menghadirkan kearifan itu dengan standar produksi modern — disuling oleh santri berpengalaman dan diawasi dewan pakar lintas bidang, dari panen berkelanjutan hingga pengiriman nasional.",
+      "visionTitle": "Visi",
+      "visionText": "Menjadi penyedia air bambu terapi terdepan di Asia Tenggara sekaligus pilar ekonomi bambu Indonesia.",
+      "missionTitle": "Misi",
+      "missionText": "Menyediakan air bambu murni berkualitas farmasi, memasok bambu konstruksi nasional, dan mengangkat kesejahteraan petani bambu."
+    },
+    "science": {
+      "ariaLabel": "Kandungan nutrisi air bambu",
+      "eyebrow": "Kandungan Alami",
+      "title": "Ilmu di Balik",
+      "highlight": "Setiap Tetes",
+      "description": "Silika organik bambu termasuk yang tertinggi di alam — dipadukan flavonoid, klorofil, asam amino, dan elektrolit esensial.",
+      "imgAlt": "Segelas air bambu bening di atas batu alam dengan daun bambu segar — suasana tenang dan menyembuhkan",
+      "electrolyteLabel": "Kaya Elektrolit Alami",
+      "microTestLabel": "Diuji Mikrobiologi",
+      "cardTitle": "Profil Nutrisi Air Bambu",
+      "cardSub": "Indeks kekayaan relatif per komponen alami"
+    },
+    "reasons": {
+      "ariaLabel": "Rahasia awet muda kaisar China dan 10 alasan minum air bambu",
+      "badge": "Rahasia Kuno yang Nyaris Tergores Sejarah",
+      "title": "Rahasia Awet Muda",
+      "highlight": "Kaisar China",
+      "p1Lead": "Sejak ribuan tahun lalu, tabib istana Dinasti China menyimpan satu rahasia paling dijaga:",
+      "p1Strong": "sari bambu",
+      "p1Mid": "— elixir yang dipercaya menjaga awet muda kaisar dan para bangsawan. Terdokumentasi dalam pengobatan tradisional Tiongkok sebagai",
+      "p1Em": "\"Tian Zhu Li\"",
+      "p1Tail": "(天竹瀝), sari bambu disuling dari ruas bambu muda untuk meredakan panas, menyegarkan tubuh, dan merawat vitalitas sang penguasa.",
+      "p2Lead": "Namun seiring waktu, rahasia besar itu nyaris",
+      "p2Strong": "tergores sejarah",
+      "p2Tail": "— hanya diketahui segelintir pembantu istana dan tabib warisan. Kini rahasia kuno itu kembali: riset modern membuktikan kandungan silika organik tertinggi di alam dan antioksidan luar biasa dalam air bambu.",
+      "luckLine": "Jadilah orang yang beruntung — Anda kini tahu rahasia besar ini. 🌿",
+      "subheading": "10 Alasan Kenapa Anda",
+      "subheadingHighlight": "Harus Minum Air Bambu",
+      "subDesc": "Dari rahasia kuno hingga pembuktian ilmiah modern.",
+      "cta": "Mulai Ritual Sehat Anda",
+      "ctaMessage": "Halo! Saya ingin mencoba air bambu — rahasia awet muda kaisar China 🌿"
+    },
+    "testimonials": {
+      "ariaLabel": "Testimoni pelanggan",
+      "eyebrow": "Cerita Mereka",
+      "title": "Kepercayaan yang",
+      "highlight": "Mengalir",
+      "description": "Dari dapur keluarga hingga proyek konstruksi nasional — inilah pengalaman pelanggan Bambu Water Nusantara.",
+      "ratingAria": "Rating {rating} dari 5",
+      "prevAria": "Testimoni sebelumnya",
+      "nextAria": "Testimoni berikutnya",
+      "dotAria": "Tampilkan testimoni {n}"
+    },
+    "leadership": {
+      "ariaLabel": "Struktur pimpinan perusahaan",
+      "eyebrow": "Tata Kelola",
+      "title": "Tim Pimpinan",
+      "highlight": "Berpengalaman",
+      "description": "Dewan pendiri, komisaris, direksi, hingga divisi manager operasional — kombinasi pengalaman bisnis, dedikasi kesehatan masyarakat, dan standar mutu modern.",
+      "pendiriTitle": "Dewan Pendiri",
+      "komisarisTitle": "Dewan Komisaris",
+      "direkturTitle": "Dewan Direksi",
+      "managersTitle": "Divisi Manager Operasional",
+      "sharesLabel": "Saham"
+    }
+  }
+}

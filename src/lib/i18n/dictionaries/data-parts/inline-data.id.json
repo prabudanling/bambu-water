@@ -1,0 +1,134 @@
+{
+  "data": {
+    "testimonials": [
+      {
+        "name": "Bpk. Hendra Wijaya",
+        "role": "Pemilik Kafe Sehat, Bandung",
+        "text": "Air bambu suling dari BWN jadi andalan menu signature kami. Pelanggan betah, rasanya bening dan segar — beda dari air biasa. Pengiriman selalu tepat waktu.",
+        "rating": 5
+      },
+      {
+        "name": "Ibu Ratna Sari",
+        "role": "Praktisi Terapi Herbal, Surabaya",
+        "text": "Saya sudah mencari air tuak bambu berkualitas bertahun-tahun. Sadapan tabib dari BWN konsisten kemurniannya, dan ini membantu banyak klien program detoks saya.",
+        "rating": 5
+      },
+      {
+        "name": "Ir. Bambang Prasetyo",
+        "role": "Kontraktor Bangunan Hijau, Jakarta",
+        "text": "Untuk paviliun bambu resor kami di Bali, BWN memasok ratusan batang bambu petung dan wulung dalam dua pengiriman kargo. Batangnya lurus, kering, tanpa cacat.",
+        "rating": 5
+      },
+      {
+        "name": "Ibu Nurul Hidayah",
+        "role": "Ibu Rumah Tangga, Yogyakarta",
+        "text": "Anak saya sering panas dalam. Sejak rutin minum air bambu ini setiap pagi, keluhannya jauh berkurang. Rasanya lembut, tidak ada aftertaste sama sekali.",
+        "rating": 5
+      },
+      {
+        "name": "Bpk. Darmawan Lisdiyanto",
+        "role": "Distributor Herbal, Medan",
+        "text": "Ambil grosir galon 19 L setiap bulan untuk jaringan toko saya di Sumatera. Margin sehat, mutu stabil, tim korporatnya profesional mengurus dokumen pengiriman.",
+        "rating": 5
+      }
+    ],
+    "reasons": {
+      "items": [
+        {
+          "title": "Silika Organik Tertinggi di Alam",
+          "text": "Hingga ~70% — kunci kolagen dan kekenyalan kulit yang membuat kaisar tetap muda."
+        },
+        {
+          "title": "Antioksidan Pelawan Usia",
+          "text": "Flavonoid & polifenol melawan radikal bebas, penyebab utama penuaan dini."
+        },
+        {
+          "title": "Meredakan Demam & Panas Dalam",
+          "text": "Efek dingin alami yang diwariskan tabib Nusantara dari generasi ke generasi."
+        },
+        {
+          "title": "Melegakan Batuk & Dahak",
+          "text": "Sama seperti \"Tian Zhu Li\" di pengobatan istana Tiongkok kuno — melapangkan napas."
+        },
+        {
+          "title": "Mendampingi Gula Darah & Kolesterol Normal",
+          "text": "Pengganti minuman manis terbaik untuk program hidup sehat keluarga."
+        },
+        {
+          "title": "Melancarkan Pencernaan & Detoks",
+          "text": "Klorofil dan mineral alami membantu tubuh membuang sisa racun harian."
+        },
+        {
+          "title": "Hidrasi Murni Tanpa Kafein & Tanpa Gula",
+          "text": "Aman diminum kapan saja — untuk anak, dewasa, hingga lansia."
+        },
+        {
+          "title": "Menjaga Tulang & Sendi Tetap Muda",
+          "text": "Silika mendukung kepadatan tulang — lansia aktif seperti kaum bangsawan kuno."
+        },
+        {
+          "title": "Kecantikan dari Dalam",
+          "text": "Kulit kenyal, rambut berkilau, dan kuku kuat — beauty ritual alami."
+        },
+        {
+          "title": "Daya Tahan Tubuh Prima",
+          "text": "Asam amino, klorofil, dan mineral esensial menjaga imun di segala musim."
+        }
+      ],
+      "badges": [
+        { "icon": "droplets", "label": "Silika tertinggi" },
+        { "icon": "leaf", "label": "100% alami" },
+        { "icon": "book-open-text", "label": "Warisan ribuan tahun" },
+        { "icon": "shield-check", "label": "Riset modern" }
+      ]
+    },
+    "science": {
+      "nutrition": [
+        {
+          "name": "Silika Organik",
+          "value": 70,
+          "note": "Ekstrak daun bambu berkisar hingga 70% silika — tertinggi di alam"
+        },
+        {
+          "name": "Flavonoid & Polifenol",
+          "value": 85,
+          "note": "Antioksidan pelindung sel dari radikal bebas"
+        },
+        {
+          "name": "Klorofil Alami",
+          "value": 75,
+          "note": "Mendukung detoksifikasi dan regenerasi sel"
+        },
+        {
+          "name": "Asam Amino Esensial",
+          "value": 65,
+          "note": "Blok pembangun protein bagi jaringan tubuh"
+        },
+        {
+          "name": "Mineral Kalium, Kalsium & Magnesium",
+          "value": 80,
+          "note": "Elektrolit alami penyeimbang cairan tubuh"
+        }
+      ]
+    },
+    "about": {
+      "values": [
+        {
+          "icon": "shield-check",
+          "title": "Murni & Teruji",
+          "text": "Setiap tetes melewati distilasi bertahap dan uji mutu sebelum sampai ke tangan Anda."
+        },
+        {
+          "icon": "heart-handshake",
+          "title": "Mitra Petani Bambu",
+          "text": "Bermitra dengan petani hutan bambu rakyat — membeli hasil panen dengan harga adil."
+        },
+        {
+          "icon": "scale",
+          "title": "Badan Hukum Resmi",
+          "text": "PT berakta resmi dengan dewan pendiri, komisaris, direksi, dan dewan pakar lintas bidang — aman untuk kontrak & pengadaan besar."
+        }
+      ]
+    }
+  }
+}

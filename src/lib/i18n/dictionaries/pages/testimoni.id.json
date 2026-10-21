@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "testimoni": {
+      "s": {
+        "headingEyebrow": "Kepercayaan Sejak 2007",
+        "headingTitle": "Cerita Mereka yang Sudah",
+        "headingHighlight": "Merasakannya",
+        "headingDescription": "Dari dapur keluarga hingga klinik dan proyek konstruksi — 18+ tahun membangun kepercayaan di seluruh Indonesia.",
+        "ratingAria": "Rating {n} dari 5 bintang",
+        "verified": "Pelanggan terverifikasi",
+        "statYearsLabel": "Tahun melayani sejak 2007",
+        "statProvincesLabel": "Provinsi terjangkau",
+        "statSatisfactionLabel": "Rata-rata kepuasan pelanggan",
+        "ctaTitle": "Gabung Bersama Ribuan Pelanggan Puas",
+        "ctaDescription": "Mulai dari satu galon untuk keluarga, hingga kontrak pasokan untuk bisnis Anda."
+      }
+    }
+  }
+}

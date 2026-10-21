@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "harga-paket": {
+      "s": {
+        "priceEyebrow": "Daftar Harga",
+        "priceTitle": "Transparan dari",
+        "priceHighlight": "Retail hingga Kargo",
+        "priceDescription": "Harga indikatif 2025 — harga final menyesuaikan volume, lokasi kirim, dan fluktuasi panen.",
+        "tabs": ["💧 Air Bambu Suling", "🌿 Air Bambu Tabib", "🎍 Bambu Batang"],
+        "tableHeads": ["Produk", "Harga Indikatif", "Satuan", "Keterangan"],
+        "priceNote": "Harga belum termasuk ongkos kirim. Untuk volume besar, kota tujuan, dan kontrak rutin — harga final diberikan dalam penawaran resmi maksimal 1×24 jam.",
+        "tiersEyebrow": "Semakin Banyak, Semakin Hemat",
+        "tiersTitle": "Tiga Tingkat",
+        "tiersHighlight": "Harga Khusus",
+        "tiers": [
+          { "label": "Retail", "desc": "1–9 unit", "benefit": "Harga normal, tanpa minimum" },
+          { "label": "Grosir", "desc": "10 unit ke atas", "benefit": "Diskon bertingkat hingga 15%" },
+          { "label": "Korporat/Kontrak", "desc": "Bulanan / proyek", "benefit": "Harga terbaik + jadwal pasokan tetap" }
+        ],
+        "badgeBest": "Terbaik",
+        "ctaButton": "Minta Penawaran Final"
+      }
+    }
+  }
+}

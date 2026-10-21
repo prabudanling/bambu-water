@@ -1,0 +1,2275 @@
+{
+ "ui": {
+  "common": {
+   "home": "Home",
+   "learnMore": "Learn More",
+   "seeAll": "See All",
+   "readMore": "Read More",
+   "readArticle": "Read Article",
+   "orderNow": "Order Now",
+   "chatWa": "Chat WhatsApp",
+   "fillForm": "Fill Form",
+   "backHome": "Back to Home",
+   "updated": "Updated",
+   "minutes": "min read",
+   "minRead": "min",
+   "officialSite": "official site",
+   "notMedicalAdvice": "Natural complementary therapy — not a substitute for medical advice",
+   "legalPt": "Official PT Legal Entity",
+   "languageLabel": "Language",
+   "changeLanguage": "Change Language",
+   "copyright": "All rights reserved."
+  },
+  "nav": {
+   "openMenu": "Open navigation menu",
+   "closeMenu": "Close menu",
+   "orderCta": "Order Now",
+   "waCta": "WA",
+   "groups": {
+    "Beranda": "Home",
+    "Kesehatan": "Health",
+    "Artikel": "Articles",
+    "Produk": "Products",
+    "Layanan": "Services",
+    "Tentang": "About"
+   }
+  },
+  "float": {
+   "title": "Need quick help?",
+   "desc": "Chat with us now — free consultation, quick response during business hours.",
+   "cta": "Start Chat",
+   "open": "Open WhatsApp chat widget",
+   "close": "Close WhatsApp chat widget",
+   "waMessage": "Hello Bambu Water Nusantara! I want to ask about bamboo water / bamboo stem."
+  },
+  "pageHero": {
+   "breadcrumbHome": "Home",
+   "breadcrumbLabel": "Breadcrumb",
+   "updatedPrefix": "Updated"
+  },
+  "languageSwitcher": {
+   "label": "Language",
+   "current": "Active language",
+   "choose": "Choose language — 30 languages available",
+   "search": "Search language…",
+   "noResults": "Language not found",
+   "count": "30 languages"
+  },
+  "about": {
+   "ariaLabel": "About the company",
+   "eyebrow": "About Us — Since 2007",
+   "title": "Bamboo Water Pioneer",
+   "highlight": "Largest & First in Indonesia",
+   "description": "Since 2007, we've brought the tradition of Indonesian bamboo water healing to the modern era — with hygienic production standards and a national distribution network across Indonesia.",
+   "imgAlt": "Sustainable bamboo plantations maintained by PT Bambu Water Nusantara in the green hills of Indonesia",
+   "landChip": "2.1 million ha of bamboo land in Indonesia",
+   "expLabel": "Experience",
+   "expSince": "Since 2007",
+   "expHighlight": "Largest & First",
+   "expYears": "in Indonesia — {years}+ years of service",
+   "narrLead": "born from the belief that the Nusantara holds the simplest healing treasure:",
+   "narrEm": "water flowing inside bamboo",
+   "narrAfter": "For centuries, traditional healers harvested young bamboo shoots to reduce fever, relieve cough, and restore energy. Today, we bring that wisdom with modern production standards — distilled by experienced craftsmen and supervised by a multidisciplinary expert board, from sustainable harvesting to national delivery.",
+   "visionTitle": "Vision",
+   "visionText": "To become the leading bamboo therapy water provider in Southeast Asia while being a pillar of Indonesia's bamboo economy.",
+   "missionTitle": "Mission",
+   "missionText": "Providing pure pharmaceutical-grade bamboo water, supplying national construction bamboo, and elevating bamboo farmers' welfare."
+  },
+  "science": {
+   "ariaLabel": "Nutritional content of bamboo water",
+   "eyebrow": "Natural Content",
+   "title": "The Science Behind",
+   "highlight": "Every Drop",
+   "description": "Bamboo's organic silica is among the highest in nature — combined with flavonoids, chlorophyll, amino acids, and essential electrolytes.",
+   "imgAlt": "A clear glass of bamboo water on a natural stone with fresh bamboo leaves — a calm and healing atmosphere",
+   "electrolyteLabel": "Rich in Natural Electrolytes",
+   "microTestLabel": "Microbiologically Tested",
+   "cardTitle": "Bamboo Water Nutritional Profile",
+   "cardSub": "Relative richness index per natural component"
+  },
+  "reasons": {
+   "ariaLabel": "The secret to youthful longevity of Chinese emperors and 10 reasons to drink bamboo water",
+   "badge": "Ancient Secret Nearly Lost to History",
+   "title": "Youth Longevity Secret",
+   "highlight": "Chinese Emperors",
+   "p1Lead": "For thousands of years, the imperial physicians of the Chinese Dynasty guarded one secret:",
+   "p1Strong": "bamboo sap",
+   "p1Mid": "— an elixir believed to keep emperors and nobles youthful. Documented in traditional Chinese medicine as",
+   "p1Em": "\"Tian Zhu Li\"",
+   "p1Tail": "(天竹瀝), bamboo sap is distilled from young bamboo joints to relieve heat, refresh the body, and maintain the ruler's vitality.",
+   "p2Lead": "Yet over time, this great secret was nearly",
+   "p2Strong": "lost to history",
+   "p2Tail": "— known only to a handful of imperial attendants and heritage physicians. Now this ancient secret returns: modern research proves the highest natural organic silica content and extraordinary antioxidants in bamboo water.",
+   "luckLine": "Be one of the lucky ones — you now know this great secret. 🌿",
+   "subheading": "10 Reasons Why You",
+   "subheadingHighlight": "Should Drink Bamboo Water",
+   "subDesc": "From ancient secrets to modern scientific proof.",
+   "cta": "Start Your Wellness Ritual",
+   "ctaMessage": "Hello! I'd like to try bamboo water — the Chinese emperor's secret to youthful longevity 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "Customer testimonials",
+   "eyebrow": "Their Stories",
+   "title": "Trust That",
+   "highlight": "Flows",
+   "description": "From family kitchens to national construction projects — here are the customer experiences of Bambu Water Nusantara.",
+   "ratingAria": "Rating {rating} out of 5",
+   "prevAria": "Previous testimonial",
+   "nextAria": "Next testimonial",
+   "dotAria": "Show testimonial {n}"
+  },
+  "leadership": {
+   "ariaLabel": "Company leadership structure",
+   "eyebrow": "Governance",
+   "title": "Leadership Team",
+   "highlight": "Experienced",
+   "description": "Founders board, commissioners, board of directors, down to operational division managers — a combination of business experience, public health dedication, and modern quality standards.",
+   "pendiriTitle": "Founders Board",
+   "komisarisTitle": "Board of Commissioners",
+   "direkturTitle": "Board of Directors",
+   "managersTitle": "Operational Division Managers",
+   "sharesLabel": "Shares"
+  },
+  "benefits": {
+   "ariaLabel": "Benefits of bamboo water for health",
+   "eyebrow": "Benefits & Therapy",
+   "title": "Healing Legacy of",
+   "highlight": "Bamboo Water",
+   "description": "Believed by Nusantara physicians for centuries, now supported by international scientific studies. Bamboo water is a natural companion on the journey to a balanced body.",
+   "research": "Supported by Scientific Research",
+   "researchSub": "We transparently cite credible sources.",
+   "disclaimer": "* Bambu Water Nusantara's bamboo water is a natural health beverage and therapy companion — not a substitute for prescription medication. Consult your health condition with a medical professional.",
+   "sources": [
+    {
+     "title": "Journal of Medicinal Plant Research (2015)",
+     "detail": "Bamboo extract is documented to provide protection against oxidative stress, inflammation, lipotoxicity, cancer, and cardiovascular diseases."
+    },
+    {
+     "title": "TIME — “Bamboo Water Is Now a Thing”",
+     "detail": "International media reports bamboo water as a global health beverage phenomenon with antioxidant & antimicrobial effects."
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "Frequently Asked Questions",
+   "eyebrow": "FAQ",
+   "title": "Frequently Asked",
+   "highlight": "Questions",
+   "description": "Everything you need to know about bamboo water, bamboo products, and how to order.",
+   "moreAsk": "Still have questions?",
+   "moreCta": "Ask directly via WhatsApp"
+  },
+  "contact": {
+   "ariaLabel": "Contact and ordering",
+   "eyebrow": "Contact Us",
+   "title": "Order Now,",
+   "highlight": "Send Anywhere",
+   "description": "Tell us your needs — our team will respond with the best offer within 1×24 business hours.",
+   "officeTitle": "Marketing Office",
+   "phoneLabel": "Phone / WhatsApp",
+   "emailLabel": "Email",
+   "addressLabel": "Address",
+   "hoursLabel": "Operating Hours",
+   "branchesNote": "Branch 2: Mangkubumi, Tasikmalaya • Branch 3: Cihaurgeulis, Bandung",
+   "guarantees": [
+    {
+     "title": "Response < 24 Hours",
+     "text": "Our team's quick response"
+    },
+    {
+     "title": "Complete Documentation",
+     "text": "For tenders & procurement"
+    },
+    {
+     "title": "Safe Packaging",
+     "text": "National expedition standard"
+    },
+    {
+     "title": "Quality Guarantee",
+     "text": "Return if not as described"
+    }
+   ],
+   "formTitle": "Order & Consultation Form",
+   "formSubtitle": "Fill in your needs — retail or large quantities (wholesale/cargo).",
+   "orderLegend": "I want to order",
+   "orderTypeLabels": [
+    "Bamboo Water (Retail)",
+    "Bamboo Stalk",
+    "Wholesale / Reseller",
+    "Corporate / Project"
+   ],
+   "nameLabel": "Full Name",
+   "namePlaceholder": "e.g. Ahmad Setiawan",
+   "phonePlaceholder": "e.g. 0812-3456-7890",
+   "emailPlaceholder": "name@email.com",
+   "cityLabel": "Shipping Destination City",
+   "cityPlaceholder": "Select city",
+   "cityOther": "Other city",
+   "messageLabel": "Details of Needs",
+   "messagePlaceholder": "e.g. Need 50 gallons/month of distilled bamboo water for a cafe in Bandung, deliver every Monday.",
+   "submitting": "Sending…",
+   "submitCta": "Send Request for Quotation",
+   "submitNote": "By sending the form, you agree to be contacted by our team.",
+   "sentTitle": "Your Message Has Been Sent!",
+   "sentThanks": "Thank you,",
+   "sentBody": "The Bambu Water Nusantara team will contact you via phone/WhatsApp within 1×24 business hours.",
+   "sendAnother": "Send Another Message",
+   "toastIncompleteTitle": "Data is incomplete",
+   "toastIncompleteDesc": "Please fill in your name, phone number, and message.",
+   "errorFallback": "Failed to send",
+   "toastSuccessTitle": "Message sent! 🌿",
+   "toastSuccessDesc": "Thank you! Our team will contact you within 1×24 business hours.",
+   "toastFailTitle": "Failed to send message",
+   "toastFailDesc": "Please try again or contact us via WhatsApp."
+  },
+  "quoteForm": {
+   "ariaLabel": "Bamboo water order form",
+   "title": "Order & Consultation Form",
+   "subtitle": "Free, no commitment — response within 1×24 business hours.",
+   "nameLabel": "Full Name",
+   "namePlaceholder": "e.g. Budi Santoso",
+   "phoneLabel": "WhatsApp / Phone No.",
+   "phonePlaceholder": "e.g. 0812 3456 7890",
+   "emailLabel": "Email (optional)",
+   "emailPlaceholder": "name@email.com",
+   "cityLabel": "Delivery City",
+   "cityPlaceholder": "e.g. Surabaya",
+   "needTypeLabel": "Need Type",
+   "orderTypeLabels": [
+    "Bamboo Water (Retail)",
+    "Bamboo Sticks",
+    "Wholesale / Reseller",
+    "Corporate / Project"
+   ],
+   "messageLabel": "Message / Requirement",
+   "messagePlaceholder": "e.g. I want to order 10 gallons of 19L distilled bamboo water to Surabaya...",
+   "submitting": "Sending...",
+   "submitCta": "Submit Request",
+   "privacyNote": "Your data is safe & only used to process your order.",
+   "sentTitle": "Thank You",
+   "sentBody": "Your request has been received. The Bambu Water Nusantara team will contact you via WhatsApp or phone within 1×24 business hours.",
+   "waConfirmCta": "Confirm via WhatsApp",
+   "waMessage": "Hello, my name is {name} and I just sent a request ({type}). Please process it!",
+   "toastIncompleteTitle": "Data incomplete",
+   "toastIncompleteDesc": "Please fill in your name, phone/WhatsApp, and message.",
+   "errorFallback": "Failed to send",
+   "toastSuccessTitle": "Request sent! 🌿",
+   "toastSuccessDesc": "Thank you! Our team will contact you within 1×24 business hours.",
+   "toastFailTitle": "Failed to send",
+   "toastFailDesc": "Please try again or contact us via WhatsApp."
+  },
+  "footer": {
+   "ariaLabel": "Site footer",
+   "ctaTitle": "Start Living Healthy with",
+   "ctaHighlight": "Bamboo Sap",
+   "ctaDesc": "Order bamboo water for your family, or become our distribution partner in your city.",
+   "ctaConsult": "Free consultation via WhatsApp",
+   "waCta": "WhatsApp",
+   "ctaForm": "Order Form",
+   "waMessage": "Hello Bambu Water Nusantara! I want a free consultation about bamboo water / bamboo sticks.",
+   "columns": {
+    "explore": "Explore",
+    "health": "Health",
+    "products": "Products & Services",
+    "articles": "Health Articles"
+   },
+   "navAria": "Footer navigation",
+   "articleLinks": [
+    "All Articles",
+    "Bamboo Water & Blood Sugar",
+    "Bamboo Water & Kidney Stones",
+    "Bamboo Water & Cholesterol",
+    "Natural Detoxification",
+    "Bones & Joints",
+    "Beauty & Skin"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "History of Bamboo Water"
+   },
+   "socialLabels": [
+    "Bambu Water Nusantara Instagram",
+    "Bambu Water Nusantara Facebook",
+    "Bambu Water Nusantara LinkedIn"
+   ],
+   "phoneNote": "phone / WhatsApp",
+   "fullAddressNote": "full address on the Contact page"
+  },
+  "hero": {
+   "ariaLabel": "Bambu Water Nusantara Homepage",
+   "imageAlt": "Indonesian bamboo forest at dawn — golden rays pierce the mist and bamboo sap droplets drip from young bamboo segments",
+   "badge": "Largest & First in Indonesia",
+   "badgeSince": "Since 2007",
+   "titleLine1": "Pure Bamboo Sap,",
+   "titleLine2": "Health from Nature",
+   "titleLine3": "Nusantara",
+   "subtitle": "Bamboo drinking water for natural health therapy — rich in organic silica, flavonoids, and essential minerals. We also serve",
+   "subtitleHighlight": "bamboo water distribution & quality bamboo",
+   "subtitleAfter": "in large quantities throughout Indonesia.",
+   "ctaPrimary": "Explore Products",
+   "ctaSecondary": "Order Wholesale / Cargo",
+   "trust": [
+    "Hygienic gradual distillation",
+    "100% natural without preservatives",
+    "Shipping to 38 provinces"
+   ],
+   "scrollAriaLabel": "Scroll down — About us"
+  },
+  "stats": {
+   "millionSuffix": " jt",
+   "thousandSuffix": "rb"
+  },
+  "cta": {
+   "ariaLabel": "Call to action",
+   "title": "Ready to Experience the Benefits of Bamboo Water?",
+   "description": "Free consultation with our team — for family therapy needs, wholesale, to mass bamboo cargo to your city.",
+   "legal": "Legal entity",
+   "chatCta": "Chat WhatsApp",
+   "formCta": "Fill Form"
+  },
+  "productTemplate": {
+   "packaging": "Packaging Options",
+   "orderWa": "Order via WhatsApp",
+   "viewPrice": "View Price",
+   "usesEyebrow": "For What",
+   "usesTitle": "Uses &",
+   "usesHighlight": "Benefits",
+   "guideTitle": "Guide",
+   "guideHighlight": "Usage",
+   "faqTitle": "Questions",
+   "faqHighlight": "Common",
+   "safetyNote": "Food-grade product, hygienically processed, without preservatives.",
+   "relatedLabel": "Other Products"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "Home",
+   "seoTitle": "Bambu Water Nusantara — Bamboo Water Therapy & Natural Medicine & Bamboo Distribution Across Indonesia",
+   "metaDescription": "Producer of distilled bamboo water and medicinal bamboo water for natural healing. Bulk distribution of quality bamboo to all cities in Indonesia. WA 0813-1651-6524.",
+   "h1": "Pure Bamboo Sap for Health from Within",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "Premium bamboo sap for healing & natural health therapy, plus quality bamboo in large quantities — delivered throughout Indonesia.",
+   "keywords": [
+    "bamboo water",
+    "medicinal bamboo water",
+    "bamboo water therapy",
+    "distilled bamboo water",
+    "bamboo distribution indonesia",
+    "bamboo water nusantara"
+   ],
+   "menuDesc": ""
+  },
+  "tentang-kami": {
+   "navLabel": "About Us",
+   "seoTitle": "About Us — PT Bambu Water Nusantara, Trusted Official Legal Entity",
+   "metaDescription": "Get to know PT Bambu Water Nusantara: company profile, vision and mission, legal establishment deed, leadership structure, and our quality commitment.",
+   "h1": "About PT Bambu Water Nusantara",
+   "eyebrow": "Company Profile",
+   "intro": "An official legal entity company that provides quality therapeutic bamboo water and premium Nusantara bamboo — from regulated people's forests to your home.",
+   "keywords": [
+    "about bambu water nusantara",
+    "PT Bambu Water Nusantara",
+    "bamboo water company profile",
+    "PT bambu water legality",
+    "bamboo water legal entity"
+   ],
+   "menuDesc": "Profile, vision mission & legality",
+   "s": {
+    "story_title": "18+ Years of Delivering",
+    "story_highlight": "Nusantara Bamboo Sap",
+    "story_title_end": "for Health",
+    "p1_a": "PT Bambu Water Nusantara (BWN) is a company providing bamboo water for natural healing and therapy —",
+    "p1_strong": "the first and largest in Indonesia since 2007",
+    "p1_b": ". We harvest young bamboo shoots from regulated people's bamboo forests, purify them through hygienic distillation, and deliver them to homes, therapist clinics, and distributor partners throughout the Nusantara.",
+    "p2_a": "More than just a drink, bamboo water is an ancestral healing heritage now supported by modern scientific research. In addition to bamboo water, we also provide",
+    "p2_strong": "quality bamboo",
+    "p2_b": "(Petung, Wulung, Apus, Ori) in large quantities for construction, crafts, and industry.",
+    "img_alt": "Sustainable bamboo plantations on green Indonesian hillsides, managed by PT Bambu Water Nusantara since 2007",
+    "img_caption": "BWN's partner people's bamboo forests — our source of shoots & quality bamboo",
+    "vision_title": "Vision",
+    "vision_text": "To become the world's leading reference for therapeutic bamboo water — bringing Nusantara's natural health to the global stage.",
+    "mission_title": "Mission",
+    "mission_text": "To provide the best quality bamboo water & bamboo, empower local farmers, and educate the community.",
+    "legal": [
+     {
+      "label": "Status",
+      "value": "Official PT Legal Entity (Founding Deed)"
+     },
+     {
+      "label": "Experience",
+      "value": "Since 2007 ({years}+ years)"
+     },
+     {
+      "label": "Production",
+      "value": "Distilled by experienced practitioners"
+     },
+     {
+      "label": "Supervision",
+      "value": "Cross-field expert board"
+     }
+    ],
+    "journey_eyebrow": "Our Journey",
+    "journey_title": "18+ Years Building Trust",
+    "journey_highlight": "Since 2007",
+    "journey_desc": "From the first harvest in the West Java hills to a nationwide distribution network.",
+    "milestones": [
+     {
+      "year": "2007",
+      "title": "The Beginning",
+      "text": "BWN was born as a pioneer in providing bamboo water for traditional medicine — the first in Indonesia."
+     },
+     {
+      "year": "2012",
+      "title": "Modern Distillation",
+      "text": "Our first distillation facility began operating — blending traditional herbal wisdom with modern hygiene standards."
+     },
+     {
+      "year": "2017",
+      "title": "National Reach",
+      "text": "Mass distribution of bamboo & bamboo water reached all provinces, from Sabang to Merauke."
+     },
+     {
+      "year": "2025",
+      "title": "Official Legal Entity",
+      "text": "PT Bambu Water Nusantara officially became a legal entity with a recorded founding deed — the foundation for greater expansion."
+     }
+    ],
+    "values_eyebrow": "Our Values",
+    "values_title": "Principles We",
+    "values_highlight": "Hold Firm",
+    "values": [
+     {
+      "title": "Sustainable",
+      "description": "Harvesting without damaging the clump — we maintain our community bamboo forests to remain sustainable for future generations."
+     },
+     {
+      "title": "Hygienic & Standards",
+      "description": "Multi-stage distillation, microbiological testing, and food-grade packaging for every production batch."
+     },
+     {
+      "title": "National Reach",
+      "description": "Land, sea, and air cargo network reaching 38 provinces in Indonesia."
+     },
+     {
+      "title": "Empowering People",
+      "description": "Partnering with community forest farmers in West Java and the archipelago."
+     }
+    ],
+    "offices_eyebrow": "Our Address",
+    "offices_title": "Head Office &",
+    "offices_highlight": "Branch Office",
+    "offices_desc": "Visit our offices in Tasikmalaya and Bandung — our doors are always open for partners and customers.",
+    "cta_title": "Want to Be a BWN Distribution Partner?",
+    "cta_desc": "Join our official distributor network — product support, special prices, and comprehensive educational materials.",
+    "cta_wa": "Hello Bambu Water Nusantara! I'm interested in becoming a distributor partner in my city."
+   }
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "What Is Bamboo Water",
+   "seoTitle": "What Is Bamboo Water? Complete Guide to Bamboo Sap & Its Benefits",
+   "metaDescription": "Learn what bamboo water (bamboo tuak) is: the origin of young bamboo node sap, tunas-eye harvesting technique, types, and distillation process.",
+   "h1": "What Is Bamboo Water?",
+   "eyebrow": "Complete Guide",
+   "intro": "Getting to know bamboo sap — a natural treasure of the archipelago rich in silica and antioxidants, from its formation to your glass.",
+   "keywords": [
+    "what is bamboo water",
+    "bamboo tuak water",
+    "bamboo sap water",
+    "origin of bamboo water",
+    "how to harvest bamboo water",
+    "bamboo shoot eye technique"
+   ],
+   "menuDesc": "Meaning, origin & types of bamboo water",
+   "s": {
+    "p1_strong1": "Bamboo water",
+    "p1_a": "— often called",
+    "p1_em1": "bamboo tuak water",
+    "p1_b": "or",
+    "p1_em2": "bamboo sap water",
+    "p1_c": "— is a clear, slightly sweet liquid that forms naturally inside young bamboo joints. For centuries, this liquid has been the healing secret of Nusantara's traditional healers, and is now studied by modern science as a drink with the",
+    "p1_strong2": "highest natural organic silica content",
+    "p1_d": "(up to ~70% in bamboo leaf extract), plus antioxidant flavonoids and polyphenols.",
+    "p2": "In Indonesia — the country with the world's largest bamboo land (2.1 million hectares, 157 species) — bamboo water grows abundantly but is not yet widely utilized. Bambu Water Nusantara has been here since 2007 to harvest this wealth sustainably, purify it to modern standards, and deliver it throughout Indonesia.",
+    "origin_eyebrow": "Origin",
+    "origin_title": "How Bamboo Water",
+    "origin_highlight": "Forms?",
+    "origin_steps": [
+     {
+      "title": "Forms in the Joint",
+      "text": "Rainwater and moisture are absorbed by bamboo rhizome roots, travel up the stalk, then condense into pure sap in young bamboo joints."
+     },
+     {
+      "title": "Harvesting Moment",
+      "text": "Mineral content is most optimal when bamboo is 1–3 years old — harvested at dawn when the sap is fresh."
+     },
+     {
+      "title": "Shoot Eye Technique",
+      "text": "Traditional healers open a \"shoot eye\" on the joint to let the sap flow without damaging the tree — a Nusantara heritage."
+     },
+     {
+      "title": "Hygienic Distillation",
+      "text": "For daily consumption, the sap is gradually distilled to preserve minerals and ensure microbiological safety."
+     }
+    ],
+    "types_eyebrow": "Types",
+    "types_title": "Three Forms of",
+    "types_highlight": "Bamboo Water",
+    "types_desc": "From traditional healers to modern laboratories — three ways to use bamboo water.",
+    "types": [
+     {
+      "name": "Raw Sap Water (Healer)",
+      "desc": "Straight from the joint — used by healers for therapy, must be fresh & properly processed.",
+      "badge": "Traditional"
+     },
+     {
+      "name": "Distilled Bamboo Water",
+      "desc": "Purified gradually — safe for daily use, shelf-stable, with minerals & silica preserved.",
+      "badge": "Popular"
+     },
+     {
+      "name": "Bamboo Leaf Extract",
+      "desc": "Source for modern scientific research — up to 70% silica and high antioxidants.",
+      "badge": "Research"
+     }
+    ],
+    "diffs_eyebrow": "Comparison",
+    "diffs_title": "Why Choose",
+    "diffs_highlight": "Bamboo Water?",
+    "diffs": [
+     {
+      "label": "vs Mineral Water",
+      "text": "Bamboo water excels in organic silica & unique flavonoids not found in regular mineral water."
+     },
+     {
+      "label": "vs Coconut Water",
+      "text": "Both are natural drinks; bamboo water has lower natural sugar and is rich in silica for bones & skin."
+     },
+     {
+      "label": "vs Leaf Tea",
+      "text": "Caffeine-free — suitable for any time, even for children and pregnant women (with advice)."
+     }
+    ],
+    "fact_strong": "Did You Know?",
+    "fact_a": "TIME (2015) covered the rise of",
+    "fact_em": "bamboo water",
+    "fact_b": "as a global health drink trend — and Indonesia is home to its largest source.",
+    "cta_title": "Want to Try Authentic Nusantara Bamboo Water?",
+    "cta_desc": "Free consultation with our team — choose distilled bamboo water for daily use, or healer bamboo water for therapy needs.",
+    "cta_wa": "Hi! I want to know more about bamboo water and its products."
+   }
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "Bamboo Water Benefits",
+   "seoTitle": "8 Proven Benefits of Bamboo Water for Health & Natural Medicine",
+   "metaDescription": "8 bamboo water benefits for health: reduce fever, relieve cough, heart health, blood sugar, digestion, immunity, skin, and menstrual pain.",
+   "h1": "8 Benefits of Bamboo Water for Health",
+   "eyebrow": "Benefits & Effects",
+   "intro": "From the traditions of Nusantara's traditional healers to modern scientific studies — the complete benefits of bamboo water for the body, inside and out.",
+   "keywords": [
+    "bamboo water benefits",
+    "bamboo water properties",
+    "bamboo water for health",
+    "bamboo water therapy",
+    "bamboo tuak water benefits",
+    "bamboo water for fever"
+   ],
+   "menuDesc": "8 main benefits for the body",
+   "s": {
+    "benefits_eyebrow": "Benefits & Properties",
+    "benefits_title": "Eight Main Benefits",
+    "benefits_highlight": "Bamboo Water",
+    "benefits_desc": "Summarized from traditional Nusantara medicine and modern bamboo extract scientific studies.",
+    "inner_title": "For Inside the Body:",
+    "inner_highlight": "Therapy & Recovery",
+    "outer_title": "For Outside the Body:",
+    "outer_highlight": "Vitality & Beauty",
+    "guide_eyebrow": "Daily Guide",
+    "guide_title": "How to Consume",
+    "guide_highlight": "Properly",
+    "guide_desc": "Simple yet consistent — that's the key to getting the full benefits of bamboo water.",
+    "daily_guide": [
+     {
+      "time": "Morning (bathroom)",
+      "text": "1 glass (±250 ml) of distilled bamboo water on an empty stomach — helps with detox & digestion."
+     },
+     {
+      "time": "Afternoon",
+      "text": "1 glass after meals — boosts metabolism and maintains mineral hydration."
+     },
+     {
+      "time": "Evening",
+      "text": "1 glass warm — calms and supports body recovery."
+     }
+    ],
+    "note_strong": "Important Note:",
+    "note_a": "bamboo water is a natural therapeutic drink",
+    "note_strong2": "complement",
+    "note_b": "— not a replacement for prescription medication. People with medical conditions (diabetes, kidney, hypertension) should consult with a healthcare professional first.",
+    "cta_title": "Experience the Benefits Yourself",
+    "cta_desc": "Distilled Bamboo Water is available in 600ml bottles up to 30L drums — delivered throughout Indonesia.",
+    "cta_wa": "Hello! I would like to order bamboo water for my family's health."
+   }
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "Nutritional Content",
+   "seoTitle": "Bamboo Water Nutritional Content — Highest Organic Silica & Antioxidants",
+   "metaDescription": "Analysis of bamboo water content: up to 70% organic silica, flavonoids, polyphenols, chlorophyll, amino acids, and K-Ca-Mg minerals for the body.",
+   "h1": "Nutritional Content & Science of Bamboo Water",
+   "eyebrow": "Scientific Analysis",
+   "intro": "Why is bamboo water called \"the most complete mineral water from nature\"? Let's break down its content based on the latest scientific research.",
+   "keywords": [
+    "bamboo water content",
+    "organic silica",
+    "bamboo silica",
+    "bamboo flavonoids",
+    "bamboo water antioxidants",
+    "bamboo water minerals",
+    "bamboo chlorophyll"
+   ],
+   "menuDesc": "Silica, flavonoids & natural minerals",
+   "s": {
+    "science_eyebrow": "Scientific Analysis",
+    "science_title": "Nutritional Profile",
+    "science_highlight": "Bamboo Water",
+    "science_desc": "Visualization of content based on bamboo extract studies (Journal of Medicinal Plant Research, 2015).",
+    "components_eyebrow": "Component Breakdown",
+    "components_title": "What's Inside",
+    "components_highlight": "Each Glass?",
+    "components": [
+     {
+      "name": "Organic Silica (Si)",
+      "level": "Highest in nature — up to ~70%",
+      "role": "Builds collagen, bone density, hair & nail strength, and blood vessel elasticity."
+     },
+     {
+      "name": "Flavonoids & Polyphenols",
+      "level": "Main antioxidants",
+      "role": "Fights free radicals, reduces inflammation, and protects the heart and blood vessels."
+     },
+     {
+      "name": "Natural Chlorophyll",
+      "level": "Natural Detox",
+      "role": "Supports body cleansing, cell regeneration, and neutralizing body odor from within."
+     },
+     {
+      "name": "Essential Amino Acids",
+      "level": "Building blocks of protein",
+      "role": "Supports tissue repair, digestive enzymes, and daily energy."
+     },
+     {
+      "name": "Potassium, Calcium & Magnesium",
+      "level": "Natural Electrolytes",
+      "role": "Balances body fluids, maintains muscle & nerve function, and bone health."
+     }
+    ],
+    "research_eyebrow": "Research Support",
+    "research_title": "The Science Behind It",
+    "research_highlight": "Bamboo Sap",
+    "research": [
+     {
+      "title": "2015 Study — J. Medicinal Plant Research",
+      "text": "Bamboo extract has been shown to provide oxidative, anti-inflammatory, and cardiovascular protection effects in test models (PMC4659479)."
+     },
+     {
+      "title": "Highest Silica in Nature",
+      "text": "Bamboo leaf extract (Bambusa vulgaris) shows an organic silica content of up to 70% — the highest among studied plants."
+     },
+     {
+      "title": "TIME 2015 — Global Trend",
+      "text": "\"Bamboo Water Is Now a Thing\" — global media highlights bamboo as a source of functional beverages of the future."
+     }
+    ],
+    "disclaimer": "*Nutritional values are indicative based on bamboo extract research publications and may vary between harvests. Bamboo water is not medicine — consult your medical professional about your health condition.",
+    "cta_title": "Natural Minerals, Verified Hygiene",
+    "cta_desc": "Every batch of BWN bamboo water undergoes progressive distillation and quality testing before being sent to you.",
+    "cta_wa": "Hello! I'd like to know more about the content & quality testing of BWN bamboo water."
+   }
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "For Therapy",
+   "seoTitle": "Bamboo Water for Traditional Medicine & Complementary Therapy",
+   "metaDescription": "The role of bamboo water in Nusantara traditional medicine: fever, cough, diabetes, cholesterol, to menstrual pain — safe & proper guide.",
+   "h1": "Bamboo Water for Traditional Medicine",
+   "eyebrow": "Complementary Therapy",
+   "intro": "An ancestral healing heritage now supported by research — how to properly use bamboo water as a companion to health therapy.",
+   "keywords": [
+    "bamboo water medicine",
+    "bamboo water therapy",
+    "traditional medicine bamboo water",
+    "bamboo water healer",
+    "traditional remedy bamboo water",
+    "bamboo water for therapy"
+   ],
+   "menuDesc": "Traditional & complementary therapy",
+   "s": {
+    "p1_a": "In the treasure trove of",
+    "p1_strong1": "Nusantara traditional medicine",
+    "p1_b": ", bamboo water is known as",
+    "p1_em": "\"water of life\"",
+    "p1_c": "— recommended by healers to reduce fever, ease breathing, aid digestion, and accompany blood sugar and cholesterol reduction programs. This tradition is now enriched by scientific evidence: a 2015 study (Journal of Medicinal Plant Research) notes that bamboo extract has",
+    "p1_strong2": "antioxidant, anti-inflammatory, and cardiovascular protective effects",
+    "principle_strong": "Our principle:",
+    "principle_a": "bamboo water is a",
+    "principle_strong2": "complementary companion therapy",
+    "principle_b": "— supporting, not replacing medical treatment. Always consult with your doctor or healer.",
+    "therapy_eyebrow": "Therapy Applications",
+    "therapy_title": "For Whom &",
+    "therapy_highlight": "For What Purpose?",
+    "therapy_uses": [
+     {
+      "title": "Fever & Internal Heat",
+      "text": "The natural cooling property of bamboo water is used by Nusantara healers to lower body temperature — to be consumed warm slowly.",
+      "audience": "Family"
+     },
+     {
+      "title": "Cough & Phlegm",
+      "text": "Helps to clear respiratory passages and naturally loosen phlegm without caffeine.",
+      "audience": "Family"
+     },
+     {
+      "title": "Companion for Diabetes & Cholesterol",
+      "text": "Consumed as a low-sugar beverage to replace sweet drinks, within a healthy lifestyle program for patients.",
+      "audience": "With medical supervision"
+     },
+     {
+      "title": "Recovery & Endurance",
+      "text": "Minerals, amino acids, and antioxidants support the body's recovery of sick patients or post-surgery (as advised).",
+      "audience": "Patients & seniors"
+     }
+    ],
+    "pract_eyebrow": "Practitioner Partners",
+    "pract_title": "Trusted by",
+    "pract_highlight": "Traditional Healers",
+    "pract_desc": "Since 2007, herbalists and practitioners across various cities have trusted us for their bamboo water supply.",
+    "practitioners": [
+     {
+      "title": "Herbalists & Traditional Practitioners",
+      "text": "Raw Bamboo Water (sadapan mentah) for complementary medicine practices according to tradition."
+     },
+     {
+      "title": "Therapy Clinics & Spas",
+      "text": "Regular supply of distilled bamboo water for detox programs and client drinking therapies."
+     },
+     {
+      "title": "Herbal Communities & Education",
+      "text": "Educational materials + samples for introducing traditional medicine in communities."
+     },
+     {
+      "title": "Health Homes & Shelters",
+      "text": "Partnership for supplying natural healthy beverages for residents in recovery programs."
+     }
+    ],
+    "quality_eyebrow": "Therapy Standards",
+    "quality_title": "Quality Worthy of",
+    "quality_highlight": "Healing",
+    "cta_title": "Need Regular Supply for Your Practice?",
+    "cta_desc": "Special pricing for herbalists, therapists & clinics — flexible monthly contracts with scheduled delivery.",
+    "cta_wa": "Hello! I'm a herbalist/therapist and would like to order Air Bambu Tabib regularly."
+   }
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "Bamboo Water for Blood Sugar & Diabetes",
+   "seoTitle": "Bamboo Water for Blood Sugar & Diabetes — Facts, Research, and Safe Methods",
+   "metaDescription": "Can bamboo water help stabilize blood sugar for diabetics? Learn scientific facts, traditions, safe consumption methods, and limitations.",
+   "h1": "Bamboo Water for Blood Sugar & Diabetes",
+   "eyebrow": "Health Article",
+   "intro": "Millions of Indonesians live with diabetes. Can bamboo water be a helpful beverage companion? Here's the answer based on research.",
+   "keywords": [
+    "bamboo water diabetes",
+    "bamboo water blood sugar",
+    "drinks for diabetes",
+    "bamboo water for diabetics",
+    "natural low-sugar drink"
+   ],
+   "menuDesc": "Companion for diabetics"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "Bamboo Water for Kidney Stones & Kidney Health",
+   "seoTitle": "Bamboo Water for Kidney Stones & Kidney Health — Benefits & Safe Tips",
+   "metaDescription": "Bamboo water as a kidney health support beverage: optimal hydration, natural minerals, and tradition for safely promoting urination.",
+   "h1": "Bamboo Water for Kidney Stones & Kidney Health",
+   "eyebrow": "Health Article",
+   "intro": "Kidneys are the body's filter. Here's how bamboo water helps keep kidneys clean and functioning optimally.",
+   "keywords": [
+    "bamboo water kidney stones",
+    "bamboo water for kidneys",
+    "kidney-cleansing drink",
+    "bamboo water kidney stones",
+    "kidney health beverage"
+   ],
+   "menuDesc": "Keeping kidneys clean"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "Bamboo Water for Cholesterol & Heart Health",
+   "seoTitle": "Bamboo Water for Cholesterol & Heart Health — Complete Guide",
+   "metaDescription": "Flavonoids & polyphenols in bamboo water help fight bad cholesterol and protect the heart. Learn the mechanisms, research, and how to consume it.",
+   "h1": "Bamboo Water for Cholesterol & Heart Health",
+   "eyebrow": "Health Article",
+   "intro": "Cardiovascular disease is the number one killer. How do bamboo water's antioxidants help protect the heart and blood vessels?",
+   "keywords": [
+    "bamboo water cholesterol",
+    "bamboo water heart",
+    "cholesterol-lowering drink",
+    "antioxidants for heart",
+    "bamboo water hypertension"
+   ],
+   "menuDesc": "Protecting heart & blood vessels"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "Natural Detoxification with Bamboo Water",
+   "seoTitle": "Natural Detoxification with Bamboo Water — 7-Day Full Energy Program",
+   "metaDescription": "7-day natural detox program with bamboo water: improves digestion, flushes toxins, and gently restores body energy.",
+   "h1": "Natural Detoxification with Bamboo Water",
+   "eyebrow": "Health Article",
+   "intro": "The body accumulates toxins daily from food, pollution, and stress. Bamboo water offers a gentle and refreshing way to detox.",
+   "keywords": [
+    "bamboo water detox",
+    "natural detox",
+    "bamboo water for digestion",
+    "detox drink",
+    "bamboo water detox program"
+   ],
+   "menuDesc": "7-day detox program"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "Bamboo Water Silica for Bones & Joints",
+   "seoTitle": "Bamboo Water Silica for Bones & Joints — Natural Osteoporosis Prevention",
+   "metaDescription": "Organic silica from bamboo water — highest in nature — plays a vital role in bone formation, joint maintenance, and preventing osteoporosis.",
+   "h1": "Bamboo Water Silica for Bones & Joints",
+   "eyebrow": "Health Article",
+   "intro": "Calcium isn't the only key to strong bones. Discover the role of organic silica — and why bamboo is the best source.",
+   "keywords": [
+    "silica for bones",
+    "bamboo water for osteoporosis",
+    "natural bone minerals",
+    "bamboo water for joints",
+    "organic bamboo silica"
+   ],
+   "menuDesc": "Silica for bone density"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "Bamboo Water for Skin, Hair & Nail Beauty",
+   "seoTitle": "Bamboo Water for Beauty — Supple Skin, Hair & Strong Nails",
+   "metaDescription": "Nature's secret to supple skin: bamboo water silica supports collagen production for skin, hair, and nails. Natural beauty from within.",
+   "h1": "Bamboo Water for Skin, Hair & Nail Beauty",
+   "eyebrow": "Health Article",
+   "intro": "True beauty starts from within. How do bamboo water's silica and antioxidants work as nature's 'natural collagen'?",
+   "keywords": [
+    "bamboo water for skin",
+    "bamboo water beauty",
+    "natural collagen drink",
+    "silica for skin",
+    "natural beauty drink",
+    "bamboo water for hair"
+   ],
+   "menuDesc": "Natural collagen from within"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "History & Tradition of Bamboo Water Nusantara",
+   "seoTitle": "History of Bamboo Water — Heritage of Nusantara Traditional Medicine",
+   "metaDescription": "Tracing bamboo water's history: from Sundanese and Javanese healer traditions, Chinese tamoe barang bamboo, to today's global health drink trend.",
+   "h1": "History & Tradition of Bamboo Water Nusantara",
+   "eyebrow": "Culture Article",
+   "intro": "Centuries before becoming a global trend, bamboo water was already the healing secret of Nusantara ancestors. Here is its journey.",
+   "keywords": [
+    "bamboo water history",
+    "traditional bamboo water",
+    "bamboo healers",
+    "sundanese bamboo water",
+    "traditional nusantara drink",
+    "bamboo water history"
+   ],
+   "menuDesc": "Heritage of Nusantara healers"
+  },
+  "air-bambu-suling": {
+   "navLabel": "Bamboo Water Suling",
+   "seoTitle": "Premium Bamboo Water Suling — Daily Therapy Drink 600ml–19L",
+   "metaDescription": "Premium bamboo water suling: young bamboo sap purified through gradual distillation. Bottled 600ml, 1.5L, 19L gallon, and wholesale 30L drum.",
+   "h1": "Premium Bamboo Water Suling",
+   "eyebrow": "Featured Product",
+   "intro": "Sap from young bamboo purified through gradual distillation — its natural minerals and silica are preserved, safety guaranteed.",
+   "keywords": [
+    "bamboo water suling",
+    "premium bamboo water",
+    "buy bamboo water suling",
+    "bottled bamboo water",
+    "bamboo water gallon",
+    "wholesale bamboo water",
+    "bamboo water suling price"
+   ],
+   "menuDesc": "Premium daily therapy drink",
+   "s": {
+    "imageAlt": "Premium Bamboo Water Suling Bambu Water Nusantara bottle — daily therapy drink",
+    "tagline": "Purified Bamboo Sap for Daily Consumption",
+    "description": [
+     "Premium Bamboo Water Suling is selected young bamboo sap purified through gradual distillation — removing microorganisms without eliminating its natural organic silica, minerals, and fresh taste.",
+     "Result: gentle therapeutic beverage with naturally balanced pH, free of chlorine and heavy metals, safe for daily consumption by the entire family. Available from practical 600 ml bottles to 30 L drums for wholesale needs."
+    ],
+    "sizes": [
+     {
+      "name": "600 ml Bottle",
+      "note": "Carton of 24 — suitable for events & offices"
+     },
+     {
+      "name": "1.5 L Bottle",
+      "note": "For small families"
+     },
+     {
+      "name": "19 L Gallon",
+      "note": "Home & office dispenser"
+     },
+     {
+      "name": "10 L Jerigen",
+      "note": "Wholesale min. 10 pcs"
+     },
+     {
+      "name": "30 L Drum",
+      "note": "Distributors & clinics"
+     }
+    ],
+    "features": [
+     "Hygienic step-by-step distillation",
+     "Chlorine & heavy metal-free",
+     "Naturally balanced pH",
+     "Food-grade packaging",
+     "No preservatives & sweeteners",
+     "Quality tested per batch"
+    ],
+    "specs": [
+     {
+      "label": "Source",
+      "value": "JB People's Forest"
+     },
+     {
+      "label": "Process",
+      "value": "3-Stage Distillation"
+     },
+     {
+      "label": "Packaging",
+      "value": "Food-Grade"
+     },
+     {
+      "label": "Storage",
+      "value": "6–12 Months"
+     }
+    ],
+    "uses": [
+     {
+      "title": "Family Daily Drink",
+      "text": "Replace regular drinking water with added minerals & silica — safe for all ages."
+     },
+     {
+      "title": "7-Day Detox Program",
+      "text": "Complement to natural detoxification programs — see our guide in the articles section."
+     },
+     {
+      "title": "Supportive Therapy",
+      "text": "For diabetes/cholesterol patients as a sweet drink replacement (with medical advice)."
+     },
+     {
+      "title": "Events & Resellers",
+      "text": "Bottle cartons for events, offices, hotels, or your healthy beverage business."
+     },
+     {
+      "title": "Wholesale & Distributors",
+      "text": "Special pricing for jerigen/drum with regular supply contracts."
+     },
+     {
+      "title": "Healthy Cafes & Restaurants",
+      "text": "Signature menu base: infused bamboo water, smoothies, to bamboo tea ice."
+     }
+    ],
+    "howTo": [
+     "Store in a cool place, away from direct sunlight.",
+     "Consume 1–3 glasses per day — optimal on an empty stomach in the morning.",
+     "After opening, consume within 2–3 days (small packaging) or refrigerate.",
+     "For therapy programs, consult duration with your healer or healthcare professional."
+    ],
+    "faqs": [
+     {
+      "q": "How is it different from healer's bamboo water?",
+      "a": "Bamboo distilled water is purified through step-by-step distillation, making it safe for daily consumption by everyone with a longer shelf life. Healer's bamboo water is fresh raw sadapan intended for healer therapy practices."
+     },
+     {
+      "q": "What does it taste like?",
+      "a": "Very soft and fresh — slightly naturally sweet with a subtle bamboo aroma. Many customers describe it as \"like pure rainwater from inside a bamboo stem\"."
+     },
+     {
+      "q": "Is it safe for babies & pregnant women?",
+      "a": "Yes, bamboo distilled water is safe for all ages as it has been purified. For pregnant women and babies under 1 year, it's best to consult with a doctor or midwife."
+     },
+     {
+      "q": "What is the shelf life?",
+      "a": "Sealed packaging: 6–12 months in a cool place. After opening: 2–3 days at room temperature, up to 7 days in the refrigerator."
+     }
+    ],
+    "related": [
+     {
+      "label": "Healer's Bamboo Water",
+      "slug": "air-bambu-tabib"
+     },
+     {
+      "label": "Quality Bamboo",
+      "slug": "bambu-berkualitas"
+     },
+     {
+      "label": "Pricing & Packages",
+      "slug": "harga-paket"
+     }
+    ],
+    "waMessage": "Hello! I'd like to order Premium Bamboo Distilled Water. Please provide pricing & availability information."
+   }
+  },
+  "air-bambu-tabib": {
+   "navLabel": "Healer's Bamboo Water",
+   "seoTitle": "Healer's Bamboo Water — Fresh Raw Sadapan for Therapy & Treatment",
+   "metaDescription": "Healer's Bamboo Water: fresh raw sadapan directly from young bamboo nodes, harvested using bud-eye technique for therapists, healers & medical practices.",
+   "h1": "Healer's Bamboo Water — Raw Sadapan for Therapy",
+   "eyebrow": "Therapy Products",
+   "intro": "Pure sadapan water as known in the Nusantara healer tradition — freshly harvested to order using the budding eye technique.",
+   "keywords": [
+    "bamboo tabib water",
+    "raw bamboo sadapan water",
+    "fresh bamboo water",
+    "bamboo therapy water",
+    "bamboo complementary medicine water",
+    "bamboo water for healers"
+   ],
+   "menuDesc": "Fresh raw sadapan for therapy",
+   "s": {
+    "imageAlt": "Harvesting Tabib Bamboo Water — fresh raw sadapan directly from young bamboo segments",
+    "tagline": "Fresh Raw Sadapan According to Nusantara Healer Tradition",
+    "description": [
+     "Tabib Bamboo Water is pure raw sadapan taken directly from young bamboo segments using the budding eye technique — exactly as practiced by Nusantara healers for centuries.",
+     "Freshly harvested per order at dawn and shipped with priority speed. Without any process — no distillation, no preservatives — to preserve its energy and natural content for your complementary medicine practice."
+    ],
+    "sizes": [
+     {
+      "name": "5L Jar",
+      "note": "Daily fresh sadapan"
+     },
+     {
+      "name": "10L Jar",
+      "note": "Healer practice / family therapy"
+     },
+     {
+      "name": "30L Drum",
+      "note": "Clinic & healer communities"
+     }
+    ],
+    "features": [
+     "Fresh harvested per order (dawn)",
+     "Traditional budding eye technique",
+     "100% preservative-free & unprocessed",
+     "For therapists & healers",
+     "Priority shipping / cold-pack",
+     "Limited daily availability"
+    ],
+    "specs": [
+     {
+      "label": "Origin",
+      "value": "Regulated Clump"
+     },
+     {
+      "label": "Process",
+      "value": "Raw — No Processing"
+     },
+     {
+      "label": "Harvest",
+      "value": "Dawn, Per Order"
+     },
+     {
+      "label": "Storage",
+      "value": "1–3 Days (Fresh)"
+     }
+    ],
+    "uses": [
+     {
+      "title": "Traditional Healer Practice",
+      "text": "Primary ingredient for drinking therapy according to healer methods — fever, internal heat, and recovery."
+     },
+     {
+      "title": "Complementary Therapy Clinic",
+      "text": "Regular supply for clinics integrating natural therapies."
+     },
+     {
+      "title": "Traditional Family Therapy",
+      "text": "For families practicing ancestral medicine traditions at home."
+     },
+     {
+      "title": "Research & Education",
+      "text": "Pure samples for research and traditional medicine learning."
+     },
+     {
+      "title": "Ritual & Culture",
+      "text": "Traditional ceremonies and community health practices."
+     },
+     {
+      "title": "Therapist Wholesale",
+      "text": "Monthly contracts for healer networks in your city."
+     }
+    ],
+    "howTo": [
+     "Order before 15.00 WIB for next dawn harvest.",
+     "Receive with intact seal — check condition immediately upon arrival.",
+     "Store cold (refrigerator) and use within 1–3 days for best quality.",
+     "Use as recommended by your healer or healthcare practitioner."
+    ],
+    "faqs": [
+     {
+      "q": "Why is the shelf life short?",
+      "a": "Because it's 100% raw with no processing — exactly as it comes from the bamboo segment. This is actually proof of its authenticity. For daily consumption with longer storage, choose Distilled Bamboo Water."
+     },
+     {
+      "q": "Is it available every day?",
+      "a": "Availability depends on harvest and weather. We recommend ordering H-1 and for large needs (drums), contact us for supply schedule."
+     },
+     {
+      "q": "Can it be shipped out of town?",
+      "a": "Yes — using priority shipping with cold-pack (optional). For long distances, we recommend Tabib Bamboo Water be consumed within 1-2 days after arrival."
+     },
+     {
+      "q": "Is there a quality guarantee?",
+      "a": "Yes. If sadapan arrives in unsuitable condition (spoiled/contaminated), we will replace it or refund your money. Practitioner satisfaction is our priority."
+     }
+    ],
+    "related": [
+     {
+      "label": "Distilled Bamboo Water",
+      "slug": "air-bambu-suling"
+     },
+     {
+      "label": "Production Process",
+      "slug": "production-process"
+     },
+     {
+      "label": "For Treatment",
+      "slug": "bamboo-water-treatment"
+     }
+    ],
+    "waMessage": "Hi! I would like to order Bamboo Tabib Water (fresh raw sap). Please check availability for today."
+   }
+  },
+  "bambu-berkualitas": {
+   "navLabel": "Quality Bamboo",
+   "seoTitle": "Quality Bamboo Bulk — Petung, Wulung, Apus, Ori Across Indonesia",
+   "metaDescription": "Premium quality bamboo aged 3+ years: Petung for construction, Wulung premium, Apus for weaving, Ori for frames. Per stick to per truck throughout Indonesia.",
+   "h1": "Quality Bamboo in Large Quantities",
+   "eyebrow": "Bulk Products",
+   "intro": "Petung, Wulung, Apus, and Ori — selected from regulated community forests, ready to ship per stick to per truck throughout Indonesia.",
+   "keywords": [
+    "quality bamboo",
+    "petung bamboo for sale",
+    "wulung bamboo",
+    "apus bamboo",
+    "ori bamboo",
+    "construction bamboo supplier",
+    "bamboo price per stick",
+    "bulk bamboo distribution"
+   ],
+   "menuDesc": "Petung, Wulung, Apus, Ori bulk",
+   "s": {
+    "imageAlt": "Stack of quality Petung, Wulung, Apus, and Ori bamboo sticks ready for bulk shipment",
+    "tagline": "Petung, Wulung, Apus & Ori — Selected, Ready for Bulk Shipment",
+    "description": [
+     "We provide quality bamboo aged 3+ years from regulated community forests: Petung bamboo for construction, Wulung for premium aesthetics, Apus for weaving, and Ori for lightweight frames.",
+     "Each stick is selected for straightness, even dryness, and pest-free — with drying & fumigation options. Ship per stick, per bundle, to full truckloads throughout Indonesia."
+    ],
+    "sizes": [
+     {
+      "name": "Per stick",
+      "note": "For small projects"
+     },
+     {
+      "name": "Per bundle",
+      "note": "10–25 sticks/bundle"
+     },
+     {
+      "name": "Per truck/cargo",
+      "note": "For large projects"
+     }
+    ],
+    "features": [
+     "3+ years aged selection",
+     "Straight & evenly dry",
+     "Drying & fumigation",
+     "Pest & mold-free",
+     "Community forest origin certification",
+     "Land & sea cargo loading"
+    ],
+    "specs": [
+     {
+      "label": "Type",
+      "value": "4 Premium Varieties"
+     },
+     {
+      "label": "Length",
+      "value": "8–12 Meters"
+     },
+     {
+      "label": "Diameter",
+      "value": "5–18 Cm"
+     },
+     {
+      "label": "Age",
+      "value": "3+ Years"
+     }
+    ],
+    "uses": [
+     {
+      "title": "Construction & Building",
+      "text": "Petung for bamboo house structures, bridges, and earthquake-resistant buildings."
+     },
+     {
+      "title": "Landscape & Interior",
+      "text": "Premium black Wulung for walls, ceilings, and aesthetic furniture."
+     },
+     {
+      "title": "Crafts & Weaving",
+      "text": "Flexible Apus for bags, mats, hats, and export crafts."
+     },
+     {
+      "title": "Furniture & Frames",
+      "text": "Slim Ori for chairs, tables, and lightweight frames."
+     },
+     {
+      "title": "Landscape & Garden",
+      "text": "Living & cut bamboo for property and resort greening projects."
+     },
+     {
+      "title": "Industry & Export",
+      "text": "Sustainable bulk supply for factories, contractors, and exporters."
+     }
+    ],
+    "howTo": [
+     "Determine your required type, size (length & diameter), and quantity.",
+     "Request a quote via WhatsApp — include shipping location for cargo cost estimation.",
+     "For large projects, we provide sample sticks before contract signing.",
+     "Shipping is scheduled according to fleet — wood sealing & strapping for full loads."
+    ],
+    "faqs": [
+     {
+      "q": "What is the strongest bamboo type for construction?",
+      "a": "Petung/Betung bamboo (Dendrocalamus asper) is the top choice for construction — large diameter, dense fibers, and proven in modern earthquake-resistant Indonesian bamboo buildings."
+     },
+     {
+      "q": "Is the bamboo dried/treated?",
+      "a": "Yes, we offer air-dried and treated bamboo (borax soaking + fumigation) options to ensure resistance to pests and fungi for years."
+     },
+     {
+      "q": "What is the minimum order for cargo?",
+      "a": "For the best cargo pricing, the minimum is 1 small truck (±200–400 sticks depending on size). Below that, we still serve via regular expeditions."
+     },
+     {
+      "q": "Can you ship outside Java?",
+      "a": "Yes. We regularly ship bamboo cargo to Sumatra, Kalimantan, Sulawesi, Bali & NT, and Papua via sea routes with safe packing."
+     }
+    ],
+    "related": [
+     {
+      "label": "Bamboo Water Distillation",
+      "slug": "air-bambu-suling"
+     },
+     {
+      "label": "Bulk Shipping",
+      "slug": "pengiriman-massal"
+     },
+     {
+      "label": "Pricing & Packages",
+      "slug": "harga-paket"
+     }
+    ],
+    "waMessage": "Hello! I'd like to order quality bamboo sticks (Petung/Wulung/Apus/Ori). Please send me a quote."
+   }
+  },
+  "proses-produksi": {
+   "navLabel": "Production Process",
+   "seoTitle": "Production Process & Bamboo Water Distillation — BWN Hygienic Standards",
+   "metaDescription": "4 stages of BWN bamboo water production: sustainable harvesting, bud collection, distillation & microbiological testing, to food-grade packaging.",
+   "h1": "Production Process & Distillation",
+   "eyebrow": "Quality Standard",
+   "intro": "From sustainable bamboo clumps to food-grade packaging — full transparency in how we produce quality bamboo water.",
+   "keywords": [
+    "bamboo water production process",
+    "bamboo water distillation",
+    "how to make bamboo water",
+    "bamboo water harvesting",
+    "bamboo water quality testing"
+   ],
+   "menuDesc": "Harvesting, collection, distillation & quality testing",
+   "s": {
+    "introBefore": "18+ years of trust built on one thing: ",
+    "introStrong": "quality transparency",
+    "introAfter": ". From bamboo clumps in community forests to the seal on your packaging, every stage is documented and standardized — blending traditional harvesting wisdom with modern distillation technology.",
+    "timelineEyebrow": "Stages",
+    "timelineTitle": "From Forest to",
+    "timelineHighlight": "Your Glass",
+    "qcEyebrow": "Quality Control",
+    "qcTitle": "4 Layers of",
+    "qcHighlight": "Guarantee",
+    "qcSteps": [
+     {
+      "title": "Microbiological Testing",
+      "text": "Every batch is tested for TPC & pathogens before packaging."
+     },
+     {
+      "title": "Hygienic Facilities",
+      "text": "Production rooms with regular sanitation and one-way airflow."
+     },
+     {
+      "title": "Food-Grade Packaging",
+      "text": "Bottles, jerry cans, and drums with food-grade certification, tamper-proof sealed."
+     },
+     {
+      "title": "Batch Traceability",
+      "text": "Every package records harvest origin & production date — full transparency."
+     }
+    ],
+    "commitmentStrong": "Sustainability commitment:",
+    "commitment": " we only harvest young bamboo without cutting the clump — the sustainability of community bamboo forests has been a business requirement since 2007.",
+    "teamEyebrow": "Production Team",
+    "teamTitle": "Experienced Distillers,",
+    "teamHighlight": "Supervised by Cross-Field Experts",
+    "santriTitle": "Experienced Distillers",
+    "santriText": "Our distillation process is entrusted to experienced distillers — workers who uphold meticulousness, honesty, and precision. These values make every drop of our bamboo water clean, halal, and full of blessings.",
+    "pakarTitle": "Cross-Field Experts Board",
+    "pakarText": "Our production is backed by a board of cross-field experts — from food technologists, traditional medicine practitioners, to quality specialists — ensuring every batch meets safety standards and efficacy.",
+    "ctaTitle": "Want to See the Process Live?",
+    "ctaDescription": "Schedule a visit to our facility — open to partners, distributors, and educational communities.",
+    "ctaWaMessage": "Hello! I'd like to learn more about the production & quality testing process of BWN bamboo water."
+   }
+  },
+  "pengiriman-massal": {
+   "navLabel": "Bulk Shipping",
+   "seoTitle": "Bulk Shipping of Bamboo Water & Bamboo Sticks Across Indonesia",
+   "metaDescription": "Large quantity shipping service: jerry cans, drums, to bamboo stick cargo. Regular 1-3 days, inter-island cargo, air express.",
+   "h1": "Bulk Shipping Across Indonesia",
+   "eyebrow": "Distribution Service",
+   "intro": "Large volumes are no problem — jerry cans, drums, bamboo bundles to full truck cargo, we deliver to 38 provinces with safe packing.",
+   "keywords": [
+    "bulk bamboo water shipping",
+    "bamboo cargo",
+    "bamboo shipping across indonesia",
+    "wholesale bamboo water delivery",
+    "bamboo stalk expedition",
+    "inter-island cargo"
+   ],
+   "menuDesc": "Land, sea & air cargo",
+   "s": {
+    "tiersEyebrow": "Cargo Services",
+    "tiersTitle": "Three Shipping Channels",
+    "tiersHighlight": "According to Your Needs",
+    "tiersDescription": "From regular couriers to air cargo — all standardized with safe packing.",
+    "capEyebrow": "Capabilities",
+    "capTitle": "Large Volume?",
+    "capHighlight": "Ready.",
+    "capabilities": [
+     {
+      "title": "Bulk Capacity",
+      "text": "Daily bottles, jerry can/drum pallets, up to full truckloads of 200–400 bamboo stalks per shipment."
+     },
+     {
+      "title": "Safe Packing",
+      "text": "Double-wall cartons, wooden seals, strapping, and cold-pack for fresh delivery over long distances."
+     },
+     {
+      "title": "Shipment Tracking",
+      "text": "Tracking number & status updates via WhatsApp until delivery is received."
+     },
+     {
+      "title": "Regular Schedule",
+      "text": "Weekly/monthly shipping contracts for distributors, clinics, and projects."
+     }
+    ],
+    "flowEyebrow": "Shipping Process",
+    "flowTitle": "How Large Orders Are",
+    "flowHighlight": "Processed",
+    "flowSteps": [
+     {
+      "title": "Consultation & Quotation",
+      "text": "Specify type, volume, and destination city — our formal quotation is sent within max. 1×24 hours."
+     },
+     {
+      "title": "Contract & DP",
+      "text": "Agree on price, schedule, and terms. 50% DP starts production/procurement."
+     },
+     {
+      "title": "Production & Packing",
+      "text": "Production on schedule + standard cargo packing (wooden seal for full loads)."
+     },
+     {
+      "title": "Ship & Track",
+      "text": "Departure with tracking number — final payment upon delivery."
+     }
+    ],
+    "ctaTitle": "Request Cargo Quote Now",
+    "ctaDescription": "Send your requirements details — formal quotation with maximum shipping cost estimate within 1×24 working hours.",
+    "ctaWaMessage": "Hello! I'd like to request a bulk shipping quotation. Here are my requirements details:"
+   }
+  },
+  "jangkauan-kota": {
+   "navLabel": "City Coverage",
+   "seoTitle": "City Coverage Shipping — 38 Provinces Across Indonesia | BWN",
+   "metaDescription": "We ship bamboo water & bamboo stalks to cities across Indonesia: Jakarta, Bandung, Surabaya, Medan, Makassar to Jayapura.",
+   "h1": "City Coverage Across Indonesia",
+   "eyebrow": "Area Coverage",
+   "intro": "38 provinces, dozens of cities, one trusted distribution network. Find your city and start ordering today.",
+   "keywords": [
+    "indonesia shipping coverage",
+    "ship bamboo water jakarta",
+    "bamboo water distributor city",
+    "bamboo shipping across indonesia",
+    "inter-island bamboo cargo"
+   ],
+   "menuDesc": "38 provinces across Indonesia",
+   "s": {
+    "scopeEyebrow": "Area Coverage",
+    "scopeTitle": "38 Provinces,",
+    "scopeHighlight": "One Trusted Network",
+    "scopeDescription": "Since 2007 our distribution network has grown from West Java to all of Nusantara — your city is definitely covered.",
+    "islands": [
+     "Java Island",
+     "Sumatra",
+     "Kalimantan",
+     "Sulawesi",
+     "Bali & Nusa Tenggara",
+     "Maluku & Papua"
+    ],
+    "citiesSuffix": "+ cities",
+    "notListedStrong": "Your city not listed?",
+    "notListed": " We can still deliver to almost all regions in Indonesia through local expedition partners — ask directly to our team.",
+    "checkCity": "Check My City",
+    "checkWaMessage": "Hi! Does Bambu Water Nusantara deliver to my city?"
+   }
+  },
+  "harga-paket": {
+   "navLabel": "Pricing & Packages",
+   "seoTitle": "Bamboo Water & Bamboo Stick Pricing — Retail to Wholesale",
+   "metaDescription": "Price list for distilled bamboo water, medicinal bamboo water, and bamboo sticks (Petung, Wulung, Apus, Ori) — retail, wholesale, and corporate cargo.",
+   "h1": "Pricing & Packages",
+   "eyebrow": "Transparent & Affordable",
+   "intro": "Clear pricing with no hidden fees — from single bottles for families to truck cargo for distributors and projects.",
+   "keywords": [
+    "bamboo water price",
+    "bamboo stick price per piece",
+    "bamboo water gallon price",
+    "wholesale bamboo water price",
+    "bamboo water package",
+    "petung wulung bamboo price"
+   ],
+   "menuDesc": "Retail, wholesale & corporate",
+   "s": {
+    "priceEyebrow": "Price List",
+    "priceTitle": "Transparent from",
+    "priceHighlight": "Retail to Cargo",
+    "priceDescription": " indicative 2025 pricing — final price adjusts based on volume, delivery location, and harvest fluctuations.",
+    "tabs": [
+     "💧 Distilled Bamboo Water",
+     "🌿 Medicinal Bamboo Water",
+     "🎍 Bamboo Sticks"
+    ],
+    "tableHeads": [
+     "Product",
+     "Indicative Price",
+     "Unit",
+     "Description"
+    ],
+    "priceNote": "Price excludes shipping cost. For large volume, destination city, and regular contracts — final price is provided in official offer within max 1×24 hours.",
+    "tiersEyebrow": "The More, The More You Save",
+    "tiersTitle": "Three Tiers",
+    "tiersHighlight": "Special Prices",
+    "tiers": [
+     {
+      "label": "Retail",
+      "desc": "1–9 units",
+      "benefit": "Standard price, no minimum"
+     },
+     {
+      "label": "Wholesale",
+      "desc": "10 units and above",
+      "benefit": "Tiered discount up to 15%"
+     },
+     {
+      "label": "Corporate/Contract",
+      "desc": "Monthly / project",
+      "benefit": "Best price + fixed supply schedule"
+     }
+    ],
+    "badgeBest": "Best",
+    "ctaButton": "Request Final Offer"
+   }
+  },
+  "cara-pemesanan": {
+   "navLabel": "How to Order",
+   "seoTitle": "How to Order Bamboo Water & Bamboo Sticks — 4 Easy Steps",
+   "metaDescription": "How to order BWN bamboo water & bamboo sticks: choose products, confirm via WhatsApp 0813-1651-6524, secure payment, delivery across Indonesia.",
+   "h1": "Easy & Fast Ordering Guide",
+   "eyebrow": "Order Guide",
+   "intro": "Four simple steps from choosing your product to bamboo water arriving at your door — anywhere in Indonesia.",
+   "keywords": [
+    "how to order bamboo water",
+    "how to buy bamboo water",
+    "order bamboo water whatsapp",
+    "bamboo stick ordering",
+    "order bamboo water"
+   ],
+   "menuDesc": "4 easy steps to order",
+   "s": {
+    "stepsEyebrow": "4 Easy Steps",
+    "stepsTitle": "From Order to",
+    "stepsHighlight": "Your Doorstep",
+    "stepLabel": "Step",
+    "steps": [
+     {
+      "title": "1. Choose Product & Volume",
+      "text": "Determine the type (distilled bamboo water/herbalist bamboo or bamboo stalk), packaging, and quantity. Unsure? Our team can help recommend."
+     },
+     {
+      "title": "2. Confirm via WhatsApp",
+      "text": "Chat WhatsApp {wa} or fill out the form below. Include your shipping city — we'll reply with the final price and estimated arrival."
+     },
+     {
+      "title": "3. Secure Payment",
+      "text": "Bank transfer, QRIS, or COD for certain areas. For large contracts: 50% down payment, balance due upon arrival."
+     },
+     {
+      "title": "4. Ship & Receive",
+      "text": "Orders are packed in food-grade/safe cargo, shipped with a trackable receipt — delivered to 38 provinces in Indonesia."
+     }
+    ],
+    "paymentTitle": "Payment Methods",
+    "paymentMethods": [
+     "Bank Transfer (BCA, BRI, Mandiri, BNI)",
+     "QRIS (all e-wallets)",
+     "COD for Jabodetabek & Bandung areas",
+     "Corporate invoice / credit terms"
+    ],
+    "shippingTitle": "Shipping Estimates",
+    "shipping": [
+     {
+      "area": "Jabodetabek & West Java",
+      "eta": "1–3 days"
+     },
+     {
+      "area": "Other Java islands",
+      "eta": "2–4 days"
+     },
+     {
+      "area": "Sumatra/Kalimantan/Sulawesi",
+      "eta": "3–7 days"
+     },
+     {
+      "area": "Maluku, Papua & NTT",
+      "eta": "2–5 days (air)"
+     }
+    ],
+    "chatTitle": "Prefer to Chat Directly?",
+    "chatDesc": "Quick responses during business hours {hours}.",
+    "chatWaLabel": "WhatsApp",
+    "faqEyebrow": "Quick Info",
+    "faqTitle": "Questions About",
+    "faqHighlight": "Ordering",
+    "quickFaqs": [
+     {
+      "q": "How long is order processing?",
+      "a": "Regular orders are processed the same day (before 15:00 WIB). Bamboo Herbalist Water is harvested the following dawn. Large cargo follows the fleet schedule with 1–3 days preparation."
+     },
+     {
+      "q": "Is there a wholesale minimum order?",
+      "a": "Wholesale prices apply starting from 10 units (jerry cans/cartons) or 10 bamboo stalks. Below that, we still serve at retail price."
+     },
+     {
+      "q": "Can I set up a monthly delivery schedule?",
+      "a": "Yes. Regular supply contracts get the best price + fleet priority — popular for therapy clinics, distributors, and construction projects."
+     }
+    ],
+    "faqMore": "Still have questions? See",
+    "faqMoreLink": "our complete FAQ page →"
+   }
+  },
+  "artikel": {
+   "navLabel": "All Articles",
+   "seoTitle": "Bamboo Water Articles & Knowledge — BWN Health Information Center",
+   "metaDescription": "Collection of bamboo water health articles: diabetes, kidney stones, cholesterol, detox, bones, beauty, and the history of Nusantara traditions.",
+   "h1": "Bamboo Water Knowledge Center",
+   "eyebrow": "Blog & Articles",
+   "intro": "Everything you need to know about bamboo water — curated from scientific research and the wisdom of the Nusantara archipelago.",
+   "keywords": [
+    "bamboo water articles",
+    "bamboo water blog",
+    "bamboo water health information",
+    "bamboo water knowledge",
+    "healthy drink articles"
+   ],
+   "menuDesc": "Bamboo water knowledge center",
+   "s": {
+    "headingEyebrow": "Health Library",
+    "headingTitle": "7 Featured Articles about",
+    "headingHighlight": "Bamboo Water",
+    "headingDescription": "Curated from scientific research (PMC, TIME) and the wisdom of Nusantara herbalists — all free for you to read.",
+    "featuredBadge": "Featured",
+    "searchInfo": "Looking for a specific topic? All our articles are optimized to be easily found on Google — just search for",
+    "searchQuery": "bamboo water + your topic + bambuwater.web.id",
+    "searchTail": ", or ask our team directly via WhatsApp at the bottom right of the screen."
+   }
+  },
+  "testimoni": {
+   "navLabel": "Testimonials",
+   "seoTitle": "Customer Testimonials — Real Stories about Bamboo Water Benefits from BWN",
+   "metaDescription": "Real customer stories from Bambu Water Nusantara: healthy families, trusted therapists, and distributor partners across Indonesia.",
+   "h1": "Customer Testimonials",
+   "eyebrow": "Real Stories",
+   "intro": "From family kitchens to therapy clinics — here are the stories of those who have experienced the benefits of BWN bamboo water.",
+   "keywords": [
+    "bamboo water testimonials",
+    "bamboo water reviews",
+    "drinking bamboo water experience",
+    "bambu water nusantara testimonials"
+   ],
+   "menuDesc": "Customer stories",
+   "s": {
+    "headingEyebrow": "Trusted Since 2007",
+    "headingTitle": "Stories from Those Who Have",
+    "headingHighlight": "Experienced It",
+    "headingDescription": "From family kitchens to clinics and construction projects — 18+ years building trust across Indonesia.",
+    "ratingAria": "Rating {n} out of 5 stars",
+    "verified": "Verified customer",
+    "statYearsLabel": "Years of service since 2007",
+    "statProvincesLabel": "Provinces reached",
+    "statSatisfactionLabel": "Average customer satisfaction",
+    "ctaTitle": "Join Thousands of Satisfied Customers",
+    "ctaDescription": "From a gallon for your family, to supply contracts for your business."
+   }
+  },
+  "faq": {
+   "navLabel": "FAQ",
+   "seoTitle": "FAQ — Common Questions About Bamboo Water & BWN Services",
+   "metaDescription": "Complete answers to common questions: what is bamboo water, daily safety, product differences, how to order wholesale, delivery, and company legality.",
+   "h1": "Frequently Asked Questions",
+   "eyebrow": "Help & Info",
+   "intro": "All questions about bamboo water, products, ordering, and delivery — answered completely on one page.",
+   "keywords": [
+    "bamboo water faq",
+    "bamboo water questions",
+    "bamboo water q&a",
+    "is bamboo water safe",
+    "how to order wholesale bamboo water"
+   ],
+   "menuDesc": "Frequently asked questions",
+   "s": {
+    "headingEyebrow": "Top 10 Questions",
+    "headingTitle": "Everything You Want to",
+    "headingHighlight": "Ask",
+    "headingDescription": "Curated from thousands of WhatsApp conversations with customers across Indonesia.",
+    "unansweredTitle": "Your Question Unanswered?",
+    "unansweredDesc": "Our team is ready to answer — free consultation, no purchase pressure.",
+    "askWa": "Ask via WhatsApp"
+   }
+  },
+  "kontak": {
+   "navLabel": "Contact",
+   "seoTitle": "Contact & Ordering — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "Contact PT Bambu Water Nusantara: WhatsApp 0813-1651-6524, email, order form. Free consultation for therapy & wholesale needs.",
+   "h1": "Contact Us — Free Consultation",
+   "eyebrow": "Contact & Ordering",
+   "intro": "Our team is ready to help with family therapy needs to mass distribution contracts. Quick response during business hours.",
+   "keywords": [
+    "bambu water nusantara contact",
+    "wa bamboo water",
+    "whatsapp bamboo water",
+    "bamboo water message",
+    "bamboo water consultation",
+    "Bambu Water WhatsApp number"
+   ],
+   "menuDesc": "",
+   "s": {
+    "cards": [
+     {
+      "title": "WhatsApp (Fastest)",
+      "note": "Average response < 15 minutes during business hours"
+     },
+     {
+      "title": "Phone"
+     },
+     {
+      "title": "General Email",
+      "note": "General inquiries & partnerships"
+     },
+     {
+      "title": "Sales Email",
+      "note": "Wholesale offers, cargo & contracts"
+     }
+    ],
+    "identityTitle": "Company Identity",
+    "legalLabel": "Legal Entity",
+    "legalValue": "Official PT, registered deed",
+    "foundedLabel": "Established",
+    "foundedValue": "Pioneer since 2007 — largest & first in Indonesia",
+    "siteLabel": "Official Website",
+    "addressTitle": "Address & Service Area",
+    "areaLabel": "Service area:",
+    "areaText": "all 38 provinces in Indonesia — regular shipping, sea cargo, and air express.",
+    "ctaTitle": "We Reply As Soon As Possible",
+    "ctaDescription": "WhatsApp {wa} is the fastest channel — free consultation for all needs."
+   }
+  }
+ },
+ "data": {
+  "brandClaim": "Since 2007 — Largest & First in Indonesia",
+  "tagline": "Indonesia's Bamboo Water Pioneer Since 2007",
+  "productionNote": "Our bamboo water is distilled by experienced santri and supervised by a multidisciplinary expert board — combining meticulousness, integrity, and modern quality standards.",
+  "benefits": [
+   {
+    "icon": "thermometer",
+    "title": "Reduces Fever & Internal Heat",
+    "description": "The natural cooling effect of bamboo water has long been utilized in traditional Nusantara medicine to alleviate fever and internal heat."
+   },
+   {
+    "icon": "wind",
+    "title": "Relieves Cough & Phlegm",
+    "description": "Helps clear respiratory passages from phlegm and naturally soothes throat irritation."
+   },
+   {
+    "icon": "heart-pulse",
+    "title": "Supports Heart Health",
+    "description": "The flavonoid and polyphenol content in bamboo water helps protect the heart and blood vessels from free radical attacks."
+   },
+   {
+    "icon": "activity",
+    "title": "Supports Normal Blood Sugar",
+    "description": "In herbal tradition, bamboo tuak water is believed to help lower blood sugar levels and maintain body metabolism."
+   },
+   {
+    "icon": "droplets",
+    "title": "Aids Digestion",
+    "description": "The natural minerals and alkaline properties of bamboo water help promote the digestive system and body detoxification."
+   },
+   {
+    "icon": "shield-check",
+    "title": "Boosts Body Endurance",
+    "description": "Antioxidants, amino acids, and essential minerals in bamboo water support the immune system to stay optimal."
+   },
+   {
+    "icon": "sparkles",
+    "title": "Silica for Skin, Hair & Nails",
+    "description": "Organic bamboo silica — one of the highest in nature — supports collagen production for supple skin, healthy hair, and strong nails."
+   },
+   {
+    "icon": "flower-2",
+    "title": "Relieves Menstrual Pain",
+    "description": "Traditional medicine utilizes bamboo water to relieve menstrual pain and help reduce excessive bleeding."
+   }
+  ],
+  "faqs": [
+   {
+    "q": "What is bamboo water and where does it come from?",
+    "a": "Bamboo water (palm wine bamboo water) is a natural sap that forms inside young bamboo culms. This water is collected using the budding technique, then can be consumed directly or distilled for better safety and shelf life."
+   },
+   {
+    "q": "What are the health benefits of bamboo water?",
+    "a": "Based on scientific studies (Journal of Medicinal Plant Research, 2015), bamboo extract has protective antioxidant, anti-inflammatory effects, and supports cardiovascular health. In Nusantara traditional medicine, bamboo water is used to relieve fever, cough and phlegm, improve digestion, help lower blood sugar and cholesterol, and maintain body immunity. Bamboo water is a natural therapy companion — not a doctor's medicine replacement."
+   },
+   {
+    "q": "Is it safe to consume bamboo water every day?",
+    "a": "Yes. Our distilled bamboo water undergoes a gradual distillation process and microbiological quality testing, making it safe for daily consumption. For raw sap (Air Bambu Tabib), we recommend consumption according to therapist or healthcare professional advice."
+   },
+   {
+    "q": "Can I order bamboo water and bamboo stems in large quantities?",
+    "a": "Yes. We serve wholesale and cargo orders — distilled bamboo water in jugs/drums and quality bamboo stems (Petung, Wulung, Apus, Ori) per bundle up to per truck, with delivery to all provinces in Indonesia."
+   },
+   {
+    "q": "What types of bamboo are available?",
+    "a": "We provide Petung/Betung bamboo (Dendrocalamus asper) for construction, Wulung (black) bamboo for premium aesthetics and crafts, Apus bamboo for ropes and weaving, and Ori bamboo for lightweight frames. All are selected from 3+ years, straight, and evenly dried."
+   },
+   {
+    "q": "How to order and how long is the delivery time?",
+    "a": "You can order through the form on this website, WhatsApp, or sales email. Regular orders for Jabodetabek & West Java 1–3 business days; outside Java 3–7 business days depending on location and volume. Large shipments use a trusted cargo fleet."
+   },
+   {
+    "q": "Is PT Bambu Water Nusantara a legal entity?",
+    "a": "Yes, we are an official Limited Liability Company (Perseroan Terbatas) with a registered founding deed — supported by founders, a complete board of commissioners and directors, an operational management division, and a multidisciplinary expert board that oversees production quality."
+   },
+   {
+    "q": "What is the difference between Distilled Bamboo Water and Air Bambu Tabib?",
+    "a": "Distilled Bamboo Water is bamboo sap purified through gradual distillation — safe for daily consumption with a longer shelf life. Air Bambu Tabib is fresh raw sap directly from the bamboo culm, harvested using traditional techniques for therapeutic, tabib, and complementary medicine practices."
+   },
+   {
+    "q": "Can bamboo water replace doctor's medicine?",
+    "a": "No. Bamboo water is a natural therapy beverage that complements a healthy lifestyle, not a medicine. For specific medical conditions such as diabetes, hypertension, or kidney disease, always consult your doctor or healthcare professional before making bamboo water part of your health program."
+   },
+   {
+    "q": "Do you serve shipping outside Java Island?",
+    "a": "Yes, we deliver to all 38 provinces in Indonesia — Sumatera, Kalimantan, Sulawesi, Bali & Nusa Tenggara, Maluku, to Papua — via a network of land, sea, and air cargo with safe packing for long-distance shipping."
+   }
+  ],
+  "products": [
+   {
+    "id": "air-bambu-suling",
+    "name": "Premium Distilled Bamboo Water",
+    "tagline": "Daily therapeutic beverage",
+    "image": "/images/product-water-bottle.jpg",
+    "sizes": [
+     "600 ml Bottle",
+     "1.5 L Bottle",
+     "19 L Gallon"
+    ],
+    "description": "Hygienically distilled young bamboo sadapan water to preserve its natural minerals and silica. Suitable for daily consumption, detox programs, and as a companion for health therapy.",
+    "features": [
+     "Hygienic step-by-step distillation",
+     "Chlorine & heavy metal free",
+     "Naturally balanced pH",
+     "Food-grade packaging"
+    ],
+    "badge": "Premium"
+   },
+   {
+    "id": "air-bambu-tabib",
+    "name": "Bamboo Tabib Water (Raw Sadapan)",
+    "tagline": "Nusantara healing tradition",
+    "image": "/images/process-harvest.jpg",
+    "sizes": [
+     "5 L Jerigen",
+     "10 L Jerigen",
+     "30 L Drum"
+    ],
+    "description": "Pure young bamboo sadapan water directly from the bamboo shoots — harvested with traditional tabib bud technique, shipped fresh for therapy needs, complementary medicine, and healing.",
+    "features": [
+     "Fresh harvest per order",
+     "Traditional bud technique",
+     "Preservative-free",
+     "For therapists & tabibs"
+    ],
+    "badge": "Therapy"
+   },
+   {
+    "id": "bambu-berkualitas",
+    "name": "Quality Bamboo for Construction & Craft",
+    "tagline": "Petung, Wulung, Apus, Ori",
+    "image": "/images/product-bamboo-poles.jpg",
+    "sizes": [
+     "Per stick",
+     "Per bundle",
+     "Per truck/cargo"
+    ],
+    "description": "Selected bamboo aged 3+ years: Petung for construction, Wulung for aesthetics, Apus for ropes & crafts, and Ori for frames. Selected straight, evenly dried, and pest-free.",
+    "features": [
+     "3+ years age selection",
+     "Straight & evenly dried",
+     "Drying & fumigation",
+     "People's forest origin certification"
+    ],
+    "badge": "Bulk"
+   }
+  ],
+  "process": [
+   {
+    "step": "01",
+    "title": "Sustainable Harvesting",
+    "description": "Young bamboo is selected from regulated people's bamboo forests — harvested without damaging the clump to ensure forest sustainability."
+   },
+   {
+    "step": "02",
+    "title": "Bamboo Sadapan Water Collection",
+    "description": "Sadapan water is collected using bud technique from young bamboo shoots when mineral content is at its highest."
+   },
+   {
+    "step": "03",
+    "title": "Distillation & Quality Testing",
+    "description": "Step-by-step distilled in hygienic facilities, tested for microbiology & minerals, confirmed safe for consumption according to standards."
+   },
+   {
+    "step": "04",
+    "title": "Packaging & Distribution",
+    "description": "Packaged in food-grade materials then shipped throughout Indonesia — from single bottles to large truck cargo."
+   }
+  ],
+  "deliveryTiers": [
+   {
+    "name": "Regular",
+    "area": "Jabodetabek & West Java",
+    "eta": "1–3 business days",
+    "icon": "truck",
+    "description": "Reliable courier with safe food-grade packing for bottle to jerigen orders.",
+    "features": [
+     "Minimum free order",
+     "Food-grade packing",
+     "Track shipment"
+    ]
+   },
+   {
+    "name": "Inter-Island Cargo",
+    "area": "All Java, Sumatera, Kalimantan, Sulawesi, Bali & NT",
+    "eta": "3–7 business days",
+    "icon": "ship",
+    "description": "Land & sea cargo with large volume for distributors, resellers, and projects.",
+    "features": [
+     "Min. 1 jerigen / 10 sticks",
+     "Wooden seal & strapping",
+     "Optional cargo insurance"
+    ]
+   },
+   {
+    "name": "Air Express",
+    "area": "Maluku, Papua & NTT",
+    "eta": "2–5 working days",
+    "icon": "plane",
+    "description": "Air delivery for eastern Indonesia — fresh to your destination.",
+    "features": [
+     "Priority flight",
+     "Optional cold-pack",
+     "Suitable for therapists & clinics"
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "suffix": "+",
+    "label": "Years of experience — Largest & First in Indonesia since 2007",
+    "prefix": ""
+   },
+   {
+    "suffix": " ha",
+    "label": "Indonesian bamboo land — largest in the world",
+    "prefix": ""
+   },
+   {
+    "suffix": "%",
+    "label": "Organic silica content in bamboo leaf extract",
+    "prefix": ""
+   },
+   {
+    "suffix": " Provinces",
+    "label": "Delivery coverage across Indonesia",
+    "prefix": ""
+   }
+  ],
+  "nutrition": [
+   {
+    "name": "Organic Silica",
+    "note": "Bamboo leaf extract up to 70% silica — highest in nature"
+   },
+   {
+    "name": "Flavonoids & Polyphenols",
+    "note": "Antioxidants protecting cells from free radicals"
+   },
+   {
+    "name": "Natural Chlorophyll",
+    "note": "Supports cell detoxification and regeneration"
+   },
+   {
+    "name": "Essential Amino Acids",
+    "note": "Building blocks for body tissues"
+   },
+   {
+    "name": "Potassium, Calcium & Magnesium Minerals",
+    "note": "Natural electrolytes balancing body fluids"
+   }
+  ],
+  "pricing": {
+   "airBambu": [
+    {
+     "product": "600 ml Bottle",
+     "price": "Rp 15,000",
+     "unit": "per bottle",
+     "note": "Carton of 24 bottles"
+    },
+    {
+     "product": "1.5 L Bottle",
+     "price": "Rp 32,000",
+     "unit": "per bottle",
+     "note": "Carton of 12 bottles"
+    },
+    {
+     "product": "19 L Gallon",
+     "price": "Rp 95,000",
+     "unit": "per gallon",
+     "note": "Includes food-grade gallon"
+    },
+    {
+     "product": "10 L Jar",
+     "price": "Rp 60,000",
+     "unit": "per jerigen",
+     "note": "Wholesale min. 10 pcs"
+    },
+    {
+     "product": "30 L Drum",
+     "price": "Rp 165,000",
+     "unit": "per drum",
+     "note": "Wholesale min. 5 drums"
+    }
+   ],
+   "airTabib": [
+    {
+     "product": "5 L Jerigen",
+     "price": "Rp 85,000",
+     "unit": "per jerigen",
+     "note": "Daily fresh sadapan"
+    },
+    {
+     "product": "10 L Jerigen",
+     "price": "Rp 160,000",
+     "unit": "per jerigen",
+     "note": "Daily fresh sadapan"
+    },
+    {
+     "product": "30 L Drum",
+     "price": "Rp 450.000",
+     "unit": "per drum",
+     "note": "For clinics & traditional medicine communities"
+    }
+   ],
+   "bambu": [
+    {
+     "product": "Bambu Petung (construction)",
+     "price": "Rp 85.000 – 150.000",
+     "unit": "per stick",
+     "note": "Length 8–12 m, Ø 10–18 cm"
+    },
+    {
+     "product": "Bambu Wulung (black)",
+     "price": "Rp 120.000 – 250.000",
+     "unit": "per stick",
+     "note": "Premium aesthetics, glossy treatment"
+    },
+    {
+     "product": "Bambu Apus (weaving & binding)",
+     "price": "Rp 45.000 – 90.000",
+     "unit": "per stick",
+     "note": "Strong fibers, flexible"
+    },
+    {
+     "product": "Bambu Ori (light frame)",
+     "price": "Rp 55.000 – 110.000",
+     "unit": "per stick",
+     "note": "Slender for furniture"
+    }
+   ]
+  },
+  "leadership": {
+   "pendiri": [
+    {
+     "name": "Ko Abuy",
+     "role": "Founder Board"
+    },
+    {
+     "name": "H. Gugun Gunara, S.E",
+     "role": "Founder Board"
+    }
+   ],
+   "komisaris": [
+    {
+     "name": "Hj. Qonitah Lutfiah, S.E., M.M.",
+     "role": "Main Commissioner",
+     "shares": "30%"
+    },
+    {
+     "name": "Drs. Arif Rachman Hakim",
+     "role": "Commissioner",
+     "shares": "15%"
+    },
+    {
+     "name": "Jajang Sutivana",
+     "role": "Commissioner",
+     "shares": "15%"
+    }
+   ],
+   "direktur": [
+    {
+     "name": "H. Gugun Gunara, S.E",
+     "role": "Main Director",
+     "shares": "25%"
+    },
+    {
+     "name": "Rahmadini",
+     "role": "Director",
+     "shares": "5%"
+    },
+    {
+     "name": "H. Abdul Rohman",
+     "role": "Director",
+     "shares": "5%"
+    },
+    {
+     "name": "H. Solihin",
+     "role": "Director",
+     "shares": "5%"
+    }
+   ],
+   "managers": [
+    {
+     "name": "Mr. Aceng Kurnia",
+     "role": "Operations Manager"
+    },
+    {
+     "name": "Mr. Yudi Oktora",
+     "role": "Operations Manager"
+    },
+    {
+     "name": "Mr. Mahbub",
+     "role": "Operations Manager"
+    },
+    {
+     "name": "Mr. Soleh M Ramdani",
+     "role": "Operations Manager"
+    },
+    {
+     "name": "Mr. Ivan Nugraha",
+     "role": "Operations Manager"
+    },
+    {
+     "name": "Mr. Hendri Sutiana",
+     "role": "Operations Manager"
+    }
+   ],
+   "offices": [
+    {
+     "id": "pusat",
+     "label": "Head Office",
+     "city": "Tasikmalaya"
+    },
+    {
+     "id": "branch-2",
+     "label": "Branch Office 2",
+     "city": "Tasikmalaya"
+    },
+    {
+     "id": "branch-3",
+     "label": "Branch Office 3",
+     "city": "Bandung"
+    }
+   ]
+  },
+  "testimonials": [
+   {
+    "name": "Bpk. Hendra Wijaya",
+    "role": "Pemilik Kafe Sehat, Bandung",
+    "text": "Air bambu suling dari BWN jadi andalan menu signature kami. Pelanggan betah, rasanya bening dan segar — beda dari air biasa. Pengiriman selalu tepat waktu."
+   },
+   {
+    "name": "Ibu Ratna Sari",
+    "role": "Praktisi Terapi Herbal, Surabaya",
+    "text": "Saya sudah mencari air tuak bambu berkualitas bertahun-tahun. Sadapan tabib dari BWN konsisten kemurniannya, dan ini membantu banyak klien program detoks saya."
+   },
+   {
+    "name": "Ir. Bambang Prasetyo",
+    "role": "Kontraktor Bangunan Hijau, Jakarta",
+    "text": "Untuk paviliun bambu resor kami di Bali, BWN memasok ratusan batang bambu petung dan wulung dalam dua pengiriman kargo. Batangnya lurus, kering, tanpa cacat."
+   },
+   {
+    "name": "Ibu Nurul Hidayah",
+    "role": "Ibu Rumah Tangga, Yogyakarta",
+    "text": "Anak saya sering panas dalam. Sejak rutin minum air bambu ini setiap pagi, keluhannya jauh berkurang. Rasanya lembut, tidak ada aftertaste sama sekali."
+   },
+   {
+    "name": "Bpk. Darmawan Lisdiyanto",
+    "role": "Distributor Herbal, Medan",
+    "text": "Ambil grosir galon 19 L setiap bulan untuk jaringan toko saya di Sumatera. Margin sehat, mutu stabil, tim korporatnya profesional mengurus dokumen pengiriman."
+   }
+  ],
+  "reasons": {
+   "items": [
+    {
+     "title": "Highest Organic Silica in Nature",
+     "text": "Up to ~70% — the key to collagen and skin elasticity that kept emperors young."
+    },
+    {
+     "title": "Anti-Aging Antioxidants",
+     "text": "Flavonoids & polyphenols fight free radicals, the main cause of premature aging."
+    },
+    {
+     "title": "Reduces Fever & Internal Heat",
+     "text": "A natural cooling effect passed down by Nusantara healers for generations."
+    },
+    {
+     "title": "Soothes Cough & Phlegm",
+     "text": "Similar to \"Tian Zhu Li\" in ancient Chinese imperial medicine — eases breathing."
+    },
+    {
+     "title": "Supports Normal Blood Sugar & Cholesterol",
+     "text": "The best sweet drink replacement for your family's healthy living program."
+    },
+    {
+     "title": "Improves Digestion & Detox",
+     "text": "Natural chlorophyll and minerals help the body flush out daily toxins."
+    },
+    {
+     "title": "Pure Hydration Without Caffeine & Sugar",
+     "text": "Safe to drink anytime — for kids, adults, and seniors."
+    },
+    {
+     "title": "Keeps Bones & Joints Youthful",
+     "text": "Silica supports bone density — active seniors like ancient nobles."
+    },
+    {
+     "title": "Beauty from Within",
+     "text": "Supple skin, shiny hair, and strong nails — nature's beauty ritual."
+    },
+    {
+     "title": "Prime Physical Endurance",
+     "text": "Amino acids, chlorophyll, and essential minerals keep immunity strong in all seasons."
+    }
+   ],
+   "badges": [
+    {
+     "icon": "droplets",
+     "label": "Highest silica"
+    },
+    {
+     "icon": "leaf",
+     "label": "100% natural"
+    },
+    {
+     "icon": "book-open-text",
+     "label": "Thousand-year heritage"
+    },
+    {
+     "icon": "shield-check",
+     "label": "Modern research"
+    }
+   ]
+  },
+  "science": {
+   "nutrition": [
+    {
+     "name": "Organic Silica",
+     "note": "Bamboo leaf extract contains up to 70% silica — the highest in nature"
+    },
+    {
+     "name": "Flavonoids & Polyphenols",
+     "note": "Antioxidants that protect cells from free radicals"
+    },
+    {
+     "name": "Natural Chlorophyll",
+     "note": "Supports detoxification and cell regeneration"
+    },
+    {
+     "name": "Essential Amino Acids",
+     "note": "The building blocks of protein for body tissues"
+    },
+    {
+     "name": "Potassium, Calcium & Magnesium Minerals",
+     "note": "Natural electrolytes that balance body fluids"
+    }
+   ]
+  },
+  "about": {
+   "values": [
+    {
+     "icon": "shield-check",
+     "title": "Pure & Tested",
+     "text": "Every drop undergoes distillation and quality testing before reaching your hands."
+    },
+    {
+     "icon": "heart-handshake",
+     "title": "Bamboo Farmer Partners",
+     "text": "Partnering with community bamboo farmers — purchasing harvests at fair prices."
+    },
+    {
+     "icon": "scale",
+     "title": "Official Legal Entity",
+     "text": "Official PT company with founders, commissioners, directors, and cross-field expert board — secure for contracts & large-scale procurement."
+    }
+   ]
+  }
+ }
+}

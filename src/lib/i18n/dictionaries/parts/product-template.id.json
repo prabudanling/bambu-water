@@ -1,0 +1,18 @@
+{
+  "ui": {
+    "productTemplate": {
+      "packaging": "Pilihan Kemasan",
+      "orderWa": "Pesan via WhatsApp",
+      "viewPrice": "Lihat Harga",
+      "usesEyebrow": "Untuk Apa",
+      "usesTitle": "Kegunaan &",
+      "usesHighlight": "Manfaatnya",
+      "guideTitle": "Panduan",
+      "guideHighlight": "Penggunaan",
+      "faqTitle": "Pertanyaan",
+      "faqHighlight": "Umum",
+      "safetyNote": "Produk food-grade, diproses higienis, tanpa pengawet.",
+      "relatedLabel": "Produk Lainnya"
+    }
+  }
+}

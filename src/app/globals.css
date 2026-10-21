@@ -1,0 +1,260 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-jakarta);
+  --font-serif: var(--font-playfair);
+  --font-mono: var(--font-geist-mono);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-bamboo: var(--bamboo);
+  --color-bamboo-light: var(--bamboo-light);
+  --color-bamboo-deep: var(--bamboo-deep);
+  --color-gold: var(--gold);
+  --color-spring: var(--spring);
+  --color-cream: var(--cream);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.75rem;
+  /* Bambu Water Nusantara — palet hijau bambu, emas, krem */
+  --background: oklch(0.985 0.008 95);
+  --foreground: oklch(0.24 0.03 150);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.24 0.03 150);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.24 0.03 150);
+  --primary: oklch(0.39 0.09 152);
+  --primary-foreground: oklch(0.985 0.01 120);
+  --secondary: oklch(0.94 0.03 130);
+  --secondary-foreground: oklch(0.32 0.06 150);
+  --muted: oklch(0.95 0.015 110);
+  --muted-foreground: oklch(0.5 0.03 150);
+  --accent: oklch(0.93 0.05 128);
+  --accent-foreground: oklch(0.28 0.07 152);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.89 0.03 130);
+  --input: oklch(0.89 0.03 130);
+  --ring: oklch(0.55 0.1 150);
+  --chart-1: oklch(0.55 0.12 145);
+  --chart-2: oklch(0.68 0.13 95);
+  --chart-3: oklch(0.45 0.1 160);
+  --chart-4: oklch(0.8 0.12 100);
+  --chart-5: oklch(0.7 0.1 170);
+  --sidebar: oklch(0.985 0.008 95);
+  --sidebar-foreground: oklch(0.24 0.03 150);
+  --sidebar-primary: oklch(0.39 0.09 152);
+  --sidebar-primary-foreground: oklch(0.985 0.01 120);
+  --sidebar-accent: oklch(0.93 0.05 128);
+  --sidebar-accent-foreground: oklch(0.28 0.07 152);
+  --sidebar-border: oklch(0.89 0.03 130);
+  --sidebar-ring: oklch(0.55 0.1 150);
+  /* Brand tokens */
+  --bamboo: oklch(0.55 0.13 145);
+  --bamboo-light: oklch(0.75 0.14 128);
+  --bamboo-deep: oklch(0.3 0.07 152);
+  --gold: oklch(0.72 0.12 80);
+  --spring: oklch(0.87 0.06 180);
+  --cream: oklch(0.985 0.008 95);
+}
+
+.dark {
+  --background: oklch(0.19 0.03 152);
+  --foreground: oklch(0.95 0.01 120);
+  --card: oklch(0.23 0.03 150);
+  --card-foreground: oklch(0.95 0.01 120);
+  --popover: oklch(0.23 0.03 150);
+  --popover-foreground: oklch(0.95 0.01 120);
+  --primary: oklch(0.75 0.14 128);
+  --primary-foreground: oklch(0.2 0.05 150);
+  --secondary: oklch(0.28 0.04 150);
+  --secondary-foreground: oklch(0.95 0.01 120);
+  --muted: oklch(0.28 0.04 150);
+  --muted-foreground: oklch(0.7 0.03 130);
+  --accent: oklch(0.3 0.05 148);
+  --accent-foreground: oklch(0.95 0.01 120);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.6 0.1 148);
+  --chart-1: oklch(0.6 0.13 145);
+  --chart-2: oklch(0.75 0.12 95);
+  --chart-3: oklch(0.55 0.1 165);
+  --chart-4: oklch(0.82 0.12 100);
+  --chart-5: oklch(0.68 0.1 170);
+  --sidebar: oklch(0.23 0.03 150);
+  --sidebar-foreground: oklch(0.95 0.01 120);
+  --sidebar-primary: oklch(0.75 0.14 128);
+  --sidebar-primary-foreground: oklch(0.2 0.05 150);
+  --sidebar-accent: oklch(0.3 0.05 148);
+  --sidebar-accent-foreground: oklch(0.95 0.01 120);
+  --sidebar-border: oklch(1 0 0 / 12%);
+  --sidebar-ring: oklch(0.6 0.1 148);
+  --bamboo: oklch(0.72 0.13 140);
+  --bamboo-light: oklch(0.82 0.12 126);
+  --bamboo-deep: oklch(0.35 0.06 152);
+  --gold: oklch(0.78 0.12 82);
+  --spring: oklch(0.87 0.06 180);
+  --cream: oklch(0.21 0.03 150);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-playfair), Georgia, serif;
+  }
+}
+
+/* ====== ANIMASI KUSTOM BAMBU WATER NUSANTARA ====== */
+
+/* Tetesan air mengapung */
+@keyframes float-drop {
+  0% { transform: translateY(-10px) scale(1); opacity: 0; }
+  10% { opacity: 0.9; }
+  50% { transform: translateY(40vh) scale(1); opacity: 0.85; }
+  90% { opacity: 0.9; }
+  100% { transform: translateY(105vh) scale(0.9); opacity: 0; }
+}
+
+/* Rambutan bambu bergoyang */
+@keyframes bamboo-sway {
+  0%, 100% { transform: rotate(-2.5deg); }
+  50% { transform: rotate(2.5deg); }
+}
+
+/* Riak air konsentris */
+@keyframes ripple {
+  0% { transform: scale(0.6); opacity: 0.8; }
+  100% { transform: scale(2.4); opacity: 0; }
+}
+
+/* Marquee kota */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* Gradien bergerak untuk teks & latar */
+@keyframes gradient-flow {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Kilau emas */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+/* Napas lembut pada ornamen */
+@keyframes soft-pulse {
+  0%, 100% { opacity: 0.35; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.06); }
+}
+
+.animate-float-drop {
+  animation: float-drop linear infinite;
+}
+.animate-bamboo-sway {
+  transform-origin: bottom center;
+  animation: bamboo-sway 6s ease-in-out infinite;
+}
+.animate-ripple {
+  animation: ripple 2.4s ease-out infinite;
+}
+.animate-marquee {
+  animation: marquee 36s linear infinite;
+}
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+.animate-gradient-flow {
+  background-size: 200% 200%;
+  animation: gradient-flow 8s ease infinite;
+}
+.animate-soft-pulse {
+  animation: soft-pulse 5s ease-in-out infinite;
+}
+
+/* Teks kilau emas premium */
+.text-shimmer-gold {
+  background: linear-gradient(110deg, #8a6d1f 20%, #e8c766 40%, #fff3c4 50%, #e8c766 60%, #8a6d1f 80%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 5s linear infinite;
+}
+
+/* Scrollbar kustom */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: oklch(0.95 0.02 120);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, oklch(0.55 0.13 145), oklch(0.39 0.09 152));
+  border-radius: 8px;
+  border: 2px solid oklch(0.95 0.02 120);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: oklch(0.45 0.11 148);
+}
+
+/* Seleksi teks */
+::selection {
+  background: oklch(0.75 0.14 128 / 0.5);
+  color: oklch(0.2 0.05 150);
+}
+
+/* Utility: konten terpotong rapi */
+.max-h-scroll::-webkit-scrollbar {
+  width: 6px;
+}

@@ -1,0 +1,36 @@
+{
+  "ui": {
+    "hero": {
+      "ariaLabel": "Beranda Bambu Water Nusantara",
+      "imageAlt": "Hutan bambu Indonesia saat fajar — sinar keemasan menembus kabut dan tetesan air sadapan menetes dari ruas bambu muda",
+      "badge": "Terbesar & Pertama di Indonesia",
+      "badgeSince": "Sejak 2007",
+      "titleLine1": "Sari Bambu Murni,",
+      "titleLine2": "Kesehatan dari Alam",
+      "titleLine3": "Nusantara",
+      "subtitle": "Air sadapan bambu untuk terapi kesehatan alami — kaya silika organik, flavonoid, dan mineral esensial. Kami juga melayani",
+      "subtitleHighlight": "distribusi air bambu & bambu berkualitas",
+      "subtitleAfter": "dalam jumlah besar ke seluruh Indonesia.",
+      "ctaPrimary": "Jelajahi Produk",
+      "ctaSecondary": "Pesan Grosir / Kargo",
+      "trust": [
+        "Suling bertahap higienis",
+        "100% alami tanpa pengawet",
+        "Kirim ke 38 provinsi"
+      ],
+      "scrollAriaLabel": "Gulir ke bawah — Tentang kami"
+    },
+    "stats": {
+      "millionSuffix": " jt",
+      "thousandSuffix": "rb"
+    },
+    "cta": {
+      "ariaLabel": "Ajakan bertindak",
+      "title": "Siap Merasakan Manfaat Air Bambu?",
+      "description": "Konsultasi gratis dengan tim kami — untuk kebutuhan terapi keluarga, grosir, hingga kargo bambu massal ke kota Anda.",
+      "legal": "Badan hukum resmi",
+      "chatCta": "Chat WhatsApp",
+      "formCta": "Isi Formulir"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ui": {
+    "common": {
+      "home": "Beranda",
+      "learnMore": "Pelajari Lebih Lanjut",
+      "seeAll": "Lihat Semua",
+      "readMore": "Baca Selengkapnya",
+      "readArticle": "Baca Artikel",
+      "orderNow": "Pesan Sekarang",
+      "chatWa": "Chat WhatsApp",
+      "fillForm": "Isi Formulir",
+      "backHome": "Kembali ke Beranda",
+      "updated": "Diperbarui",
+      "minutes": "menit baca",
+      "minRead": "menit",
+      "officialSite": "situs resmi",
+      "notMedicalAdvice": "Terapi alami pendamping — bukan pengganti nasihat medis",
+      "legalPt": "Badan Hukum PT Resmi",
+      "languageLabel": "Bahasa",
+      "changeLanguage": "Ganti Bahasa",
+      "copyright": "Seluruh hak cipta dilindungi."
+    },
+    "nav": {
+      "openMenu": "Buka menu navigasi",
+      "closeMenu": "Tutup menu",
+      "orderCta": "Pesan Sekarang",
+      "waCta": "WA",
+      "groups": {
+        "Beranda": "Beranda",
+        "Kesehatan": "Kesehatan",
+        "Artikel": "Artikel",
+        "Produk": "Produk",
+        "Layanan": "Layanan",
+        "Tentang": "Tentang"
+      }
+    },
+    "float": {
+      "title": "Butuh bantuan cepat?",
+      "desc": "Chat kami sekarang — konsultasi gratis, balasan cepat di jam kerja.",
+      "cta": "Mulai Chat",
+      "open": "Buka widget chat WhatsApp",
+      "close": "Tutup widget chat WhatsApp"
+    },
+    "pageHero": {
+      "breadcrumbHome": "Beranda",
+      "breadcrumbLabel": "Breadcrumb",
+      "updatedPrefix": "Diperbarui"
+    },
+    "languageSwitcher": {
+      "label": "Bahasa",
+      "current": "Bahasa aktif",
+      "choose": "Pilih bahasa — 30 bahasa tersedia",
+      "search": "Cari bahasa…",
+      "noResults": "Bahasa tidak ditemukan",
+      "count": "30 bahasa"
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+ "ui": {
+  "common": {
+   "home": "Início",
+   "learnMore": "Saiba Mais",
+   "seeAll": "Ver Tudo",
+   "readMore": "Leia Mais",
+   "readArticle": "Ler Artigo",
+   "orderNow": "Peça Agora",
+   "chatWa": "Chat WhatsApp",
+   "fillForm": "Preencha o Formulário",
+   "backHome": "Voltar ao Início",
+   "updated": "Atualizado",
+   "minutes": "minutos de leitura",
+   "minRead": "minutos",
+   "officialSite": "site oficial",
+   "notMedicalAdvice": "Terapia natural complementar — não substitui aconselhamento médico",
+   "legalPt": "Entidade Jurídica PT Oficial",
+   "languageLabel": "Idioma",
+   "changeLanguage": "Mudar Idioma",
+   "copyright": "Todos os direitos autorais reservados."
+  },
+  "nav": {
+   "openMenu": "Abrir menu de navegação",
+   "closeMenu": "Fechar menu",
+   "orderCta": "Peça Agora",
+   "waCta": "WA",
+   "groups": {
+    "Beranda": "Início",
+    "Kesehatan": "Saúde",
+    "Artikel": "Artigos",
+    "Produk": "Produtos",
+    "Layanan": "Serviços",
+    "Tentang": "Sobre"
+   }
+  },
+  "float": {
+   "title": "Precisa de ajuda rápida?",
+   "desc": "Converse conosco agora — consultoria gratuita, resposta rápida durante o expediente.",
+   "cta": "Iniciar Chat",
+   "open": "Abrir widget de chat WhatsApp",
+   "close": "Fechar widget de chat WhatsApp",
+   "waMessage": "Olá Bambu Water Nusantara! Gostaria de fazer uma pergunta sobre água de bambu / caule de bambu."
+  },
+  "pageHero": {
+   "breadcrumbHome": "Início",
+   "breadcrumbLabel": "Navegação",
+   "updatedPrefix": "Atualizado"
+  },
+  "languageSwitcher": {
+   "label": "Idioma",
+   "current": "Idioma ativo",
+   "choose": "Escolha um idioma — 30 idiomas disponíveis",
+   "search": "Buscar idioma…",
+   "noResults": "Idioma não encontrado",
+   "count": "30 idiomas"
+  },
+  "about": {
+   "ariaLabel": "Sobre a empresa",
+   "eyebrow": "Sobre Nós — Desde 2007",
+   "title": "Pioneira em Água de Bambu",
+   "highlight": "Maior & Primeira na Indonésia",
+   "description": "Desde 2007, trazemos a tradição da cura da água de bambu da Nusantara para a era moderna — com padrões de produção higiênicos e uma rede de distribuição nacional em toda a Indonésia.",
+   "imgAlt": "Paisagens de plantações sustentáveis de bambu nas colinas verdes da Indonésia, gerenciadas pela PT Bambu Water Nusantara",
+   "landChip": "2,1 milhões de hectares de terras de bambu na Indonésia",
+   "expLabel": "Experiência",
+   "expSince": "Desde 2007",
+   "expHighlight": "Maior & Primeira",
+   "expYears": "na Indonésia — {years}+ anos de serviço",
+   "narrLead": "nasceu da crença de que a Nusantara guarda o tesouro mais simples de cura:",
+   "narrEm": "água que flui dentro do bambu",
+   "narrAfter": "Por séculos, curandeiros tradicionais colheram talos de bambu jovens para reduzir a febre, aliviar a tosse e restaurar a energia. Hoje, trazemos essa sabedoria com padrões de produção modernos — destilada por especialistas experientes e supervisionada por conselhos multidisciplinares, da colheita sustentável ao envio nacional.",
+   "visionTitle": "Visão",
+   "visionText": "Ser o principal fornecedor de água terapêutica de bambu no Sudeste Asiático e ao mesmo tempo o pilar da economia do bambu da Indonésia.",
+   "missionTitle": "Missão",
+   "missionText": "Fornecer água de bambu pura de qualidade farmacêutica, suprir bambu de construção nacional, e elevar o bem-estar dos agricultores de bambu."
+  },
+  "science": {
+   "ariaLabel": "Conteúdo nutricional da água de bambu",
+   "eyebrow": "Conteúdo Natural",
+   "title": "A Ciência Por Trás",
+   "highlight": "Cada Gota",
+   "description": "O silício orgânico do bambu está entre os mais altos da natureza — combinado com flavonoides, clorofila, aminoácidos e eletrólitos essenciais.",
+   "imgAlt": "Um copo transparente de água de bambu sobre uma pedra natural com folhas de bambu frescas — ambiente tranquilo e curativo",
+   "electrolyteLabel": "Rico em Eletrólitos Naturais",
+   "microTestLabel": "Testado Microbiologicamente",
+   "cardTitle": "Perfil Nutricional da Água de Bambu",
+   "cardSub": "Índice de riqueza relativa por componente natural"
+  },
+  "reasons": {
+   "ariaLabel": "Segredo de longevidade dos imperadores chineses e 10 razões para beber água de bambu",
+   "badge": "Segredo Antigo Quase Esquecido",
+   "title": "Segredo da Longevidade",
+   "highlight": "Imperadores Chineses",
+   "p1Lead": "Há milhares de anos, os médicos da corte da Dinastia Chinesa guardavam um segredo bem protegido:",
+   "p1Strong": "extrato de bambu",
+   "p1Mid": "— um elixir acreditado para manter a juventude dos imperadores e nobres. Documentado na medicina tradicional chinesa como",
+   "p1Em": "\"Tian Zhu Li\"",
+   "p1Tail": "(天竹瀝), o extrato de bambu é destilado de caules jovens de bambu para aliviar o calor, refrescar o corpo e cuidar da vitalidade do governante.",
+   "p2Lead": "Mas com o tempo, esse grande segredo estava quase",
+   "p2Strong": "esquecido pela história",
+   "p2Tail": "— conhecido apenas por poucos servos da corte e médicos hereditários. Agora o segredo antigo retorna: pesquisas modernas provam o mais alto conteúdo de silício orgânico da natureza e antioxidantes extraordinários na água de bambu.",
+   "luckLine": "Seja sortudo — agora você conhece este grande segredo. 🌿",
+   "subheading": "10 Razões Por Que Você",
+   "subheadingHighlight": "Deve Beber Água de Bambu",
+   "subDesc": "Do segredo antigo às provas científicas modernas.",
+   "cta": "Comece Seu Ritual Saudável",
+   "ctaMessage": "Olá! Eu quero experimentar água de bambu — o segredo de longevidade dos imperadores chineses 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "Depoimentos de clientes",
+   "eyebrow": "Suas Histórias",
+   "title": "Confiança que",
+   "highlight": "Flui",
+   "description": "Da cozinha da família a projetos de construção nacional — estas são as experiências dos clientes da Bambu Water Nusantara.",
+   "ratingAria": "Avaliação {rating} de 5",
+   "prevAria": "Depoimento anterior",
+   "nextAria": "Próximo depoimento",
+   "dotAria": "Mostrar depoimento {n}"
+  },
+  "leadership": {
+   "ariaLabel": "Estrutura de liderança da empresa",
+   "eyebrow": "Governança",
+   "title": "Equipe de Liderança",
+   "highlight": "Experiente",
+   "description": "Conselho fundador, conselheiros, diretoria e gerentes de operações — uma combinação de experiência empresarial, dedicação à saúde pública e padrões de qualidade modernos.",
+   "pendiriTitle": "Conselho Fundador",
+   "komisarisTitle": "Conselho de Administração",
+   "direkturTitle": "Diretoria Executiva",
+   "managersTitle": "Gerentes de Operações",
+   "sharesLabel": "Ações"
+  },
+  "benefits": {
+   "ariaLabel": "Benefícios da água de bambu para a saúde",
+   "eyebrow": "Benefícios & Terapia",
+   "title": "Herda de Cura",
+   "highlight": "Água de Bambu",
+   "description": "Acreditado pelos médicos do arquipélago por séculos, agora apoiado por estudos científicos internacionais. A água de bambu é um companheiro natural para um corpo equilibrado.",
+   "research": "Apoiado por Pesquisas Científicas",
+   "researchSub": "Nós citamos fontes credíveis com transparência.",
+   "disclaimer": "* A água de bambu Bambu Water Nusantara é uma bebida saudável natural e acompanhamento de terapia — não um substituto para medicamentos prescritos. Consulte seu estado de saúde com profissionais médicos.",
+   "sources": [
+    {
+     "title": "Journal of Medicinal Plant Research (2015)",
+     "detail": "Extrato de bambu documentado oferece proteção contra estresse oxidativo, inflamação, lipotoxicidade, câncer e doenças cardiovasculares."
+    },
+    {
+     "title": "TIME — \"Água de Bambu Agora é uma Coisa\"",
+     "detail": "Mídia internacional relata a água de bambu como um fenômeno global de bebida saudável com efeitos antioxidantes e antimicrobianos."
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "Perguntas frequentes",
+   "eyebrow": "FAQ",
+   "title": "Perguntas",
+   "highlight": "Frequentes",
+   "description": "Tudo o que você precisa saber sobre água de bambu, produtos de bambu e como fazer um pedido.",
+   "moreAsk": "Ainda tem perguntas?",
+   "moreCta": "Pergunte diretamente via WhatsApp"
+  },
+  "contact": {
+   "ariaLabel": "Contato e pedidos",
+   "eyebrow": "Entre em Contato",
+   "title": "Faça seu pedido agora,",
+   "highlight": "Envie para Qualquer Lugar",
+   "description": "Conte-nos suas necessidades — nossa equipe responderá com a melhor oferta em 1×24 horas úteis.",
+   "officeTitle": "Escritório de Marketing",
+   "phoneLabel": "Telefone / WhatsApp",
+   "emailLabel": "Email",
+   "addressLabel": "Endereço",
+   "hoursLabel": "Horário de Funcionamento",
+   "branchesNote": "Filial 2: Mangkubumi, Tasikmalaya • Filial 3: Cihaurgeulis, Bandung",
+   "guarantees": [
+    {
+     "title": "Resposta < 24 Horas",
+     "text": "Resposta rápida da nossa equipe"
+    },
+    {
+     "title": "Documentação Completa",
+     "text": "Para licitações & aquisições"
+    },
+    {
+     "title": "Embalagem Segura",
+     "text": "Padrão nacional de expedição"
+    },
+    {
+     "title": "Garantia de Qualidade",
+     "text": "Devolução se não for adequado"
+    }
+   ],
+   "formTitle": "Formulário de Pedido & Consulta",
+   "formSubtitle": "Preencha suas necessidades — varejo ou grandes quantidades (ataacadista/carga).",
+   "orderLegend": "Eu quero pedir",
+   "orderTypeLabels": [
+    "Água de Bambu (Varejo)",
+    "Caule de Bambu",
+    "Atacado / Revendedor",
+    "Corporativo / Projeto"
+   ],
+   "nameLabel": "Nome Completo",
+   "namePlaceholder": "ex. Ahmad Setiawan",
+   "phonePlaceholder": "ex. 0812-3456-7890",
+   "emailPlaceholder": "nome@email.com",
+   "cityLabel": "Cidade de Destino da Entrega",
+   "cityPlaceholder": "Escolha a cidade",
+   "cityOther": "Outra cidade",
+   "messageLabel": "Detalhes da Necessidade",
+   "messagePlaceholder": "ex. Preciso de água de bambu destilada 50 galões/mês para café em Bandung, envio toda segunda-feira.",
+   "submitting": "Enviando…",
+   "submitCta": "Enviar Solicitação de Cotação",
+   "submitNote": "Ao enviar o formulário, você concorda em ser contatado por nossa equipe.",
+   "sentTitle": "Sua Mensagem foi Enviada!",
+   "sentThanks": "Obrigado,",
+   "sentBody": "A equipe Bambu Water Nusantara entrará em contato via telefone/WhatsApp em 1×24 horas úteis.",
+   "sendAnother": "Enviar Outra Mensagem",
+   "toastIncompleteTitle": "Dados incompletos",
+   "toastIncompleteDesc": "Por favor, preencha seu nome, telefone e mensagem.",
+   "errorFallback": "Falha no envio",
+   "toastSuccessTitle": "Mensagem enviada! 🌿",
+   "toastSuccessDesc": "Obrigado! Nossa equipe entrará em contato em 1×24 horas úteis.",
+   "toastFailTitle": "Falha ao enviar mensagem",
+   "toastFailDesc": "Por favor, tente novamente ou entre em contato pelo nosso WhatsApp."
+  },
+  "quoteForm": {
+   "ariaLabel": "Formulário de pedido de água de bambu",
+   "title": "Formulário de Pedido & Consulta",
+   "subtitle": "Grátis, sem compromisso — resposta em 1×24 horas úteis.",
+   "nameLabel": "Nome Completo",
+   "namePlaceholder": "ex. Budi Santoso",
+   "phoneLabel": "No. WhatsApp / Telefone",
+   "phonePlaceholder": "ex. 0812 3456 7890",
+   "emailLabel": "Email (opcional)",
+   "emailPlaceholder": "nome@email.com",
+   "cityLabel": "Cidade de Entrega",
+   "cityPlaceholder": "ex. Surabaya",
+   "needTypeLabel": "Tipo de Necessidade",
+   "orderTypeLabels": [
+    "Água de Bambu (Varejo)",
+    "Bambu em Talo",
+    "Atacado / Revendedor",
+    "Corporativo / Projeto"
+   ],
+   "messageLabel": "Mensagem / Necessidade",
+   "messagePlaceholder": "ex. Gostaria de encomerar 10 galões de água de bambu destilada 19L para Surabaya...",
+   "submitting": "Enviando...",
+   "submitCta": "Enviar Solicitação",
+   "privacyNote": "Seus dados estão seguros e são usados apenas para processar o pedido.",
+   "sentTitle": "Obrigado",
+   "sentBody": "Recebemos sua solicitação. A equipe Bambu Water Nusantara entrará em contato via WhatsApp ou telefone em até 1×24 horas úteis.",
+   "waConfirmCta": "Confirmar via WhatsApp",
+   "waMessage": "Olá, meu nome é {name} e acabei de enviar uma solicitação ({type}). Por favor, processe!",
+   "toastIncompleteTitle": "Dados incompletos",
+   "toastIncompleteDesc": "Por favor, preencha seu nome, telefone/WhatsApp e mensagem.",
+   "errorFallback": "Falha ao enviar",
+   "toastSuccessTitle": "Solicitação enviada! 🌿",
+   "toastSuccessDesc": "Obrigado! Nossa equipe entrará em contato em até 1×24 horas úteis.",
+   "toastFailTitle": "Falha ao enviar",
+   "toastFailDesc": "Por favor, tente novamente ou entre em contato via WhatsApp."
+  },
+  "footer": {
+   "ariaLabel": "Rodapé do site",
+   "ctaTitle": "Comece uma Vida Saudável com",
+   "ctaHighlight": "Sopa de Bambu",
+   "ctaDesc": "Peça água de bambu para sua família ou se torne nosso parceiro de distribuição na sua cidade.",
+   "ctaConsult": "Consultoria gratuita via WhatsApp",
+   "waCta": "WhatsApp",
+   "ctaForm": "Formulário de Pedido",
+   "waMessage": "Olá Bambu Water Nusantara! Gostaria de uma consultoria gratuita sobre água de bambu / bambu em talo.",
+   "columns": {
+    "explore": "Explorar",
+    "health": "Saúde",
+    "products": "Produtos & Serviços",
+    "articles": "Artigos de Saúde"
+   },
+   "navAria": "Navegação do rodapé",
+   "articleLinks": [
+    "Todos os Artigos",
+    "Água de Bambu & Açúcar no Sangue",
+    "Água de Bambu & Pedra nos Rins",
+    "Água de Bambu & Colesterol",
+    "Detoxificação Natural",
+    "Ossos & Articulações",
+    "Beleza & Pele"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "História da Água de Bambu"
+   },
+   "socialLabels": [
+    "Instagram Bambu Water Nusantara",
+    "Facebook Bambu Water Nusantara",
+    "LinkedIn Bambu Water Nusantara"
+   ],
+   "phoneNote": "telefone / WhatsApp",
+   "fullAddressNote": "endereço completo na página de Contato"
+  },
+  "hero": {
+   "ariaLabel": "Página Inicial Bambu Water Nusantara",
+   "imageAlt": "Floresta de bambu da Indonésia ao amanhecer — raios dourados perfurando a névoa e gotas de orvalho pingando de brotos de bambu jovens",
+   "badge": "Maior & Primeiro na Indonésia",
+   "badgeSince": "Desde 2007",
+   "titleLine1": "Sopa de Bambu Pura,",
+   "titleLine2": "Saúde da Natureza",
+   "titleLine3": "Nusantara",
+   "subtitle": "Água de bambu para terapia de saúde natural — rica em silício orgânico, flavonoides e minerais essenciais. Nós também servimos",
+   "subtitleHighlight": "distribuição de água de bambu & bambu de qualidade",
+   "subtitleAfter": "em grandes quantidades para toda a Indonésia.",
+   "ctaPrimary": "Explore Produtos",
+   "ctaSecondary": "Pedido Atacado / Carga",
+   "trust": [
+    "Destilação higienica progressiva",
+    "100% natural sem conservantes",
+    "Envio para 38 províncias"
+   ],
+   "scrollAriaLabel": "Role para baixo — Sobre nós"
+  },
+  "stats": {
+   "millionSuffix": " jt",
+   "thousandSuffix": "rb"
+  },
+  "cta": {
+   "ariaLabel": "Chamada para ação",
+   "title": "Pronto para Experimentar os Benefícios da Água de Bambu?",
+   "description": "Consultoria gratuita com nossa equipe — para necessidades de terapia familiar, atacado, até carga de bambu em massa para sua cidade.",
+   "legal": "Pessoa jurídica oficial",
+   "chatCta": "Chat WhatsApp",
+   "formCta": "Preencha o Formulário"
+  },
+  "productTemplate": {
+   "packaging": "Opções de Embalagem",
+   "orderWa": "Pedido via WhatsApp",
+   "viewPrice": "Ver Preço",
+   "usesEyebrow": "Para Quê",
+   "usesTitle": "Usos &",
+   "usesHighlight": "Benefícios",
+   "guideTitle": "Guia",
+   "guideHighlight": "de Uso",
+   "faqTitle": "Perguntas",
+   "faqHighlight": "Frequentes",
+   "safetyNote": "Produto food-grade, processado higenicamente, sem conservantes.",
+   "relatedLabel": "Outros Produtos"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "Início",
+   "seoTitle": "Bambu Water Nusantara — Água de Bambu para Terapia de Medicina Natural & Distribuição de Bambu em Toda a Indonésia",
+   "metaDescription": "Produtor de água de bambu destilada & água de bambu médico para medicina natural. Distribuição em massa de bambu de qualidade para todas as cidades da Indonésia. WA 0813-1651-6524.",
+   "h1": "Sabor de Bambu Puro para Saúde desde Dentro",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "Água de bambu selecionada para medicina & terapia de saúde natural, e bambu de alta qualidade em grandes quantidades — enviado para toda a Indonésia.",
+   "menuDesc": "Bambu Water Nusantara (BWN) - Sua solução premium de água de bambu para terapia de saúde e distribuição de bambu. Contato: {wa} | Horário: {hours} | {years} anos de experiência. Avaliação: {rating}/5. {n} tipos de água de bambu. Preços a partir de Rp {price}. {name} - {type} | {url}"
+  },
+  "tentang-kami": {
+   "navLabel": "Sobre Nós",
+   "seoTitle": "Sobre Nós — PT Bambu Water Nusantara, Pessoa Jurídica Oficial Confiável",
+   "metaDescription": "Conheça PT Bambu Water Nusantara: perfil da empresa, visão e missão, legalidade da ata de fundação, estrutura de liderança e nosso compromisso com a qualidade.",
+   "h1": "Sobre PT Bambu Water Nusantara",
+   "eyebrow": "Perfil da Empresa",
+   "intro": "Empresa pessoa jurídica oficial que traz água de terapia de bambu de qualidade e bambu premium Nusantara — das florestas populares regulamentadas para sua casa.",
+   "menuDesc": "Perfil, visão e missão & legalidade"
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "O Que É Água de Bambu",
+   "seoTitle": "O Que É Água de Bambu? Guia Completo de Água de Sadapan Bambu & Seus Benefícios",
+   "metaDescription": "Entenda o que é água de bambu (água de tuque de bambu): origem do sadapan de brote jovem, método de coleta técnica de brotação, tipos, até o processo de destilação.",
+   "h1": "O Que É Água de Bambu?",
+   "eyebrow": "Guia Completo",
+   "intro": "Conhecendo a água de sadapan bambu — tesouro natural da Nusantara rico em silício e antioxidantes, desde sua formação até seu copo.",
+   "menuDesc": "Definição, origem & tipos de água de bambu"
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "Benefícios da Água de Bambu",
+   "seoTitle": "8 Benefícios da Água de Bambu para Saúde & Medicina Natural Comprovada",
+   "metaDescription": "8 benefícios da água de bambu para a saúde: reduz febre, alivia tosse, cuida do coração, açúcar no sangue, digestão, imunidade, pele, até dor menstrual.",
+   "h1": "8 Benefícios da Água de Bambu para a Saúde",
+   "eyebrow": "Benefícios & Propriedades",
+   "intro": "Da tradição médica da Nusantara aos estudos científicos modernos — benefícios completos da água de bambu para o corpo, de dentro para fora.",
+   "menuDesc": "8 benefícios principais para o corpo"
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "Conteúdo Nutricional",
+   "seoTitle": "Conteúdo Nutricional da Água de Bambu — Mais Alto Silício Orgânico & Antioxidantes",
+   "metaDescription": "Análise do conteúdo da água de bambu: até 70% de silício orgânico, flavonoides, polifenóis, clorofila, aminoácidos e minerais K-Ca-Mg para o corpo.",
+   "h1": "Conteúdo Nutricional & Ciência da Água de Bambu",
+   "eyebrow": "Análise Científica",
+   "intro": "Por que a água de bambu é chamada de \"água mineral mais completa da natureza\"? Descubra o conteúdo com base na pesquisa científica mais recente.",
+   "menuDesc": "Silício, flavonoides & minerais naturais"
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "Para Terapia",
+   "seoTitle": "Água de Bambu para Medicina Tradicional & Terapia Complementar",
+   "metaDescription": "O papel da água de bambu na medicina tradicional do arquipélago: febre, tosse, diabetes, colesterol, até dor menstrual — guia seguro & eficaz.",
+   "h1": "Água de Bambu para Medicina Tradicional",
+   "eyebrow": "Terapia Complementar",
+   "intro": "Um legado ancestral de cura, agora apoiado pela pesquisa — como usar a água de bambu como complemento da terapia de saúde.",
+   "menuDesc": "Terapias tradicionais & complementares"
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "Água de Bambu para Glicemia & Diabetes",
+   "seoTitle": "Água de Bambu para Glicemia & Diabetes — Fatos, Pesquisa & Uso Seguro",
+   "metaDescription": "A água de bambu ajuda a estabilizar o açúcar no sangue de diabéticos? Conheça os fatos científicos, a tradição, como consumir com segurança e as limitações.",
+   "h1": "Água de Bambu para Glicemia & Diabetes",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "Milhões de indonésios vivem com diabetes. A água de bambu pode ser uma bebida complementar? Descubra a resposta baseada na pesquisa.",
+   "menuDesc": "Complemento para diabéticos"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "Água de Bambu para Pedras Renais & Saúde Renal",
+   "seoTitle": "Água de Bambu para Pedras Renais & Saúde Renal — Benefícios & Dicas Seguras",
+   "metaDescription": "Água de bambu como bebida de suporte à saúde renal: hidratação ideal, minerais naturais e tradição de ajudar a urinar com segurança.",
+   "h1": "Água de Bambu para Pedras Renais & Saúde Renal",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "Os rins são o filtro do corpo. Veja como a água de bambu ajuda a manter os rins limpos e funcionando bem.",
+   "menuDesc": "Mantenha os rins limpos"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "Água de Bambu para Colesterol & Saúde Cardíaca",
+   "seoTitle": "Água de Bambu para Colesterol & Saúde Cardíaca — Guia Completo",
+   "metaDescription": "Flavonoides & polifenóis da água de bambu ajudam a combater o colesterol ruim e proteger o coração. Entenda o mecanismo, a pesquisa e como consumi-la.",
+   "h1": "Água de Bambu para Colesterol & Saúde Cardíaca",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "As doenças cardiovasculares são a principal causa de morte. Como os antioxidantes da água de bambu ajudam a proteger o coração e os vasos sanguíneos?",
+   "menuDesc": "Proteger o coração & vasos sanguíneos"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "Detoxificação Natural com Água de Bambu",
+   "seoTitle": "Detoxificação Natural com Água de Bambu — Programa de 7 Dias de Energia Total",
+   "metaDescription": "Programa de detox natural de 7 dias com água de bambu: melhora a digestão, elimina toxinas e restaura a energia do corpo suavemente.",
+   "h1": "Detoxificação Natural com Água de Bambu",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "O corpo acumula toxinas todos os dias dos alimentos, poluição e estresse. A água de bambu oferece uma forma de detox suave e refrescante.",
+   "menuDesc": "Programa detox de 7 dias"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "Silício da Água de Bambu para Ossos & Articulações",
+   "seoTitle": "Silício da Água de Bambu para Ossos & Articulações — Prevenção Natural da Osteoporose",
+   "metaDescription": "Silício orgânico da água de bambu — o mais alto da natureza — desempenha papel crucial na formação de ossos, saúde das articulações e prevenção da osteoporose.",
+   "h1": "Silício da Água de Bambu para Ossos & Articulações",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "Cálcio não é a única chave para ossos fortes. Conheça o papel do silício orgânico — e por que o bambu é a melhor fonte.",
+   "menuDesc": "Silício para densidade óssea"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "Água de Bambu para Beleza da Pele, Cabelo & Unhas",
+   "seoTitle": "Água de Bambu para Beleza — Pele Elástica, Cabelo & Unhas Fortes",
+   "metaDescription": "O segredo para uma pele elástica da natureza: o silício da água de bambu suporta a produção de colágeno para pele, cabelo e unhas. Beleza natural de dentro para fora.",
+   "h1": "Água de Bambu para Beleza da Pele, Cabelo & Unhas",
+   "eyebrow": "Artigo de Saúde",
+   "intro": "A beleza verdadeira começa de dentro. Como o silício e os antioxidantes da água de bambu funcionam como o \"colágeno natural\" da natureza?",
+   "menuDesc": "Colágeno natural de dentro"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "História & Tradição da Água de Bambu Nusantara",
+   "seoTitle": "História da Água de Bambu — Legado da Medicina Tradicional Nusantara",
+   "metaDescription": "Explorando a história da água de bambu: da tradição de curandeiros Sunda & Jawa, ao 'tamoe barang bamboo' chinês, até a tendência mundial de bebidas saudáveis hoje.",
+   "h1": "História & Tradição da Água de Bambu Nusantara",
+   "eyebrow": "Artigo Cultural",
+   "intro": "Séculos antes de se tornar uma tendência mundial, a água de bambu já era o segredo de cura ancestral do arquipélago. Conheça sua jornada.",
+   "menuDesc": "Herança dos curandeiros da Nusantara"
+  },
+  "air-bambu-suling": {
+   "navLabel": "Água de Bambu Destilada",
+   "seoTitle": "Água de Bambu Destilada Premium — Bebida Terapêutica Diária 600ml–19L",
+   "metaDescription": "Água de bambu destilada premium: broto de bambu jovem purificado com destilação gradual. Garrafas de 600ml, 1,5L, galões de 19L até tambores de 30L atacado.",
+   "h1": "Água de Bambu Destilada Premium",
+   "eyebrow": "Produto em Destaque",
+   "intro": "Sabor do broto de bambu jovem purificado com destilação gradual — seus minerais e sílica naturais preservados, segurança garantida.",
+   "menuDesc": "Bebida terapêutica diária premium"
+  },
+  "air-bambu-tabib": {
+   "navLabel": "Água de Bambu Tabib",
+   "seoTitle": "Água de Bambu Tabib — Broto Fresco para Terapia e Tratamento",
+   "metaDescription": "Água de Bambu Tabib: broto fresco cru diretamente do segmento de bambu jovem, colhido com técnica de gemas para terapeutas, curandeiros e práticas de medicina.",
+   "h1": "Água de Bambu Tabib — Broto Cru para Terapia",
+   "eyebrow": "Produto Terapêutico",
+   "intro": "Água de broto pura como conhecida na tradição dos curandeiros da Nusantara — colhida fresca sob encomenda com técnica de gemas.",
+   "menuDesc": "Broto fresco cru para terapia"
+  },
+  "bambu-berkualitas": {
+   "navLabel": "Bambu de Qualidade",
+   "seoTitle": "Bambu de Qualidade em Massa — Petung, Wulung, Apus, Ori em Toda a Indonésia",
+   "metaDescription": "Bambu de qualidade selecionado com mais de 3 anos: Petung para construção, Wulung premium, Apus para trançado, Ori para estruturas. Por unidade até caminhão para toda a Indonésia.",
+   "h1": "Bambu de Qualidade em Quantidade",
+   "eyebrow": "Produto em Massa",
+   "intro": "Petung, Wulung, Apus, e Ori — selecionados de florestas populares regulamentadas, prontos para envio por unidade até caminhão para toda a Indonésia.",
+   "menuDesc": "Petung, Wulung, Apus, Ori em massa"
+  },
+  "proses-produksi": {
+   "navLabel": "Processo de Produção",
+   "seoTitle": "Processo de Produção e Destilação de Água de Bambu — Padrões Higiênicos da BWN",
+   "metaDescription": "4 etapas de produção de água de bambu da BWN: colheita sustentável, broto de gemas, destilação e teste microbiológico, até embalagem food-grade.",
+   "h1": "Processo de Produção e Destilação",
+   "eyebrow": "Padrão de Qualidade",
+   "intro": "Do bosque de bambu sustentável à embalagem food-grade — total transparência sobre como produzimos água de bambu de qualidade.",
+   "menuDesc": "Colheita, broto, destilação e teste de qualidade"
+  },
+  "pengiriman-massal": {
+   "navLabel": "Envio em Massa",
+   "seoTitle": "Envio em Massa de Água de Bambu e Bambu por Segmento para Toda a Indonésia",
+   "metaDescription": "Serviço de envio em volume: garrafões, tambores, até carga de caminhão de bambu por segmento. Regular 1-3 dias, carga entre ilhas, expresso aéreo.",
+   "h1": "Envio em Massa para Toda a Indonésia",
+   "eyebrow": "Serviço de Distribuição",
+   "intro": "Volume grande não é problema — garrafões, tambores, feixes de bambu até carga de caminhão, entregamos para 38 províncias com embalagem segura.",
+   "menuDesc": "Carga terrestre, marítima e aérea"
+  },
+  "jangkauan-kota": {
+   "navLabel": "Cobertura de Cidades",
+   "seoTitle": "Cobertura de Envio de Cidades — 38 Províncias na Indonésia | BWN",
+   "metaDescription": "Enviamos água de bambu e bambu por segmento para cidades em toda a Indonésia: Jacarta, Bandung, Surabaya, Medan, Makassar até Jayapura.",
+   "h1": "Cobertura de Cidades na Indonésia",
+   "eyebrow": "Cobertura Geográfica",
+   "intro": "38 províncias, dezenas de cidades, uma rede de distribuição confiável. Encontre sua cidade e comece a pedir hoje mesmo.",
+   "menuDesc": "38 províncias na Indonésia"
+  },
+  "harga-paket": {
+   "navLabel": "Preços e Pacotes",
+   "seoTitle": "Preços e Pacotes de Água de Bambu e Bambu por Segmento — Varejo a Atacado",
+   "metaDescription": "Lista de preços de água de bambu destilada, água de bambu tabib e bambu por segmento (Petung, Wulung, Apus, Ori) — varejo, atacado e carga corporativa.",
+   "h1": "Preços e Pacotes",
+   "eyebrow": "Transparente e Acessível",
+   "intro": "Preços claros sem custos ocultos — da unidade para a família até carga de caminhão para distribuidores e projetos.",
+   "menuDesc": "Varejo, atacado e corporativo"
+  },
+  "cara-pemesanan": {
+   "navLabel": "Como Pedir",
+   "seoTitle": "Como Pedir Água de Bambu e Bambu por Segmento — 4 Passos Fáceis",
+   "metaDescription": "Como pedir água de bambu e bambu por segmento da BWN: escolha o produto, confirme via WhatsApp 0813-1651-6524, pagamento seguro, entrega na Indonésia.",
+   "h1": "Como Pedir Fácil e Rápido",
+   "eyebrow": "Guia de Pedido",
+   "intro": "Quatro passos simples da escolha do produto até a água de bambu chegar na sua porta — onde quer que você esteja na Indonésia.",
+   "menuDesc": "4 passos fáceis para pedir"
+  },
+  "artikel": {
+   "navLabel": "Todos os Artigos",
+   "seoTitle": "Artigos e Conhecimento sobre Água de Bambu — Centro de Informações de Saúde da BWN",
+   "metaDescription": "Coleção de artigos sobre saúde da água de bambu: diabetes, pedras nos rins, colesterol, desintoxicação, ossos, beleza, até a história das tradições da Nusantara.",
+   "h1": "Centro de Conhecimento de Água de Bambu",
+   "eyebrow": "Blog & Artigos",
+   "intro": "Tudo o que você precisa saber sobre água de bambu — curado a partir de pesquisas científicas e sabedoria tradicional de Nusantara.",
+   "menuDesc": "Centro de conhecimento de água de bambu"
+  },
+  "testimoni": {
+   "navLabel": "Depoimentos",
+   "seoTitle": "Depoimentos de Clientes — Histórias Reais dos Benefícios da Água de Bambu BWN",
+   "metaDescription": "Histórias reais de clientes da Bambu Water Nusantara: famílias saudáveis, terapeutas confiáveis e parceiros distribuidores em toda a Indonésia.",
+   "h1": "Depoimentos de Nossos Clientes",
+   "eyebrow": "Histórias Reais",
+   "intro": "Da cozinha da família até a clínica do terapeuta — estas são as histórias de quem já experimentou os benefícios da água de bambu BWN.",
+   "menuDesc": "Histórias reais de clientes"
+  },
+  "faq": {
+   "navLabel": "Perguntas Frequentes",
+   "seoTitle": "Perguntas Frequentes — Perguntas Comuns sobre Água de Bambu e Serviços BWN",
+   "metaDescription": "Respostas completas para perguntas frequentes: o que é água de bambu, segurança diária, diferença de produtos, como pedir atacado, envio e legalidade da empresa.",
+   "h1": "Perguntas Frequentes",
+   "eyebrow": "Ajuda & Informações",
+   "intro": "Todas as perguntas sobre água de bambu, produtos, pedidos e envio — respondidas completamente em uma página.",
+   "menuDesc": "Perguntas frequentes"
+  },
+  "kontak": {
+   "navLabel": "Contato",
+   "seoTitle": "Contato & Pedidos — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "Entre em contato com a PT Bambu Water Nusantara: WhatsApp 0813-1651-6524, e-mail, formulário de pedidos. Consulta gratuita para necessidades de terapia e atacado.",
+   "h1": "Entre em Contato — Consulta Gratuita",
+   "eyebrow": "Contato & Pedidos",
+   "intro": "Nossa equipe está pronta para ajudar nas necessidades de terapia da família até contratos de distribuição em massa. Resposta rápida durante o horário comercial.",
+   "menuDesc": ""
+  }
+ }
+}

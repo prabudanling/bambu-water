@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "manfaat-air-bambu": {
+      "s": {
+        "benefits_eyebrow": "Manfaat & Khasiat",
+        "benefits_title": "Delapan Manfaat Utama",
+        "benefits_highlight": "Air Bambu",
+        "benefits_desc": "Dirangkum dari pengobatan tradisional Nusantara dan kajian ilmiah ekstrak bambu modern.",
+        "inner_title": "Untuk Dalam Tubuh:",
+        "inner_highlight": "Terapi & Pemulihan",
+        "outer_title": "Untuk Luar Tubuh:",
+        "outer_highlight": "Vitalitas & Kecantikan",
+        "guide_eyebrow": "Panduan Harian",
+        "guide_title": "Cara Konsumsi yang",
+        "guide_highlight": "Tepat",
+        "guide_desc": "Sederhana namun konsisten — itulah kunci mendapatkan manfaat penuh air bambu.",
+        "daily_guide": [
+          { "time": "Pagi (kamar mandi)", "text": "1 gelas (±250 ml) air bambu suling saat perut kosong — membantu detoks & pencernaan." },
+          { "time": "Siang", "text": "1 gelas setelah makan — melancarkan metabolisme dan menjaga hidrasi mineral." },
+          { "time": "Sore/Senja", "text": "1 gelas hangat — menenangkan dan mendukung pemulihan tubuh." }
+        ],
+        "note_strong": "Catatan penting:",
+        "note_a": "air bambu adalah minuman terapi alami",
+        "note_strong2": "pendamping",
+        "note_b": "— bukan pengganti obat resep dokter. Penderita kondisi medis (diabetes, ginjal, hipertensi) sebaiknya berkonsultasi terlebih dahulu dengan tenaga kesehatan.",
+        "cta_title": "Rasakan Manfaatnya Sendiri",
+        "cta_desc": "Air Bambu Suling tersedia botol 600ml hingga drum 30L — dikirim ke seluruh Indonesia.",
+        "cta_wa": "Halo! Saya ingin memesan air bambu untuk kesehatan keluarga."
+      }
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+ "ui": {
+  "common": {
+   "home": "Inicio",
+   "learnMore": "Aprende Más",
+   "seeAll": "Ver Todo",
+   "readMore": "Leer Más",
+   "readArticle": "Leer Artículo",
+   "orderNow": "Ordenar Ahora",
+   "chatWa": "Chatear por WhatsApp",
+   "fillForm": "Rellenar Formulario",
+   "backHome": "Volver al Inicio",
+   "updated": "Actualizado",
+   "minutes": "minutos de lectura",
+   "minRead": "minutos",
+   "officialSite": "sitio oficial",
+   "notMedicalAdvice": "Terapia natural complementaria — no un reemplazo para consejo médico",
+   "legalPt": "Entidad Legal PT Oficial",
+   "languageLabel": "Idioma",
+   "changeLanguage": "Cambiar Idioma",
+   "copyright": "Todos los derechos reservados."
+  },
+  "nav": {
+   "openMenu": "Abrir menú de navegación",
+   "closeMenu": "Cerrar menú de navegación",
+   "orderCta": "Ordenar Ahora",
+   "waCta": "WA",
+   "groups": {
+    "Beranda": "Inicio",
+    "Kesehatan": "Salud",
+    "Artikel": "Artículos",
+    "Produk": "Productos",
+    "Layanan": "Servicios",
+    "Tentang": "Acerca de"
+   }
+  },
+  "float": {
+   "title": "¿Necesitas ayuda rápida?",
+   "desc": "Chatea con nosotros ahora — consulta gratuita, respuestas rápidas durante horas de trabajo.",
+   "cta": "Iniciar Chat",
+   "open": "Abrir widget de chat de WhatsApp",
+   "close": "Cerrar widget de chat de WhatsApp",
+   "waMessage": "¡Hola Bambu Water Nusantara! Quiero preguntar sobre agua de bambú / tallo de bambú."
+  },
+  "pageHero": {
+   "breadcrumbHome": "Inicio",
+   "breadcrumbLabel": "Ruta de navegación",
+   "updatedPrefix": "Actualizado"
+  },
+  "languageSwitcher": {
+   "label": "Idioma",
+   "current": "Idioma activo",
+   "choose": "Elige un idioma — 30 idiomas disponibles",
+   "search": "Buscar idioma…",
+   "noResults": "Idioma no encontrado",
+   "count": "30 idiomas"
+  },
+  "about": {
+   "ariaLabel": "Sobre la empresa",
+   "eyebrow": "Sobre Nosotros — Desde 2007",
+   "title": "Pionier del Agua de Bambú",
+   "highlight": "El Más Grande y el Primero en Indonesia",
+   "description": "Desde 2007, traemos la tradición de la curación con agua de bambú de Nusantara a la era moderna — con estándares de producción higiénica y una red de distribución nacional en toda Indonesia.",
+   "imgAlt": "Extensiones de plantaciones de bambú sostenible en las colinas verdes de Indonesia custodiadas por PT Bambu Water Nusantara",
+   "landChip": "2,1 millones de ha de tierra de bambú en Indonesia",
+   "expLabel": "Experiencia",
+   "expSince": "Desde 2007",
+   "expHighlight": "El Más Grande y el Primero",
+   "expYears": "en Indonesia — {years}+ años sirviendo",
+   "narrLead": "nacido de la creencia de que Nusantara guarda el tesoro de curación más simple:",
+   "narrEm": "el agua que fluye dentro del bambú",
+   "narrAfter": "Durante siglos, los curanderos tradicionales cosechaban los tallos jóvenes de bambú para reducir la fiebre, aliviar la tos y restaurar la energía. Ahora, presentamos esa sabiduría con estándares de producción modernos — destilada por estudiantes experimentados y supervisada por un consejo de expertos multidisciplinarios, desde la cosecha sostenible hasta la distribución nacional.",
+   "visionTitle": "Visión",
+   "visionText": "Ser el proveedor líder de agua de bambú terapéutico en el Sudeste Asiático y al mismo tiempo un pilar de la economía de bambú de Indonesia.",
+   "missionTitle": "Misión",
+   "missionText": "Proporcionar agua de bambú pura de calidad farmacéutica, suministrar bambú de construcción nacional y elevar el bienestar de los agricultores de bambú."
+  },
+  "science": {
+   "ariaLabel": "Contenido nutricional del agua de bambú",
+   "eyebrow": "Contenido Natural",
+   "title": "La Ciencia Detrás",
+   "highlight": "Cada Gota",
+   "description": "El sílice orgánico del bambú es uno de los más altos de la naturaleza — combinado con flavonoides, clorofila, aminoácidos y electrolitos esenciales.",
+   "imgAlt": "Un vaso de agua de bambú transparente sobre una roca natural con hojas de bambú frescas — una atmósfera tranquila y curativa",
+   "electrolyteLabel": "Rico en Electrolitos Naturales",
+   "microTestLabel": "Probado Microbiológicamente",
+   "cardTitle": "Perfil Nutricional del Agua de Bambú",
+   "cardSub": "Índice de riqueza relativa por componente natural"
+  },
+  "reasons": {
+   "ariaLabel": "El secreto de la longevidad de los emperadores chinos y 10 razones para beber agua de bambú",
+   "badge": "Secreto Antiguo Casi Olvidado por la Historia",
+   "title": "Secreto de la Longevidad",
+   "highlight": "Emperadores Chinos",
+   "p1Lead": "Hace miles de años, los médicos de la corte de la dinastía china guardaban su secreto más preciado:",
+   "p1Strong": "el extracto de bambú",
+   "p1Mid": "— un elixir que se creía mantenía la juventud de los emperadores y la nobleza. Documentado en la medicina tradicional china como",
+   "p1Em": "\"Tian Zhu Li\"",
+   "p1Tail": "(天竹瀝), el extracto de bambú destilado de los tallos jóvenes para calmar el calor, refrescar el cuerpo y cuidar la vitalidad del gobernante.",
+   "p2Lead": "Pero con el tiempo, ese gran secreto estuvo a punto de",
+   "p2Strong": "ser olvidado por la historia",
+   "p2Tail": "— solo conocido por unos pocos sirvientes de la corte y médicos herederos. Ahora ese secreto antiguo ha resurgido: la investigación moderna demuestra el contenido más alto de sílice orgánico de la naturaleza y antioxidantes extraordinarios en el agua de bambú.",
+   "luckLine": "Sé la persona afortunada — ahora conoces este gran secreto. 🌿",
+   "subheading": "10 Razones Por las Que",
+   "subheadingHighlight": "Debes Beber Agua de Bambú",
+   "subDesc": "Desde secretos antiguos hasta pruebas científicas modernas.",
+   "cta": "Comienza Tu Ritual de Salud",
+   "ctaMessage": "¡Hola! Quiero probar el agua de bambú — el secreto de la longevidad de los emperadores chinos 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "Testimonios de clientes",
+   "eyebrow": "Sus Historias",
+   "title": "Confianza que",
+   "highlight": "Fluye",
+   "description": "Desde la cocina familiar hasta proyectos de construcción nacional — estas son las experiencias de los clientes de Bambu Water Nusantara.",
+   "ratingAria": "Calificación {rating} de 5",
+   "prevAria": "Testimonio anterior",
+   "nextAria": "Próximo testimonio",
+   "dotAria": "Mostrar testimonio {n}"
+  },
+  "leadership": {
+   "ariaLabel": "Estructura de liderazgo de la empresa",
+   "eyebrow": "Gobernanza",
+   "title": "Equipo Directivo",
+   "highlight": "Experimentado",
+   "description": "Consejo fundador, comisarios, directores y gerentes de división operativa — una combinación de experiencia empresarial, dedicación a la salud pública y estándares de calidad modernos.",
+   "pendiriTitle": "Consejo Fundador",
+   "komisarisTitle": "Consejo de Comisarios",
+   "direkturTitle": "Consejo de Directores",
+   "managersTitle": "Gerentes de División Operativa",
+   "sharesLabel": "Acciones"
+  },
+  "benefits": {
+   "ariaLabel": "Beneficios del agua de bambú para la salud",
+   "eyebrow": "Beneficios & Terapia",
+   "title": "Legado Sanador",
+   "highlight": "Agua de Bambú",
+   "description": "Creída por los curanderos de Nusantara durante siglos, ahora respaldada por estudios científicos internacionales. El agua de bambú es un acompañante natural hacia un cuerpo equilibrado.",
+   "research": "Apoyado por Investigación Científica",
+   "researchSub": "Somos transparentes al citar fuentes creíbles.",
+   "disclaimer": "* El agua de bambú de Bambu Water Nusantara es una bebida de salud natural y un complemento terapéutico, no un sustituto de medicamentos recetados. Consulte su condición de salud con un profesional médico.",
+   "sources": [
+    {
+     "title": "Journal of Medicinal Plant Research (2015)",
+     "detail": "El extracto de bambu documentado proporciona protección contra el estrés oxidativo, la inflamación, la lipotoxicidad, el cáncer y las enfermedades cardiovasculares."
+    },
+    {
+     "title": "TIME — \"Bamboo Water Is Now a Thing\"",
+     "detail": "Los medios internacionales informan sobre el agua de bambú como un fenómeno de bebida de salud global con efectos antioxidantes y antimicrobianos."
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "Preguntas frecuentes",
+   "eyebrow": "Preguntas Frecuentes",
+   "title": "Preguntas",
+   "highlight": "Frecuentes",
+   "description": "Todo lo que necesita saber sobre el agua de bambú, productos de bambú y cómo pedir.",
+   "moreAsk": "¿Aún tiene preguntas?",
+   "moreCta": "Pregunta directamente por WhatsApp"
+  },
+  "contact": {
+   "ariaLabel": "Contacto y pedidos",
+   "eyebrow": "Contáctenos",
+   "title": "Envíe un mensaje ahora,",
+   "highlight": "a cualquier lugar",
+   "description": "Cuente sus necesidades — nuestro equipo responderá con la mejor oferta en 1×24 horas hábiles.",
+   "officeTitle": "Oficina de Marketing",
+   "phoneLabel": "Teléfono / WhatsApp",
+   "emailLabel": "Email",
+   "addressLabel": "Dirección",
+   "hoursLabel": "Horario de Operación",
+   "branchesNote": "Sucursal 2: Mangkubumi, Tasikmalaya • Sucursal 3: Cihaurgeulis, Bandung",
+   "guarantees": [
+    {
+     "title": "Respuesta en < 24 Horas",
+     "text": "Nuestro equipo responde rápidamente"
+    },
+    {
+     "title": "Documentación Completa",
+     "text": "Para licitaciones y adquisiciones"
+    },
+    {
+     "title": "Empaque Seguro",
+     "text": "Estándares nacionales de envío"
+    },
+    {
+     "title": "Garantía de Calidad",
+     "text": "Devolución si no cumple"
+    }
+   ],
+   "formTitle": "Formulario de Pedido y Consulta",
+   "formSubtitle": "Indique sus necesidades — venta al detalle o cantidades grandes (mayorista/carga).",
+   "orderLegend": "Deseo realizar un pedido",
+   "orderTypeLabels": [
+    "Agua de Bambú (Venta al Detalle)",
+    "Corporativo / Proyecto",
+    "Mayorista / Revendedor",
+    "Corporativo / Proyecto"
+   ],
+   "nameLabel": "Nombre Completo",
+   "namePlaceholder": "ej. Ahmad Setiawan",
+   "phonePlaceholder": "ej. 0812-3456-7890",
+   "emailPlaceholder": "nombre@email.com",
+   "cityLabel": "Ciudad de Envío",
+   "cityPlaceholder": "Elija una ciudad",
+   "cityOther": "Otra ciudad",
+   "messageLabel": "Detalles de la Necesidad",
+   "messagePlaceholder": "ej. Necesito agua de bambú destilada 50 galones/mes para un café en Bandung, enviar cada lunes.",
+   "submitting": "Enviando…",
+   "submitCta": "Enviar Solicitud de Cotización",
+   "submitNote": "Al enviar el formulario, usted acepta ser contactado por nuestro equipo.",
+   "sentTitle": "¡Su Mensaje ha sido Enviado!",
+   "sentThanks": "Gracias,",
+   "sentBody": "El equipo de Bambu Water Nusantara se pondrá en contacto con usted por teléfono/WhatsApp dentro de 1×24 horas laborales.",
+   "sendAnother": "Enviar Otro Mensaje",
+   "toastIncompleteTitle": "Datos incompletos",
+   "toastIncompleteDesc": "Por favor, complete su nombre, número de teléfono y mensaje.",
+   "errorFallback": "Error al enviar",
+   "toastSuccessTitle": "¡Mensaje enviado! 🌿",
+   "toastSuccessDesc": "¡Gracias! Nuestro equipo se comunicará con usted en 1×24 horas laborales.",
+   "toastFailTitle": "Error al enviar el mensaje",
+   "toastFailDesc": "Por favor, intente nuevamente o contáctenos por WhatsApp."
+  },
+  "quoteForm": {
+   "ariaLabel": "Formulario de pedido de agua de bambú",
+   "title": "Formulario de Pedido y Consulta",
+   "subtitle": "Gratis, sin compromiso — respuesta en 1×24 horas laborales.",
+   "nameLabel": "Nombre Completo",
+   "namePlaceholder": "ej. Budi Santoso",
+   "phoneLabel": "No. WhatsApp / Teléfono",
+   "phonePlaceholder": "ej. 0812 3456 7890",
+   "emailLabel": "Email (opcional)",
+   "emailPlaceholder": "nombre@email.com",
+   "cityLabel": "Ciudad de Envío",
+   "cityPlaceholder": "ej. Surabaya",
+   "needTypeLabel": "Tipo de Necesidad",
+   "orderTypeLabels": [
+    "Agua de Bambú (Minorista)",
+    "Bambú en Vara",
+    "Mayorista / Revendedor",
+    "Corporativo / Proyecto"
+   ],
+   "messageLabel": "Mensaje / Necesidad",
+   "messagePlaceholder": "ej. Quisiera ordenar 10 galones de agua de bambu destilada de 19L para Surabaya...",
+   "submitting": "Enviando...",
+   "submitCta": "Enviar Solicitud",
+   "privacyNote": "Sus datos están seguros y solo se usarán para procesar su pedido.",
+   "sentTitle": "Gracias",
+   "sentBody": "Hemos recibido su solicitud. El equipo de Bambu Water Nusantara se comunicará con usted vía WhatsApp o teléfono en 1×24 horas laborales.",
+   "waConfirmCta": "Confirmar por WhatsApp",
+   "waMessage": "Hola, soy {name} y acabo de enviar una solicitud ({type}). ¡Por favor, procesenla!",
+   "toastIncompleteTitle": "Datos incompletos",
+   "toastIncompleteDesc": "Por favor, complete su nombre, número de teléfono/WhatsApp y su mensaje.",
+   "errorFallback": "Error al enviar",
+   "toastSuccessTitle": "¡Solicitud enviada! 🌿",
+   "toastSuccessDesc": "¡Gracias! Nuestro equipo se comunicará con usted en 1×24 horas laborales.",
+   "toastFailTitle": "Error al enviar",
+   "toastFailDesc": "Por favor, inténtelo de nuevo o contáctenos por WhatsApp."
+  },
+  "footer": {
+   "ariaLabel": "Pie de página del sitio",
+   "ctaTitle": "Comience una Vida Saludable con",
+   "ctaHighlight": "Extracto de Bambú",
+   "ctaDesc": "Pida agua de bambú para su familia o conviértase en nuestro socio de distribución en su ciudad.",
+   "ctaConsult": "Consulta gratuita por WhatsApp",
+   "waCta": "WhatsApp",
+   "ctaForm": "Formulario de Pedido",
+   "waMessage": "¡Hola Bambu Water Nusantara! Quisiera una consulta gratuita sobre agua de bambú / bambú en vara.",
+   "columns": {
+    "explore": "Explorar",
+    "health": "Salud",
+    "products": "Productos y Servicios",
+    "articles": "Artículos de Salud"
+   },
+   "navAria": "Navegación del pie de página",
+   "articleLinks": [
+    "Todos los Artículos",
+    "Agua de Bambú y Azúcar en Sangre",
+    "Agua de Bambú y Cálculos Renales",
+    "Agua de Bambú y Colesterol",
+    "Desintoxicación Natural",
+    "Huesos y Articulaciones",
+    "Belleza y Piel"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "Historia del Agua de Bambú"
+   },
+   "socialLabels": [
+    "Instagram de Bambu Water Nusantara",
+    "Facebook de Bambu Water Nusantara",
+    "LinkedIn de Bambu Water Nusantara"
+   ],
+   "phoneNote": "teléfono / WhatsApp",
+   "fullAddressNote": "dirección completa en la página de Contacto"
+  },
+  "hero": {
+   "ariaLabel": "Inicio de Bambu Water Nusantara",
+   "imageAlt": "Bosque de bambú de Indonesia al amanecer — rayos dorados atraviesan la niebla y gotas de agua de sadapan gotean de los tallos de bambú jóvenes",
+   "badge": "El Más Grande y el Primero en Indonesia",
+   "badgeSince": "Desde 2007",
+   "titleLine1": "Sabor Puro de Bambú,",
+   "titleLine2": "Salud de la Naturaleza",
+   "titleLine3": "Nusantara",
+   "subtitle": "Agua de sadapan de bambú para terapia de salud natural — rica en silicio orgánico, flavonoides y minerales esenciales. También servimos",
+   "subtitleHighlight": "distribución de agua de bambú y bambú de calidad",
+   "subtitleAfter": "en grandes cantidades en toda Indonesia.",
+   "ctaPrimary": "Explora Productos",
+   "ctaSecondary": "Pedir al por mayor / Envío",
+   "trust": [
+    "Procesado higiénico por etapas",
+    "100% natural sin conservantes",
+    "Envío a 38 provincias"
+   ],
+   "scrollAriaLabel": "Desplázate hacia abajo — Sobre nosotros"
+  },
+  "stats": {
+   "millionSuffix": " jt",
+   "thousandSuffix": "rb"
+  },
+  "cta": {
+   "ariaLabel": "Llamado a la acción",
+   "title": "¿Listo para Experimentar los Beneficios del Agua de Bambú?",
+   "description": "Consulta gratuita con nuestro equipo — para necesidades de terapia familiar, pedidos al por mayor, hasta envío masivo de bambú a tu ciudad.",
+   "legal": "Entidad legal oficial",
+   "chatCta": "Chat de WhatsApp",
+   "formCta": "Completa el Formulario"
+  },
+  "productTemplate": {
+   "packaging": "Opciones de Empaque",
+   "orderWa": "Pedir por WhatsApp",
+   "viewPrice": "Ver Precios",
+   "usesEyebrow": "Para Qué",
+   "usesTitle": "Usos y",
+   "usesHighlight": "Beneficios",
+   "guideTitle": "Guía",
+   "guideHighlight": "de Uso",
+   "faqTitle": "Preguntas",
+   "faqHighlight": "Frecuentes",
+   "safetyNote": "Producto grado alimenticio, procesado higiénicamente, sin conservantes.",
+   "relatedLabel": "Otros Productos"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "Inicio",
+   "seoTitle": "Bambu Water Nusantara — Agua de Bambú para Terapia Natural y Distribución de Bambú en Indonesia",
+   "metaDescription": "Productor de agua de bambu destilada y agua de bambú médico para remedios naturales. Distribución masiva de bambú de calidad a todas las ciudades de Indonesia. WA 0813-1651-6524.",
+   "h1": "Savia de Bambú Pura para la Salud desde Dentro",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "Agua de savia de bambú seleccionada para remedios y terapias naturales, así como bambú de calidad en grandes cantidades — enviado a toda Indonesia.",
+   "menuDesc": "Agua de bambú para terapia de salud y distribución de bambú."
+  },
+  "tentang-kami": {
+   "navLabel": "Sobre Nosotros",
+   "seoTitle": "Sobre Nosotros — PT Bambu Water Nusantara, Entidad Jurídica Oficial Confiable",
+   "metaDescription": "Conozca PT Bambu Water Nusantara: perfil de la empresa, visión y misión, legalidad de la acta de constitución, estructura de dirección y nuestro compromiso con la calidad.",
+   "h1": "Sobre PT Bambu Water Nusantara",
+   "eyebrow": "Perfil de la Empresa",
+   "intro": "Empresa legalmente constituida que presenta agua de bambú terapéutica de calidad y bambú premium de Nusantara — desde los bosques regulados hasta su hogar.",
+   "menuDesc": "Perfil, visión, misión y legalidad"
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "¿Qué es el Agua de Bambú",
+   "seoTitle": "¿Qué es el Agua de Bambú? Guía Completa del Agua de Savia de Bambú y sus Beneficios",
+   "metaDescription": "Entienda qué es el agua de bambú (agua de bambú): origen de la savia de los tallos jóvenes de bambú, método de recolección técnica de yemas, tipos y proceso de destilación.",
+   "h1": "¿Qué es el Agua de Bambú?",
+   "eyebrow": "Guía Completa",
+   "intro": "Conociendo el agua de savia de bambú — tesoro natural de Nusantanta rico en sílice y antioxidantes, desde su formación hasta su vaso.",
+   "menuDesc": "Definición, origen y tipos de agua de bambú"
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "Beneficios del Agua de Bambú",
+   "seoTitle": "8 Beneficios del Agua de Bambú para la Salud y la Medicina Natural Probados",
+   "metaDescription": "8 beneficios del agua de bambú para la salud: reduce la fiebre, alivia la tos, cuida el corazón, azúcar en sangre, digestión, sistema inmunológico, piel y dolor menstrual.",
+   "h1": "8 Beneficios del Agua de Bambú para la Salud",
+   "eyebrow": "Beneficios y Propiedades",
+   "intro": "De la tradición médica de Nusantanta a los estudios científicos modernos — beneficios completos del agua de bambú para el cuerpo, de adentro hacia afuera.",
+   "menuDesc": "8 principales beneficios para el cuerpo"
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "Contenido Nutricional",
+   "seoTitle": "Contenido Nutricional del Agua de Bambú — Sílice Orgánico Más Alto y Antioxidantes",
+   "metaDescription": "Análisis del contenido del agua de bambú: sílice orgánico hasta 70%, flavonoides, polifenoles, clorofila, aminoácidos y minerales K-Ca-Mg para el cuerpo.",
+   "h1": "Contenido Nutricional y Ciencia del Agua de Bambú",
+   "eyebrow": "Análisis Científico",
+   "intro": "¿Por qué el agua de bambú se llama \"el mineral de agua más completo de la naturaleza\"? Analizamos su contenido basado en las últimas investigaciones científicas.",
+   "menuDesc": "Sílice, flavonoides y minerales naturales"
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "Para el Tratamiento",
+   "seoTitle": "Agua de Bambú para Tratamientos Tradicionales y Terapias Complementarias",
+   "metaDescription": "El papel del agua de bambú en la medicina tradicional de Nusantanta: fiebre, tos, diabetes, colesterol y dolor menstrual — guía segura y adecuada.",
+   "h1": "Agua de Bambú para Tratamientos Tradicionales",
+   "eyebrow": "Terapia Complementaria",
+   "intro": "Herencia médica ancestral ahora respaldada por investigaciones — la forma correcta de utilizar el agua de bambú como complemento de la terapia de salud.",
+   "menuDesc": "Terapia tradicional y complementaria"
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "Agua de Bambú para el Azúcar en Sangre y la Diabetes",
+   "seoTitle": "Agua de Bambú para el Azúcar en Sangre y la Diabetes — Hechos, Investigación y Uso Seguro",
+   "metaDescription": "¿El agua de bambú ayuda a estabilizar el azúcar en sangre en pacientes diabéticos? Conozca los hechos científicos, la tradición, el consumo seguro y sus limitaciones.",
+   "h1": "Agua de Bambú para el Azúcar en Sangre & Diabetes",
+   "eyebrow": "Artículo de Salud",
+   "intro": "Millones de indonesios viven con diabetes. ¿Puede el agua de bambú ser una bebida acompañante que ayude? Esta es la respuesta basada en investigaciones.",
+   "menuDesc": "Acompañante para personas con diabetes"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "Agua de Bambú para Cálculos Renales & Salud Renal",
+   "seoTitle": "Agua de Bambú para Cálculos Renales & Salud Renal — Beneficios & Consejos Seguros",
+   "metaDescription": "Agua de bambú como bebida de apoyo para la salud renal: hidratación óptima, minerales naturales y tradición para facilitar la micción de forma segura.",
+   "h1": "Agua de Bambú para Cálculos Renales & Salud Renal",
+   "eyebrow": "Artículo de Salud",
+   "intro": "Los riñones son el filtro del cuerpo. Así es como el agua de bambú ayuda a mantener los riñones limpios y funcionando de manera óptima.",
+   "menuDesc": "Mantener los riñones limpios"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "Agua de Bambú para el Colesterol & Salud del Corazón",
+   "seoTitle": "Agua de Bambú para el Colesterol & Salud del Corazón — Guía Completa",
+   "metaDescription": "Los flavonoides y polifenoles del agua de bambú ayudan a combatir el colesterol malo y proteger el corazón. Descubre el mecanismo, investigaciones y cómo consumirlo.",
+   "h1": "Agua de Bambú para el Colesterol & Salud del Corazón",
+   "eyebrow": "Artículo de Salud",
+   "intro": "Las enfermedades cardiovasculares son la principal causa de muerte mortal. ¿Cómo los antioxidantes del agua de bambú ayudan a proteger el corazón y los vasos sanguíneos?",
+   "menuDesc": "Proteger el corazón & los vasos sanguíneos"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "Desintoxicación Natural con Agua de Bambú",
+   "seoTitle": "Desintoxicación Natural con Agua de Bambú — Programa de 7 Días con Energía Total",
+   "metaDescription": "Programa de desintoxicación natural de 7 días con agua de bambú: facilita la digestión, elimina toxinas y restaura la energía corporal suavemente.",
+   "h1": "Desintoxicación Natural con Agua de Bambú",
+   "eyebrow": "Artículo de Salud",
+   "intro": "El cuerpo acumula toxinas cada día de los alimentos, la contaminación y el estrés. El agua de bambú ofrece una manera de desintoxicación suave y refrescante.",
+   "menuDesc": "Programa de desintoxicación de 7 días"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "Sílice del Agua de Bambú para Huesos & Articulaciones",
+   "seoTitle": "Sílice del Agua de Bambú para Huesos & Articulaciones — Prevención Natural de la Osteoporosis",
+   "metaDescription": "Sílice orgánico del agua de bambú — el más alto en la naturaleza — juega un papel crucial en la formación de huesos, mantiene las articulaciones y previene la osteoporosis.",
+   "h1": "Sílice del Agua de Bambú para Huesos & Articulaciones",
+   "eyebrow": "Artículo de Salud",
+   "intro": "El calcio no es la única clave para huesos fuertes. Conoce el papel del sílice orgánico — y por qué el bambú es su mejor fuente.",
+   "menuDesc": "Sílice para la densidad ósea"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "Agua de Bambú para la Belleza de la Piel, Cabello & Uñas",
+   "seoTitle": "Agua de Bambú para la Belleza — Piel Elástica, Cabello & Uñas Fuertes",
+   "metaDescription": "El secreto de una piel elástica de la naturaleza: el sílice del agua de bambu apoya la producción de colágeno para la piel, el cabello y las uñas. Belleza desde dentro natural.",
+   "h1": "Agua de Bambú para la Belleza de la Piel, Cabello & Uñas",
+   "eyebrow": "Artículo de Salud",
+   "intro": "La verdadera belleza comienza desde dentro. ¿Cómo el sílice y antioxidantes del agua de bambú funcionan como \"colágeno natural\" de la naturaleza?",
+   "menuDesc": "Colágeno natural desde dentro"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "Historia & Tradición del Agua de Bambú Nusantara",
+   "seoTitle": "Historia del Agua de Bambú — Legado de la Medicina Tradicional Nusantara",
+   "metaDescription": "Explorando la historia del agua de bambú: desde las tradiciones de los curanderos Sunda & Jawa, el tamoe barang bamboo chino, hasta la tendencia de bebidas saludables mundiales actual.",
+   "h1": "Historia & Tradición del Agua de Bambú Nusantara",
+   "eyebrow": "Artículo Cultural",
+   "intro": "Siglos antes de convertirse en una tendencia mundial, el agua de bambú ya era el secreto de sanación de los ancestros de Nusantara. Este es su viaje.",
+   "menuDesc": "Herencia de los sanadores de Nusantara"
+  },
+  "air-bambu-suling": {
+   "navLabel": "Agua de Bambú Destilada",
+   "seoTitle": "Agua de Bambú Destilada Premium — Bebida Terapéutica Diaria 600ml–19L",
+   "metaDescription": "Agua de bambú destilada premium: savia joven de bambú purificada con destilación por etapas. Botellas 600ml, 1,5L, garrafas de 19L hasta barriles de 30L al por mayor.",
+   "h1": "Agua de Bambú Destilada Premium",
+   "eyebrow": "Producto Destacado",
+   "intro": "Savia joven de bambú purificada con destilación por etapas — sus minerales y sílice naturales se conservan, su seguridad está garantizada.",
+   "menuDesc": "Bebida terapéutica diaria premium"
+  },
+  "air-bambu-tabib": {
+   "navLabel": "Agua de Bambú Terapéutica",
+   "seoTitle": "Agua de Bambú Terapéutica — Savia Fresca Cruda para Terapia y Medicina",
+   "metaDescription": "Agua de Bambú Terapéutica: savia fresca cruda directamente de los tallos jóvenes de bambú, cosechada con técnica de yema para terapeutas, sanadores y prácticas medicinales.",
+   "h1": "Agua de Bambú Terapéutica — Savia Cruda para Terapia",
+   "eyebrow": "Producto Terapéutico",
+   "intro": "Agua de savia pura como la conocen las tradiciones de los sanadores de Nusantara — cosechada fresca por pedido con técnica de yema.",
+   "menuDesc": "Savia fresca cruda para terapia"
+  },
+  "bambu-berkualitas": {
+   "navLabel": "Bambú de Calidad",
+   "seoTitle": "Bambú de Calidad al Por Mayor — Petung, Wulung, Apus, Ori de Todo Indonesia",
+   "metaDescription": "Bambú de calidad seleccionado de más de 3 años de edad: Petung para construcción, Wulung premium, Apus para cestería, Ori para estructuras. Por unidad hasta camiones completos a toda Indonesia.",
+   "h1": "Bambú de Calidad en Gran Cantidad",
+   "eyebrow": "Producto al Por Mayor",
+   "intro": "Petung, Wulung, Apus y Ori — seleccionados de bosques comunitarios gestionados, listos para enviar desde unidades hasta camiones completos a toda Indonesia.",
+   "menuDesc": "Petung, Wulung, Apus, Ori al por mayor"
+  },
+  "proses-produksi": {
+   "navLabel": "Proceso de Producción",
+   "seoTitle": "Proceso de Producción y Destilación de Agua de Bambú — Estándares Higiénicos de BWN",
+   "metaDescription": "4 etapas de producción de agua de bambú BWN: cosecha sostenible, extracción de savia, destilación y pruebas microbiológicas, hasta envasado grado alimenticio.",
+   "h1": "Proceso de Producción y Destilación",
+   "eyebrow": "Estándares de Calidad",
+   "intro": "Desde las plantaciones de bambú sostenibles hasta el envasado grado alimenticio — total transparencia en cómo producimos agua de bambú de calidad.",
+   "menuDesc": "Cosecha, extracción, destilación y pruebas de calidad"
+  },
+  "pengiriman-massal": {
+   "navLabel": "Envío Masivo",
+   "seoTitle": "Envío Masivo de Agua de Bambú y Bambú en Tallo a Todo Indonesia",
+   "metaDescription": "Servicio de envío de grandes volúmenes: garrafas, barriles, hasta cargas de camiones de bambú en tallo. Regular 1-3 días, carga interinsular, expreso aéreo.",
+   "h1": "Envío Masivo a Todo Indonesia",
+   "eyebrow": "Servicio de Distribución",
+   "intro": "Los grandes volúmenes no son un problema — garrafas, barriles, atados de bambú hasta camiones llenos, los llevamos a 38 provincias con embalaje seguro.",
+   "menuDesc": "Carga terrestre, marítima y aérea"
+  },
+  "jangkauan-kota": {
+   "navLabel": "Cobertura de Ciudades",
+   "seoTitle": "Cobertura de Envío de Ciudades — 38 Provincias de Indonesia | BWN",
+   "metaDescription": "Enviamos agua de bambú y bambú en tallo a ciudades de toda Indonesia: Yakarta, Bandung, Surabaya, Medan, Makassar hasta Jayapura.",
+   "h1": "Cobertura de Ciudades de Todo Indonesia",
+   "eyebrow": "Cobertura Regional",
+   "intro": "38 provincias, decenas de ciudades, una red de distribución de confianza. Encuentra tu ciudad y comienza a pedir hoy.",
+   "menuDesc": "38 provincias de Indonesia"
+  },
+  "harga-paket": {
+   "navLabel": "Precios y Paquetes",
+   "seoTitle": "Precios y Paquetes de Agua de Bambú y Bambú en Tallo — Minorista al Por Mayor",
+   "metaDescription": "Lista de precios de agua de bambú destilada, agua de bambú medicinal y tallos de bambú (Petung, Wulung, Apus, Ori) — minorista, mayorista y envíos corporativos.",
+   "h1": "Precios y Paquetes",
+   "eyebrow": "Transparente y Asequible",
+   "intro": "Precios claros sin costos ocultos — desde botellas individuales para familias hasta camiones para distribuidores y proyectos.",
+   "menuDesc": "Minorista, mayorista y corporativo"
+  },
+  "cara-pemesanan": {
+   "navLabel": "Cómo Pedir",
+   "seoTitle": "Cómo Pedir Agua de Bambú y Tallos de Bambú — 4 Pasos Fáciles",
+   "metaDescription": "Cómo pedir agua de bambú y tallos de bambú de BWN: elija el producto, confirme por WhatsApp 0813-1651-6524, pago seguro, envío a toda Indonesia.",
+   "h1": "Forma de Pedido Fácil y Rápida",
+   "eyebrow": "Guía de Pedido",
+   "intro": "Cuatro pasos simples desde elegir el producto hasta que el agua de bambú llegue a su puerta — donde sea que esté en Indonesia.",
+   "menuDesc": "4 pasos fáciles para pedir"
+  },
+  "artikel": {
+   "navLabel": "Todos los Artículos",
+   "seoTitle": "Artículos y Conocimiento sobre Agua de Bambú — Centro de Información de Salud de BWN",
+   "metaDescription": "Colección de artículos sobre salud del agua de bambú: diabetes, cálculos renales, colesterol, desintoxicación, huesos, belleza, hasta la historia tradicional de las islas.",
+   "h1": "Centro de Conocimiento sobre Agua de Bambú",
+   "eyebrow": "Blog y Artículos",
+   "intro": "Todo lo que necesita saber sobre el agua de bambú — curado a partir de investigaciones científicas y la sabiduría tradicional de las islas.",
+   "menuDesc": "Centro de conocimiento del agua de bambú"
+  },
+  "testimoni": {
+   "navLabel": "Testimonios",
+   "seoTitle": "Testimonios de Clientes — Historias Reales sobre los Beneficios del Agua de Bambú de BWN",
+   "metaDescription": "Historias reales de clientes de Bambu Water Nusantara: familias saludables, terapeutas de confianza y distribuidores en toda Indonesia.",
+   "h1": "Testimonios de Nuestros Clientes",
+   "eyebrow": "Historias Reales",
+   "intro": "Desde cocinas familiares hasta clínicas de terapeutas — estas son sus historias sobre los beneficios del agua de bambú de BWN.",
+   "menuDesc": "Historias reales de clientes"
+  },
+  "faq": {
+   "navLabel": "Preguntas Frecuentes",
+   "seoTitle": "Preguntas Frecuentes — Preguntas Comunes sobre Agua de Bambú y Servicios de BWN",
+   "metaDescription": "Respuestas completas a preguntas comunes: ¿qué es el agua de bambú, seguridad diaria, diferencias de productos, cómo pedir al por mayor, envíos y legalidad de la empresa.",
+   "h1": "Preguntas Frecuentes",
+   "eyebrow": "Ayuda e Información",
+   "intro": "Todas las preguntas sobre el agua de bambú, productos, pedidos y envíos — respondidas completamente en una sola página.",
+   "menuDesc": "Preguntas frecuentes"
+  },
+  "kontak": {
+   "navLabel": "Contacto",
+   "seoTitle": "Contacto y Pedidos — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "Contacte a PT Bambu Water Nusantara: WhatsApp 0813-1651-6524, correo electrónico, formulario de pedido. Consulta gratuita para necesidades de terapia y al por mayor.",
+   "h1": "Contáctenos — Consulta Gratuita",
+   "eyebrow": "Contacto y Pedidos",
+   "intro": "Nuestro equipo está listo para ayudar con necesidades de terapia familiar hasta contratos de distribución masiva. Respuesta rápida durante horas de oficina.",
+   "menuDesc": ""
+  }
+ }
+}

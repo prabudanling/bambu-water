@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "jangkauan-kota": {
+      "s": {
+        "scopeEyebrow": "Cakupan Wilayah",
+        "scopeTitle": "38 Provinsi,",
+        "scopeHighlight": "Satu Jaringan Terpercaya",
+        "scopeDescription": "Sejak 2007 jaringan distribusi kami tumbuh dari Jawa Barat ke seluruh Nusantara — kota Anda pasti terjangkau.",
+        "islands": ["Pulau Jawa", "Sumatera", "Kalimantan", "Sulawesi", "Bali & Nusa Tenggara", "Maluku & Papua"],
+        "citiesSuffix": "+ kota",
+        "notListedStrong": "Kota Anda tidak tercantum?",
+        "notListed": " Kami tetap bisa mengirim ke hampir semua wilayah Indonesia melalui mitra ekspedisi lokal — tanyakan langsung kepada tim kami.",
+        "checkCity": "Cek Kota Saya",
+        "checkWaMessage": "Halo! Apakah Bambu Water Nusantara mengirim ke kota saya?"
+      }
+    }
+  }
+}

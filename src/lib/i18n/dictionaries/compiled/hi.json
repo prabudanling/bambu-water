@@ -1,0 +1,571 @@
+{
+ "ui": {
+  "common": {
+   "home": "होम",
+   "learnMore": "और जानें",
+   "seeAll": "सब देखें",
+   "readMore": "और पढ़ें",
+   "readArticle": "लेख पढ़ें",
+   "orderNow": "अभी ऑर्डर करें",
+   "chatWa": "WhatsApp चैट करें",
+   "fillForm": "फॉर्म भरें",
+   "backHome": "होम पर वापस जाएं",
+   "updated": "अपडेट किया गया",
+   "minutes": "पढ़ने में मिनट",
+   "minRead": "मिनट पढ़ने में",
+   "officialSite": "आधिकारिक साइट",
+   "notMedicalAdvice": "प्राकृतिक उपचार सहायक — चिकित्सा सलाह का विकल्प नहीं",
+   "legalPt": "आधिकारिक PT कानूनी निकाय",
+   "languageLabel": "भाषा",
+   "changeLanguage": "भाषा बदलें",
+   "copyright": "सभी अधिकार सुरक्षित।"
+  },
+  "nav": {
+   "openMenu": "नेविगेशन मेनू खोलें",
+   "closeMenu": "नेविगेशन मेनू बंद करें",
+   "orderCta": "अभी ऑर्डर करें",
+   "waCta": "WA",
+   "groups": {
+    "Beranda": "होम",
+    "Kesehatan": "स्वास्थ्य",
+    "Artikel": "लेख",
+    "Produk": "उत्पाद",
+    "Layanan": "सेवाएं",
+    "Tentang": "हमारे बारे में"
+   }
+  },
+  "float": {
+   "title": "तेज़ मदद चाहिए?",
+   "desc": "अभी हमसे चैट करें — मुफ्त परामर्श, कार्य घंटों में तेज़ जवाब।",
+   "cta": "चैट शुरू करें",
+   "open": "WhatsApp चैट विजेट खोलें",
+   "close": "WhatsApp चैट विजेट बंद करें",
+   "waMessage": "नमस्ते Bambu Water Nusantara! मैं बांस के पानी / बांस के तने के बारे में पूछना चाहता हूं।"
+  },
+  "pageHero": {
+   "breadcrumbHome": "होम",
+   "breadcrumbLabel": "Breadcrumb",
+   "updatedPrefix": "अपडेट किया गया"
+  },
+  "languageSwitcher": {
+   "label": "भाषा",
+   "current": "वर्तमान भाषा",
+   "choose": "भाषा चुनें — 30 भाषाएं उपलब्ध",
+   "search": "भाषा खोजें...",
+   "noResults": "भाषा नहीं मिली",
+   "count": "30 भाषाएं"
+  },
+  "about": {
+   "ariaLabel": "कंपनी के बारे में",
+   "eyebrow": "हमारे बारे में — 2007 से",
+   "title": "बांस के पानी के प्रवर्तक",
+   "highlight": "इंडोनेशिया में सबसे बड़ा और पहला",
+   "description": "2007 से हम नुसंतारा की बांस के पानी की परंपरा को आधुनिक युग में ले आए हैं — हाइजेनिक उत्पादन मानकों और इंडोनेशिया भर में राष्ट्रीय वितरण नेटवर्क के साथ।",
+   "imgAlt": "पीटी बांस वाटर नुसंतारा द्वारा देखभाले गए हरे पहाड़ियों में स्थित सतत बांस के बागान का दृश्य",
+   "landChip": "इंडोनेशिया में 2.1 मिलियन हेक्टेयर बांस की भूमि",
+   "expLabel": "अनुभव",
+   "expSince": "2007 से",
+   "expHighlight": "सबसे बड़ा और पहला",
+   "expYears": "इंडोनेशिया में — {years}+ साल सेवा",
+   "narrLead": "यह विश्वास से पैदा हुआ कि नुसंतारा में सबसे सरल उपचार की कीमत है:",
+   "narrEm": "बांस के अंदर बहने वाला पानी",
+   "narrAfter": "शताब्दियों से, पारंपरिक चिकित्सक बुखार को कम करने, खांसी को राहत देने और ऊर्जा को पुनर्जीवित करने के लिए नए बांस के सदपान को काटते रहे हैं। अब हम आधुनिक उत्पादन मानकों के साथ इस ज्ञान को लाते हैं — अनुभवी शिष्यों द्वारा संग्रहित और बहु-विषय विशेषज्ञ परिषद द्वारा निगरानी की गई, सतत फसल से लेकर राष्ट्रीय डिलीवरी तक।",
+   "visionTitle": "दृष्टि",
+   "visionText": "दक्षिण-पूर्व एशिया में अग्रणी बांस के चिकित्सा पानी का आपूर्तिकर्ता बनना और इंडोनेशियाई बांस की अर्थव्यवस्था का एक स्तंभ बनना।",
+   "missionTitle": "मिशन",
+   "missionText": "फार्मास्युटिकल गुणवत्ता वाला शुद्ध बांस का पानी प्रदान करना, राष्ट्रीय निर्माण बांस की आपूर्ति करना, और बांस के किसानों की कल्याण बढ़ाना।"
+  },
+  "science": {
+   "ariaLabel": "बांस के पानी की पोषक तत्व सामग्री",
+   "eyebrow": "प्राकृतिक घटक",
+   "title": "पीछे का विज्ञान",
+   "highlight": "प्रत्येक बूंद",
+   "description": "बांस का जैविक सिलिका प्रकृति में सबसे अधिक है — फ्लेवोनॉइड्स, क्लोरोफिल, अमीनो एसिड और आवश्यक इलेक्ट्रोलाइट्स के साथ मिलाकर।",
+   "imgAlt": "प्राकृतिक पत्थर पर स्पष्ट बांस का पानी का एक गिलास और ताजे बांस के पत्ते — शांत और चिकित्सकीय माहौल",
+   "electrolyteLabel": "प्राकृतिक इलेक्ट्रोलाइट्स से भरपूर",
+   "microTestLabel": "माइक्रोबियोलॉजिकल रूप से परीक्षण किया गया",
+   "cardTitle": "बांस के पानी की पोषक तत्व प्रोफाइल",
+   "cardSub": "प्रत्येक प्राकृतिक घटक का सापेक्ष समृद्धि सूचकांक"
+  },
+  "reasons": {
+   "ariaLabel": "चीनी सम्राटों की युवावस्था का रहस्य और बांस के पानी पीने के 10 कारण",
+   "badge": "इतिहास से लगभग मिट गए प्राचीन रहस्य",
+   "title": "युवावस्था का रहस्य",
+   "highlight": "चीनी सम्राट",
+   "p1Lead": "हजारों साल से, चीनी राजवंश के राजचिकित्सकों के पास सबसे अच्छी तरह से सुरक्षित एक रहस्य था:",
+   "p1Strong": "बांस का रस",
+   "p1Mid": "— एक अमृत जिसे सम्राट और उच्च वर्ग के लोगों को युवावस्था में रखने का विश्वास किया जाता था। चीनी पारंपरिक चिकित्सा में इसे दस्तावेजीकृत किया गया है जैसे",
+   "p1Em": "\"तियान जू ली\"",
+   "p1Tail": "(天竹瀝), जो नए बांस के सदपान से निकाला गया बांस का रस है, जो गर्मी को कम करने, शरीर को ताजगी देने और शासक की ऊर्जा की देखभाल करने के लिए है।",
+   "p2Lead": "लेकिन समय के साथ, यह बड़ा रहस्य लगभग",
+   "p2Strong": "इतिहास से मिट गया",
+   "p2Tail": "— केवल कुछ दरबार के सेवकों और वंशानुगत चिकित्सकों को पता था। अब यह प्राचीन रहस्य वापस आ गया है: आधुनिक शोध ने प्रकृति में सबसे अधिक जैविक सिलिका और बांस के पानी में अद्भुत एंटीऑक्सीडेंट की पुष्टि की है।",
+   "luckLine": "भाग्यशाली व्यक्ति बनें — आप अब इस बड़े रहस्य को जानते हैं। 🌿",
+   "subheading": "आपको बांस का पानी पीने के 10 कारण",
+   "subheadingHighlight": "क्यों पीना चाहिए",
+   "subDesc": "प्राचीन रहस्य से लेकर आधुनिक वैज्ञानिक प्रमाण तक।",
+   "cta": "अपने स्वास्थ्य रिवाज शुरू करें",
+   "ctaMessage": "नमस्ते! मैं बांस का पानी आज़माना चाहता हूं — चीनी सम्राट की युवावस्था का रहस्य 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "ग्राहक साक्ष्य",
+   "eyebrow": "उनकी कहानियां",
+   "title": "विश्वास जो",
+   "highlight": "बह रहा है",
+   "description": "पारिवारिक रसोई से लेकर राष्ट्रीय निर्माण परियोजनाओं तक — यह Bambu Water Nusantara के ग्राहकों का अनुभव है।",
+   "ratingAria": "रेटिंग {rating} में से 5",
+   "prevAria": "पिछला ग्राहक-अनुभव",
+   "nextAria": "अगला ग्राहक-अनुभव",
+   "dotAria": "ग्राहक-अनुभव {n} दिखाएं"
+  },
+  "leadership": {
+   "ariaLabel": "कंपनी की नेतृत्व संरचना",
+   "eyebrow": "शासन",
+   "title": "नेतृत्व टीम",
+   "highlight": "अनुभवी",
+   "description": "संस्थापक सदस्य, निदेशक मंडल, प्रबंधन निदेशक, और ऑपरेशनल मैनेजर डिवीजन — व्यापार अनुभव, सार्वजनिक स्वास्थ्य की प्रतिबद्धता, और आधुनिक गुणवत्ता मानकों का संयोजन।",
+   "pendiriTitle": "संस्थापक सदस्य",
+   "komisarisTitle": "निदेशक मंडल",
+   "direkturTitle": "प्रबंधन निदेशक",
+   "managersTitle": "ऑपरेशनल मैनेजर डिवीजन",
+   "sharesLabel": "शेयर"
+  },
+  "benefits": {
+   "ariaLabel": "स्वास्थ्य के लिए बांस के पानी के लाभ",
+   "eyebrow": "लाभ और थेरेपी",
+   "title": "उपचार की विरासत",
+   "highlight": "बांस का पानी",
+   "description": "शताब्दियों से नुसंतारा के वैध द्वारा विश्वसनीय, अब अंतर्राष्ट्रीय वैज्ञानिक अध्ययन द्वारा समर्थित। बांस का पानी एक प्राकृतिक साथी है जो एक संतुलित शरीर की ओर ले जाता है।",
+   "research": "वैज्ञानिक अनुसंधान द्वारा समर्थित",
+   "researchSub": "हम विश्वसनीय स्रोतों का उद्धरण देते हैं।",
+   "disclaimer": "* Bambu Water Nusantara का बांस का पानी एक प्राकृतिक स्वास्थ्य पेय और थेरेपी का सहायक है — यह डॉक्टर के नुस्खे का विकल्प नहीं है। अपने स्वास्थ्य की स्थिति के बारे में एक पेशेवर चिकित्सा अधिकारी से परामर्श करें।",
+   "sources": [
+    {
+     "title": "Medicinal Plant Research Journal (2015)",
+     "detail": "दस्तावेजीकृत बांस निष्कर्ष ऑक्सीडेटिव स्ट्रेस, भड़काऊ, लाइपोटोक्सिसिटी, कैंसर और कार्डियोवैस्कुलर रोगों से सुरक्षा प्रदान करता है।"
+    },
+    {
+     "title": "TIME — “बांस का पानी अब एक चीज है”",
+     "detail": "अंतर्राष्ट्रीय मीडिया बांस के पानी को एक वैश्विक स्वास्थ्य पेय घटना के रूप में रिपोर्ट करता है जिसमें एंटीऑक्सीडेंट और�ंटीमाइक्रोबियल प्रभाव होते हैं।"
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "अक्सर पूछे जाने वाले प्रश्न",
+   "eyebrow": "अक्सर पूछे जाने वाले प्रश्न",
+   "title": "प्रश्न जो",
+   "highlight": "अक्सर पूछे जाते हैं",
+   "description": "बांस के पानी, बांस उत्पादों और ऑर्डर कैसे करें के बारे में आपको जानने की आवश्यक जानकारी।",
+   "moreAsk": "अभी भी प्रश्न हैं?",
+   "moreCta": "WhatsApp पर सीधे पूछें"
+  },
+  "contact": {
+   "ariaLabel": "संपर्क और ऑर्डर",
+   "eyebrow": "हमसे संपर्क करें",
+   "title": "अभी ऑर्डर दें,",
+   "highlight": "कहीं भेजें",
+   "description": "अपनी आवश्यकता बताएं — हमारी टीम 1×24 कार्य घंटों के भीतर सर्वोत्तम पेशकश के साथ जवाब देगी।",
+   "officeTitle": "मार्केटिंग ऑफिस",
+   "phoneLabel": "फोन / WhatsApp",
+   "emailLabel": "ईमेल",
+   "addressLabel": "पता",
+   "hoursLabel": "ऑपरेटिंग घंटे",
+   "branchesNote": "शाखा 2: मंगकुबुमी, तासिकमालाया • शाखा 3: चिहौरगेउलिस, बांडुंग",
+   "guarantees": [
+    {
+     "title": "24 घंटे से कम में जवाब",
+     "text": "हमारी टीम की तेज़ प्रतिक्रिया"
+    },
+    {
+     "title": "पूर्ण दस्तावेज़",
+     "text": "टेंडर और आपूर्ति के लिए"
+    },
+    {
+     "title": "सुरक्षित पैकेजिंग",
+     "text": "राष्ट्रीय एक्सप्रेस डिलीवरी मानक"
+    },
+    {
+     "title": "गुणवत्ता वारंटी",
+     "text": "अनुरूप न होने पर वापसी"
+    }
+   ],
+   "formTitle": "ऑर्डर और परामर्श फॉर्म",
+   "formSubtitle": "अपनी आवश्यकताएं भरें — खुदरा या बड़ी मात्रा (थोक/कार्गो)।",
+   "orderLegend": "मैं ऑर्डर करना चाहता हूं",
+   "orderTypeLabels": [
+    "बांस का पानी (खुदरा)",
+    "बांस की छड़ें",
+    "थोक / रीसेलर",
+    "कॉर्पोरेट / प्रोजेक्ट"
+   ],
+   "nameLabel": "पूरा नाम",
+   "namePlaceholder": "उदा. अहमद सेतिवान",
+   "phonePlaceholder": "उदा. 0812-3456-7890",
+   "emailPlaceholder": "नाम@email.com",
+   "cityLabel": "शिपिंग गंतव्य शहर",
+   "cityPlaceholder": "शहर चुनें",
+   "cityOther": "अन्य शहर",
+   "messageLabel": "आवश्यकताओं का विवरण",
+   "messagePlaceholder": "उदा. बांदुंग में कैफे के लिए प्रति माह 50 गैलन आसुत बांस का पानी चाहिए, हर सोमवार को भेजें।",
+   "submitting": "भेजा जा रहा है...",
+   "submitCta": "ऑफर अनुरोध भेजें",
+   "submitNote": "फॉर्म भरने के द्वारा, आप हमारी टीम द्वारा संपर्क किए जाने पर सहमत हैं।",
+   "sentTitle": "आपका संदेश भेजा गया!",
+   "sentThanks": "धन्यवाद,",
+   "sentBody": "बांबू वाटर नुसांतारा टीम 1×24 कार्य घंटे के भीतर फोन/व्हाट्सएप से आपसे संपर्क करेगी।",
+   "sendAnother": "एक और संदेश भेजें",
+   "toastIncompleteTitle": "डेटा पूरा नहीं है",
+   "toastIncompleteDesc": "कृपया अपना नाम, फोन नंबर और संदेश भरें।",
+   "errorFallback": "भेजने में असफल",
+   "toastSuccessTitle": "संदेश भेजा गया! 🌿",
+   "toastSuccessDesc": "धन्यवाद! हमारी टीम 1×24 कार्य घंटे के भीतर आपसे संपर्क करेगी।",
+   "toastFailTitle": "संदेश भेजने में असफल",
+   "toastFailDesc": "कृपया पुनः प्रयास करें या हमारे व्हाट्सएप से संपर्क करें।"
+  },
+  "quoteForm": {
+   "ariaLabel": "बांस का पानी ऑर्डर करने का फॉर्म",
+   "title": "ऑर्डर और परामर्श फॉर्म",
+   "subtitle": "मुफ्त, कोई दायित्व नहीं — 1×24 कार्य घंटे के भीतर जवाब।",
+   "nameLabel": "पूरा नाम",
+   "namePlaceholder": "उदा. बुदि संतोसो",
+   "phoneLabel": "WhatsApp / टेलीफोन नंबर",
+   "phonePlaceholder": "उदा. 0812 3456 7890",
+   "emailLabel": "ईमेल (वैकल्पिक)",
+   "emailPlaceholder": "नाम@email.com",
+   "cityLabel": "शिपिंग शहर",
+   "cityPlaceholder": "उदा. सुरबाया",
+   "needTypeLabel": "आवश्यकता का प्रकार",
+   "orderTypeLabels": [
+    "बांस का पानी (रिटेल)",
+    "बांस का तना",
+    "थोक / रीसेलर",
+    "कॉर्पोरेट / प्रोजेक्ट"
+   ],
+   "messageLabel": "संदेश / आवश्यकता",
+   "messagePlaceholder": "उदा. मैं 19L डिस्टिल्ड बांस का पानी के गैलन 10 गैलन सुरबाया भेजना चाहता हूं...",
+   "submitting": "भेजा जा रहा है...",
+   "submitCta": "अनुरोध भेजें",
+   "privacyNote": "आपका डेटा सुरक्षित है और केवल ऑर्डर प्रोसेस करने के लिए उपयोग किया जाता है।",
+   "sentTitle": "धन्यवाद",
+   "sentBody": "आपका अनुरोध प्राप्त हो गया है। बांबू वाटर नुसांतारा टीम वर्किंग घंटों के भीतर 1×24 घंटे में आपको व्हाट्सएप या फोन करेगी।",
+   "waConfirmCta": "WhatsApp से पुष्टि करें",
+   "waMessage": "नमस्ते, मेरा नाम {name} है, मैंने हाल ही में एक अनुरोध भेजा ({type})। कृपया प्रोसेस करें!",
+   "toastIncompleteTitle": "डेटा अधूरा है",
+   "toastIncompleteDesc": "कृपया अपना नाम, फोन/WhatsApp नंबर, और संदेश भरें।",
+   "errorFallback": "भेजने में असफल",
+   "toastSuccessTitle": "अनुरोध भेजा गया! 🌿",
+   "toastSuccessDesc": "धन्यवाद! हमारी टीम कार्य घंटों के भीतर 1×24 घंटे में आपसे संपर्क करेगी।",
+   "toastFailTitle": "भेजने में असफल",
+   "toastFailDesc": "कृपया पुनः प्रयास करें या WhatsApp से संपर्क करें।"
+  },
+  "footer": {
+   "ariaLabel": "साइट का फुटर",
+   "ctaTitle": "स्वस्थ जीवन शुरू करें",
+   "ctaHighlight": "बांस का रस",
+   "ctaDesc": "अपने परिवार के लिए बांस का पानी ऑर्डर करें, या अपने शहर में हमारा वितरण साझेदार बनें।",
+   "ctaConsult": "WhatsApp पर मुफ्त परामर्श",
+   "waCta": "WhatsApp",
+   "ctaForm": "ऑर्डर फॉर्म",
+   "waMessage": "नमस्ते बांबू वाटर नुसांतारा! मैं बांस के पानी / बांस के तने के बारे मुफ्त परामर्श चाहता हूं।",
+   "columns": {
+    "explore": "एक्सप्लोर करें",
+    "health": "स्वास्थ्य",
+    "products": "उत्पाद और सेवाएं",
+    "articles": "स्वास्थ्य लेख"
+   },
+   "navAria": "फुटर नेविगेशन",
+   "articleLinks": [
+    "सभी लेख",
+    "बांस का पानी और शुगर",
+    "बांस का पानी और किडनी स्टोन",
+    "बांस का पानी और कोलेस्ट्रॉल",
+    "प्राकृतिक डिटॉक्सिफिकेशन",
+    "हड्डियां और जोड़",
+    "सौंदर्य और त्वचा"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "बांस के पानी का इतिहास"
+   },
+   "socialLabels": [
+    "इंस्टाग्राम बांबू वाटर नुसांतारा",
+    "फेसबुक बांबू वाटर नुसांतारा",
+    "लिंक्डइन बांबू वाटर नुसांतारा"
+   ],
+   "phoneNote": "फोन / व्हाट्सएप्प",
+   "fullAddressNote": "पूरा पता संपर्क पृष्ठ पर"
+  },
+  "hero": {
+   "ariaLabel": "बांबू वाटर नुसांतारा होमपेज",
+   "imageAlt": "भोर में इंडोनेशियाई बांस का जंगल — सुनहरी किरणें कोहड़ में से निकलती हैं और नए बांस के तने से बूंदें टपकती हैं",
+   "badge": "इंडोनेशिया में सबसे बड़ा और पहला",
+   "badgeSince": "2005 से",
+   "titleLine1": "शुद्ध बांस का रस,",
+   "titleLine2": "प्रकृति से स्वास्थ्य",
+   "titleLine3": "नुसांतारा",
+   "subtitle": "स्वास्थ्य थेरेपी के लिए बांस का पेय — जो जैविक सिलिका, फ्लैवनॉइड और आवश्यक खनिजों से भरपूर है। हम भी प्रदान करते हैं",
+   "subtitleHighlight": "बांस के पानी और बांस का वितरण",
+   "subtitleAfter": "इंडोनेशिया भर में बड़ी मात्रा में।",
+   "ctaPrimary": "उत्पादन का अन्वेषण करें",
+   "ctaSecondary": "थोक / शिपिंग का ऑर्डर दें",
+   "trust": [
+    "स्वच्छ चरणबद्ध फिल्टरिंग",
+    "100% प्राकृतिक, कोई संरक्षक नहीं",
+    "38 प्रांतों तक शिपिंग"
+   ],
+   "scrollAriaLabel": "नीचे स्क्रॉल करें - हमारे बारे में"
+  },
+  "stats": {
+   "millionSuffix": " लाख",
+   "thousandSuffix": " हज़ार"
+  },
+  "cta": {
+   "ariaLabel": "कार्रवाई करने का आह्वान",
+   "title": "बांस के पाने के लाभों का अनुभव करने के लिए तैयार हैं?",
+   "description": "हमारी टीम के साथ मुफ्त परामर्श लें — पारिवारिक थेरेपी, थोक से लेकर आपके शहर में बड़ी मात्रा में बांस का कार्गो तक की आवश्यकताओं के लिए।",
+   "legal": "कानूनी रूप से पंजीकृत निगम",
+   "chatCta": "WhatsApp चैट करें",
+   "formCta": "फॉर्म भरें"
+  },
+  "productTemplate": {
+   "packaging": "पैकेजिंग विकल्प",
+   "orderWa": "WhatsApp के माध्यम से ऑर्डर करें",
+   "viewPrice": "कीमत देखें",
+   "usesEyebrow": "क्या के लिए",
+   "usesTitle": "उपयोग और",
+   "usesHighlight": "लाभ",
+   "guideTitle": "गाइड",
+   "guideHighlight": "उपयोग",
+   "faqTitle": "प्रश्न",
+   "faqHighlight": "सामान्य",
+   "safetyNote": "फूड-ग्रेड उत्पाद, स्वच्छ तरीके से प्रसंस्कृत, कोई संरक्षक नहीं।",
+   "relatedLabel": "अन्य उत्पाद"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "Beranda",
+   "seoTitle": "Bambu Water Nusantara — Air Bambu Terapi Pengobatan Alami & Distribusi Bambu Se-Indonesia",
+   "metaDescription": "Produsen air bambu suling & air bambu tabib untuk pengobatan alami. Distribusi bambu berkualitas massal ke seluruh kota Indonesia. WA 0813-1651-6524.",
+   "h1": "Sari Bambu Murni untuk Kesehatan Sejak Dalam",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "Air sadapan bambu pilihan untuk pengobatan & terapi kesehatan alami, serta bambu berkualitas dalam jumlah besar — dikirim ke seluruh Indonesia.",
+   "menuDesc": ""
+  },
+  "tentang-kami": {
+   "navLabel": "Tentang Kami",
+   "seoTitle": "Tentang Kami — PT Bambu Water Nusantara, Badan Hukum Resmi Terpercaya",
+   "metaDescription": "Kenali PT Bambu Water Nusantara: profil perusahaan, visi misi, legalitas akta pendirian, susunan pimpinan, dan komitmen kualitas kami.",
+   "h1": "Tentang PT Bambu Water Nusantara",
+   "eyebrow": "Profil Perusahaan",
+   "intro": "Perusahaan badan hukum resmi yang menghadirkan air bambu terapi berkualitas dan bambu premium Nusantara — dari hutan rakyat terkurasi ke rumah Anda.",
+   "menuDesc": "Profil, visi misi & legalitas"
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "Apa Itu Air Bambu",
+   "seoTitle": "Apa Itu Air Bambu? Panduan Lengkap Air Sadapan Bambu & Manfaatnya",
+   "metaDescription": "Pahami apa itu air bambu (air tuak bambu): asal usul sadapan ruas bambu muda, cara pengambilan teknik mata tunas, jenis, hingga proses distilasi.",
+   "h1": "Apa Itu Air Bambu?",
+   "eyebrow": "Panduan Lengkap",
+   "intro": "Mengenal air sadapan bambu — harta alam Nusantara yang kaya silika dan antioksidan, dari proses terbentuknya hingga sampai ke gelas Anda.",
+   "menuDesc": "Pengertian, asal usul & jenis air bambu"
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "Manfaat Air Bambu",
+   "seoTitle": "8 Manfaat Air Bambu untuk Kesehatan & Pengobatan Alami Terbukti",
+   "metaDescription": "8 manfaat air bambu untuk kesehatan: turunkan demam, legakan batuk, jaga jantung, gula darah, pencernaan, imun, kulit, hingga nyeri haid.",
+   "h1": "8 Manfaat Air Bambu untuk Kesehatan",
+   "eyebrow": "Manfaat & Khasiat",
+   "intro": "Dari tradisi tabib Nusantara hingga kajian ilmiah modern — manfaat lengkap air bambu untuk tubuh, dari dalam hingga luar.",
+   "menuDesc": "8 manfaat utama untuk tubuh"
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "Kandungan Nutrisi",
+   "seoTitle": "Kandungan Nutrisi Air Bambu — Silika Organik Tertinggi & Antioksidan",
+   "metaDescription": "Analisis kandungan air bambu: silika organik hingga 70%, flavonoid, polifenol, klorofil, asam amino, dan mineral K-Ca-Mg untuk tubuh.",
+   "h1": "Kandungan Nutrisi & Sains Air Bambu",
+   "eyebrow": "Analisis Ilmiah",
+   "intro": "Mengapa air bambu disebut \"mineral air paling lengkap dari alam\"? Bedah kandungan berdasarkan riset ilmiah terkini.",
+   "menuDesc": "Silika, flavonoid & mineral alami"
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "Untuk Pengobatan",
+   "seoTitle": "Air Bambu untuk Pengobatan Tradisional & Terapi Komplementer",
+   "metaDescription": "Peran air bambu dalam pengobatan tradisional Nusantara: demam, batuk, diabetes, kolesterol, hingga nyeri haid — panduan aman & tepat.",
+   "h1": "Air Bambu untuk Pengobatan Tradisional",
+   "eyebrow": "Terapi Komplementer",
+   "intro": "Warisan pengobatan leluhur yang kini didukung riset — cara tepat memanfaatkan air bambu sebagai pendamping terapi kesehatan.",
+   "menuDesc": "Terapi tradisional & komplementer"
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "Air Bambu untuk Gula Darah & Diabetes",
+   "seoTitle": "Air Bambu untuk Gula Darah & Diabetes — Fakta, Riset, dan Cara Aman",
+   "metaDescription": "Apakah air bambu membantu menstabilkan gula darah penderita diabetes? Simak fakta ilmiah, tradisi, cara konsumsi aman, dan batasannya.",
+   "h1": "बांस का पानी रक्त शर्करा और मधुमेह के लिए",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "इंडोनेशिया में लाखों लोग मधुमेह के साथ जी रहे हैं। क्या बांस का पानी मददगार पेय पदार्थ बन सकता है? यह शोध के आधार पर उत्तर है।",
+   "menuDesc": "मधुमेह रोगियों का साथी"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "बांस का पानी गुर्दे के पथरी और गुर्दे के स्वास्थ्य के लिए",
+   "seoTitle": "बांस का पानी गुर्दे के पथरी और गुर्दे के स्वास्थ्य के लिए — लाभ और सुरक्षित टिप्स",
+   "metaDescription": "गुर्दे के स्वास्थ्य का समर्थक पेय: इष्टतम हाइड्रेशन, प्राकृतिक खनिज, और मूत्र संबंधी प्रक्रिया को सुरक्षित रूप से सहायता करने की परंपरा।",
+   "h1": "बांस का पानी गुर्दे के पथरी और गुर्दे के स्वास्थ्य के लिए",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "गुर्दा शरीर का फिल्टर है। यहीं पर बांस का पानी गुर्दों को स्वच्छ रखने और इन्हें अच्छी तरह से काम करने में मदद करता है।",
+   "menuDesc": "गुर्दों को स्वच्छ रखें"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "बांस का पानी कोलेस्ट्रॉल और हृदय स्वास्थ्य के लिए",
+   "seoTitle": "बांस का पानी कोलेस्ट्रॉल और हृदय स्वास्थ्य के लिए — पूर्ण गाइड",
+   "metaDescription": "बांस के पानी में फ्लेवोनॉयड और पॉलीफेनॉल खराब कोलेस्ट्रॉल से लड़ने और हृदय की रक्षा करने में मदद करते हैं। इसके तंत्र, शोध और उपयोग विधियों को जानें।",
+   "h1": "बांस का पानी कोलेस्ट्रॉल और हृदय स्वास्थ्य के लिए",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "कार्डियोवैस्कुलर बीमारी नंबर एक खतरनाक बीमारी है। बांस के पानी के एंटीऑक्सीडेंट हृदय और रक्त वाहिनियों की रक्षा कैसे करते हैं?",
+   "menuDesc": "हृदय और रक्त वाहिनियों की रक्षा करें"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "बांस के पानी से प्राकृतिक डिटॉक्स",
+   "seoTitle": "बांस के पानी से प्राकृतिक डिटॉक्स — 7 दिवसीय ऊर्जा भरपूर कार्यक्रम",
+   "metaDescription": "7 दिवसीय प्राकृतिक डिटॉक्स कार्यक्रम बांस के पानी के साथ: पाचन को सुचारू करें, विषाक्त पदार्थों को निकालें, और शरीर की ऊर्जा को नरम तरीके से पुनर्स्थापित करें।",
+   "h1": "बांस के पानी से प्राकृतिक डिटॉक्स",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "शरीर प्रतिदिन खाना, प्रदूषण और तनाव से विषाक्त पदार्थों का एकत्रीकरण करता है। बांस का पानी एक नरम और ताजगी भरा डिटॉक्स विकल्प प्रदान करता है।",
+   "menuDesc": "7 दिवसीय डिटॉक्स कार्यक्रम"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "बांस के पानी का सिलिका हड्डियों और जोड़ों के लिए",
+   "seoTitle": "बांस के पानी का सिलिका हड्डियों और जोड़ों के लिए — प्राकृतिक ऑस्टियोपोरोसिस रोकथाम",
+   "metaDescription": "बांस के पानी का सिलिका — प्रकृति में सबसे अधिक — हड्डियों के निर्माण, जोड़ों की देखभाल और ऑस्टियोपोरोसिस की रोकथाम में महत्वपूर्ण भूमिका निभाता है।",
+   "h1": "बांस के पानी का सिलिका हड्डियों और जोड़ों के लिए",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "कैल्शियम मजबूत हड्डियों की एकमात्र कुंजी नहीं है। जानें ऑर्गेनिक सिलिका की भूमिका — और बांस क्यों सबसे अच्छा स्रोत है।",
+   "menuDesc": "हड्डी के घनत्व के लिए सिलिका"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "बांस का पानी त्वचा, बाल और नाखूनों की सुंदरता के लिए",
+   "seoTitle": "बांस का पानी सुंदरता के लिए — स्निग्ध त्वचा, बाल और मजबूत नाखून",
+   "metaDescription": "प्रकृति से आए स्निग्ध त्वचा का रहस्य: बांस के पानी का सिलिका कोलेजन उत्पादन को समर्थन देता है त्वचा, बाल और नाखून के लिए। प्राकृतिक अंदर से सुंदरता।",
+   "h1": "बांस का पानी त्वचा, बाल और नाखूनों की सुंदरता के लिए",
+   "eyebrow": "स्वास्थ्य लेख",
+   "intro": "सच्ची सुंदरता अंदर से शुरू होती है। बांस के पानी का सिलिका और एंटीऑक्सीडेंट प्राकृतिक 'कोलेजन' के रूप में कैसे काम करते हैं?",
+   "menuDesc": "अंदर से प्राकृतिक कोलेजन"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "बांस के पानी का इतिहास और परंपरा",
+   "seoTitle": "बांस के पानी का इतिहास — नुसंतरा पारंपरिक चिकित्सा का विरासत",
+   "metaDescription": "बांस के पानी के इतिहास का अन्वेषण: सुंडा और जावा के वैद्यों की परंपरा, चीन के ताओ मो बांग बांस, लेकिन विश्व स्वास्थ्य पेय के रुझान तक।",
+   "h1": "बांस के पानी का इतिहास और परंपरा",
+   "eyebrow": "सांस्कृतिक लेख",
+   "intro": "दुनिया के रुझान बनने से शताब्दियों पहले, बांस का पानी नुसंतरा के पूर्वजों का उपचार रहस्य था। यह उसकी यात्रा है।",
+   "menuDesc": "नुसंतारा के वैधकों की विरासत"
+  },
+  "air-bambu-suling": {
+   "navLabel": "सूलिंग बांस का पानी",
+   "seoTitle": "प्रीमियम सूलिंग बांस का पानी — दैनिक चिकित्सा पेय 600ml–19L",
+   "metaDescription": "प्रीमियम सूलिंग बांस का पानी: कम उम्र के बांस के छोटे टहनियों का चयन, चरणबद्ध आसवन द्वारा शुद्धिकरण। 600ml, 1.5L, 19L गैलन से 30L ड्रम तक थोक।",
+   "h1": "प्रीमियम सूलिंग बांस का पानी",
+   "eyebrow": "उत्कृष्ट उत्पाद",
+   "intro": "कम उम्र के बांस की छोटी टहनियों का रस, जिसे चरणबद्ध आसवन द्वारा शुद्ध किया गया है — उनकी प्राकृतिक खनिज और सिलिका सुरक्षित हैं, उनकी सुरक्षा सुनिश्चित है।",
+   "menuDesc": "दैनिक चिकित्सा पेय"
+  },
+  "air-bambu-tabib": {
+   "navLabel": "टैबिब बांस का पानी",
+   "seoTitle": "टैबिब बांस का पानी — चिकित्सा और उपचार के लिए कच्चा, ताजा टहनी",
+   "metaDescription": "टैबिब बांस का पानी: कम उम्र के बांस की टहनियों से सीधे कच्चा, ताजा रस, बड़े आँसू तकनीक से चुने गए, चिकित्सकों, वैधकों और चिकित्सा प्रैक्टिस के लिए।",
+   "h1": "टैबिब बांस का पानी — उपचार के लिए कच्चा टहनी",
+   "eyebrow": "उपचार उत्पाद",
+   "intro": "वैधक नुसंतारा परंपरा में जैसे ज्ञात हैं, शुद्ध कच्ची टहनी का पानी — बड़े आँसू तकनीक के साथ ताजा तैयार किया गया।",
+   "menuDesc": "उपचार के लिए कच्चा, ताजा टहनी"
+  },
+  "bambu-berkualitas": {
+   "navLabel": "गुणवत्ता वाला बांस",
+   "seoTitle": "बड़े पैमाने पर गुणवत्ता वाला बांस — पेटुंग, वुलुंग, अपुस, ओरी पूरे इंडोनेशिया से",
+   "metaDescription": "3+ वर्ष की उम्र का चुनिंदा गुणवत्ता वाला बांस: निर्माण पेटुंग, प्रीमियम वुलुंग, बुनाई अपुस, फ्रेम ओरी। एक छड़ से लेकर पूरे इंडोनेशिया तक ट्रक तक भेजें।",
+   "h1": "बड़े पैमाने पर गुणवत्ता वाला बांस",
+   "eyebrow": "बड़े पैमाने के उत्पाद",
+   "intro": "पेटुंग, वुलुंग, अपुस, और ओरी — नियंत्रित लोक वनों से चुने गए, पूरे इंडोनेशिया में एक छड़ से लेकर एक ट्रक तक भेजने के लिए तैयार।",
+   "menuDesc": "पेटुंग, वुलुंग, अपुस, ओरी बड़े पैमाने पर"
+  },
+  "proses-produksi": {
+   "navLabel": "उत्पादन प्रक्रिया",
+   "seoTitle": "बांस के पाने का उत्पादन और आसवन प्रक्रिया — BWN के स्वच्छता मानक",
+   "metaDescription": "BWN बांस के पाने की 4 उत्पादन चरण: सतत फसल, बड़े आँसू तकनीक, आसवन और जीवाणुओं की गुणवत्ता का परीक्षण, और फूड-ग्रेड पैकेजिंग तक।",
+   "h1": "उत्पादन और आसवन प्रक्रिया",
+   "eyebrow": "गुणवत्ता मानक",
+   "intro": "टिकाऊ बांस के झुंड से फूड-ग्रेड पैकेजिंग तक — हम गुणवत्ता वाला बांस का पानी कैसे उत्पन्न करते हैं, इस पूरी पारदर्शिता।",
+   "menuDesc": "फसल, टहनी, आसवन और गुणवत्ता परीक्षण"
+  },
+  "pengiriman-massal": {
+   "navLabel": "थोक भेजें",
+   "seoTitle": "बांस के पाने और बांस की छड़ों का थोक भेजें — पूरे इंडोनेशिया में",
+   "metaDescription": "बड़ी मात्रा में भेजने की सेवा: जेरिगन, ड्रम, और बांस की छड़ों का ट्रक कार्गो। नियमित 1-3 दिन, द्वीपों के बीच कार्गो, विमान एक्सप्रेस।",
+   "h1": "पूरे इंडोनेशिया में थोक भेजें",
+   "eyebrow": "वितरण सेवा",
+   "intro": "बड़ी मात्रा की समस्या नहीं है — जेरिगन, ड्रम, बांस की गांठें, और भरा ट्रक कार्गो, हम सुरक्षित पैकिंग के साथ 38 प्रांतों में ले जाते हैं।",
+   "menuDesc": "सड़क, समुद्र और विमान कार्गो"
+  },
+  "jangkauan-kota": {
+   "navLabel": "शहर की पहुंच",
+   "seoTitle": "शहर वितरण की पहुंच — 38 प्रांत पूरे इंडोनेशिया में | BWN",
+   "metaDescription": "हम बांस के पानी और बांस की छड़ों को इंडोनेशिया के शहरों में भेजते हैं: जकार्ता, बांडूंग, सुरबाया, मेडन, मकास्सर से जयपुरा तक।",
+   "h1": "पूरे इंडोनेशिया में शहरों की पहुंच",
+   "eyebrow": "क्षेत्रीय कवरेज",
+   "intro": "38 प्रांत, दर्जनों शहर, एक विश्वसनीय वितरण नेटवर्क। अपना शहर खोजें और आज ही ऑर्डर दें।",
+   "menuDesc": "38 प्रांत पूरे इंडोनेशिया में"
+  },
+  "harga-paket": {
+   "navLabel": "मूल्य और पैकेज",
+   "seoTitle": "बांबू पानी और बांबू तने के मूल्य और पैकेज — खुदरा से लेकर थोक तक",
+   "metaDescription": "Daftar harga air bambu suling, air bambu tabib, dan bambu batang (Petung, Wulung, Apus, Ori) — retail, grosir, dan kargo korporat.",
+   "h1": "Harga & Paket",
+   "eyebrow": "Transparan & Terjangkau",
+   "intro": "Harga jelas tanpa biaya tersembunyi — dari botol satuan untuk keluarga hingga kargo truk untuk distributor dan proyek.",
+   "menuDesc": "Retail, grosir & korporat"
+  },
+  "cara-pemesanan": {
+   "navLabel": "Cara Pemesanan",
+   "seoTitle": "Cara Pemesanan Air Bambu & Bambu Batang — 4 Langkah Mudah",
+   "metaDescription": "Cara pesan air bambu & bambu batang BWN: pilih produk, konfirmasi via WhatsApp 0813-1651-6524, pembayaran aman, pengiriman se-Indonesia.",
+   "h1": "Cara Pemesanan Mudah & Cepat",
+   "eyebrow": "Panduan Order",
+   "intro": "Empat langkah sederhana dari memilih produk hingga air bambu tiba di depan pintu Anda — di mana pun di Indonesia.",
+   "menuDesc": "4 langkah mudah memesan"
+  },
+  "artikel": {
+   "navLabel": "Semua Artikel",
+   "seoTitle": "Artikel & Pengetahuan Air Bambu — Pusat Informasi Kesehatan BWN",
+   "metaDescription": "Kumpulan artikel kesehatan air bambu: diabetes, batu ginjal, kolesterol, detoks, tulang, kecantikan, hingga sejarah tradisi Nusantara.",
+   "h1": "Pusat Pengetahuan Air Bambu",
+   "eyebrow": "Blog & Artikel",
+   "intro": "Semua yang perlu Anda tahu tentang air bambu — dikurasi dari riset ilmiah dan kearifan tradisional Nusantara.",
+   "menuDesc": "Pusat pengetahuan air bambu"
+  },
+  "testimoni": {
+   "navLabel": "Testimoni",
+   "seoTitle": "Testimoni Pelanggan — Cerita Nyata Manfaat Air Bambu BWN",
+   "metaDescription": "Cerita nyata pelanggan Bambu Water Nusantara: keluarga sehat, terapis yang mempercayai, dan mitra distributor di seluruh Indonesia.",
+   "h1": "Testimoni Pelanggan Kami",
+   "eyebrow": "Cerita Nyata",
+   "intro": "Dari dapur keluarga hingga klinik terapis — inilah cerita mereka yang telah merasakan manfaat air bambu BWN.",
+   "menuDesc": "Cerita nyata pelanggan"
+  },
+  "faq": {
+   "navLabel": "FAQ",
+   "seoTitle": "FAQ — Pertanyaan Umum Seputar Air Bambu & Layanan BWN",
+   "metaDescription": "Jawaban lengkap pertanyaan umum: apa itu air bambu, keamanan harian, perbedaan produk, cara pesan grosir, pengiriman, dan legalitas perusahaan.",
+   "h1": "Pertanyaan yang Sering Diajukan",
+   "eyebrow": "Bantuan & Info",
+   "intro": "Semua pertanyaan tentang air bambu, produk, pemesanan, dan pengiriman — dijawab lengkap dalam satu halaman.",
+   "menuDesc": "Pertanyaan yang sering diajukan"
+  },
+  "kontak": {
+   "navLabel": "Kontak",
+   "seoTitle": "Kontak & Pemesanan — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "Hubungi PT Bambu Water Nusantara: WhatsApp 0813-1651-6524, email, formulir pemesanan. Konsultasi gratis untuk kebutuhan terapi & grosir.",
+   "h1": "Hubungi Kami — Konsultasi Gratis",
+   "eyebrow": "Kontak & Pemesanan",
+   "intro": "Tim kami siap membantu kebutuhan terapi keluarga hingga kontrak distribusi massal. Balasan cepat di jam kerja.",
+   "menuDesc": ""
+  }
+ }
+}

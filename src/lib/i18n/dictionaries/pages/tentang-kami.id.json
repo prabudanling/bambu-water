@@ -1,0 +1,55 @@
+{
+  "pages": {
+    "tentang-kami": {
+      "s": {
+        "story_title": "18+ Tahun Menghadirkan",
+        "story_highlight": "Sari Bambu Nusantara",
+        "story_title_end": "untuk Kesehatan",
+        "p1_a": "PT Bambu Water Nusantara (BWN) adalah perusahaan penyedia air bambu untuk pengobatan dan terapi kesehatan alami —",
+        "p1_strong": "yang pertama dan terbesar di Indonesia sejak 2007",
+        "p1_b": ". Kami memanen sadapan bambu muda dari hutan bambu rakyat terkurasi, memurnikannya dengan distilasi higienis, lalu mengantarnya hingga ke rumah-rumah, klinik terapis, dan mitra distributor di seluruh Nusantara.",
+        "p2_a": "Lebih dari sekadar minuman, air bambu adalah warisan pengobatan leluhur yang kini didukung riset ilmiah modern. Di samping air bambu, kami juga menyediakan",
+        "p2_strong": "bambu berkualitas",
+        "p2_b": "(Petung, Wulung, Apus, Ori) dalam jumlah besar untuk konstruksi, kerajinan, dan industri.",
+        "img_alt": "Hamparan perkebunan bambu berkelanjutan di perbukitan hijau Indonesia yang dijaga PT Bambu Water Nusantara sejak 2007",
+        "img_caption": "Hutan bambu rakyat mitra BWN — sumber sadapan & bambu berkualitas kami",
+        "vision_title": "Visi",
+        "vision_text": "Menjadi rujukan utama air bambu terapi dunia — membawa kesehatan alam Nusantara ke panggung global.",
+        "mission_title": "Misi",
+        "mission_text": "Menyediakan air bambu & bambu berkualitas terbaik, memberdayakan petani rakyat, dan mengedukasi masyarakat.",
+        "legal": [
+          { "label": "Status", "value": "Badan Hukum PT Resmi (Akta Pendirian)" },
+          { "label": "Pengalaman", "value": "Sejak 2007 ({years}+ tahun)" },
+          { "label": "Produksi", "value": "Disuling santri berpengalaman" },
+          { "label": "Pengawasan", "value": "Dewan pakar lintas bidang" }
+        ],
+        "journey_eyebrow": "Perjalanan Kami",
+        "journey_title": "18+ Tahun Membangun Kepercayaan",
+        "journey_highlight": "Sejak 2007",
+        "journey_desc": "Dari panen pertama di lereng Jawa Barat hingga jaringan distribusi nasional.",
+        "milestones": [
+          { "year": "2007", "title": "Awal Mula", "text": "BWN lahir sebagai pionir penyediaan air bambu untuk pengobatan tradisional — yang pertama di Indonesia." },
+          { "year": "2012", "title": "Distilasi Modern", "text": "Fasilitas distilasi pertama kami beroperasi — memadukan kearifan tabib dengan standar higienis modern." },
+          { "year": "2017", "title": "Jangkauan Nasional", "text": "Distribusi massal bambu & air bambu menjangkau seluruh provinsi, dari Sabang sampai Merauke." },
+          { "year": "2025", "title": "Badan Hukum Resmi", "text": "PT Bambu Water Nusantara resmi berbadan hukum dengan akta pendirian tercatat — fondasi ekspansi lebih besar." }
+        ],
+        "values_eyebrow": "Nilai Kami",
+        "values_title": "Prinsip yang Kami",
+        "values_highlight": "Pegang Teguh",
+        "values": [
+          { "title": "Berkelanjutan", "description": "Panen tanpa merusak rumpun — hutan bambu rakyat kami jaga agar tetap lestari untuk generasi berikutnya." },
+          { "title": "Higienis & Standar", "description": "Distilasi bertahap, uji mikrobiologi, dan kemasan food-grade pada setiap batch produksi." },
+          { "title": "Jangkauan Nasional", "description": "Jaringan kargo darat, laut, dan udara menjangkau 38 provinsi Indonesia." },
+          { "title": "Memberdayakan Rakyat", "description": "Berkemitran dengan petani hutan rakyat di Jawa Barat dan Nusantara." }
+        ],
+        "offices_eyebrow": "Alamat Kami",
+        "offices_title": "Kantor Pusat &",
+        "offices_highlight": "Branch Office",
+        "offices_desc": "Kunjungi kantor kami di Tasikmalaya dan Bandung — pintu selalu terbuka untuk mitra dan pelanggan.",
+        "cta_title": "Mau Jadi Mitra Distribusi BWN?",
+        "cta_desc": "Bergabung dengan jaringan distributor resmi kami — dukungan produk, harga khusus, dan materi edukasi lengkap.",
+        "cta_wa": "Halo Bambu Water Nusantara! Saya tertarik menjadi mitra distributor di kota saya."
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ui": {
+    "contact": {
+      "ariaLabel": "Kontak dan pemesanan",
+      "eyebrow": "Hubungi Kami",
+      "title": "Pesan Sekarang,",
+      "highlight": "Kirim ke Mana Saja",
+      "description": "Ceritakan kebutuhan Anda — tim kami akan membalas dengan penawaran terbaik dalam 1×24 jam kerja.",
+      "officeTitle": "Kantor Pemasaran",
+      "phoneLabel": "Telepon / WhatsApp",
+      "emailLabel": "Email",
+      "addressLabel": "Alamat",
+      "hoursLabel": "Jam Operasional",
+      "branchesNote": "Branch 2: Mangkubumi, Tasikmalaya • Branch 3: Cihaurgeulis, Bandung",
+      "guarantees": [
+        { "title": "Balasan < 24 Jam", "text": "Respons cepat tim kami" },
+        { "title": "Dokumen Lengkap", "text": "Untuk tender & pengadaan" },
+        { "title": "Kemasan Aman", "text": "Standar ekspedisi nasional" },
+        { "title": "Garansi Mutu", "text": "Retur bila tidak sesuai" }
+      ],
+      "formTitle": "Formulir Pemesanan & Konsultasi",
+      "formSubtitle": "Isi kebutuhan Anda — retail maupun jumlah besar (grosir/kargo).",
+      "orderLegend": "Saya ingin memesan",
+      "orderTypeLabels": ["Air Bambu (Retail)", "Bambu Batang", "Grosir / Reseller", "Korporat / Proyek"],
+      "nameLabel": "Nama Lengkap",
+      "namePlaceholder": "cth. Ahmad Setiawan",
+      "phonePlaceholder": "cth. 0812-3456-7890",
+      "emailPlaceholder": "nama@email.com",
+      "cityLabel": "Kota Tujuan Pengiriman",
+      "cityPlaceholder": "Pilih kota",
+      "cityOther": "Kota lainnya",
+      "messageLabel": "Detail Kebutuhan",
+      "messagePlaceholder": "cth. Butuh air bambu suling 50 galon/bulan untuk kafe di Bandung, kirim tiap Senin.",
+      "submitting": "Mengirim…",
+      "submitCta": "Kirim Permintaan Penawaran",
+      "submitNote": "Dengan mengirim formulir, Anda setuju dihubungi oleh tim kami.",
+      "sentTitle": "Pesan Anda Terkirim!",
+      "sentThanks": "Terima kasih,",
+      "sentBody": "Tim Bambu Water Nusantara akan menghubungi Anda melalui telepon/WhatsApp dalam 1×24 jam kerja.",
+      "sendAnother": "Kirim Pesan Lain",
+      "toastIncompleteTitle": "Data belum lengkap",
+      "toastIncompleteDesc": "Mohon isi nama, nomor telepon, dan pesan Anda.",
+      "errorFallback": "Gagal mengirim",
+      "toastSuccessTitle": "Pesan terkirim! 🌿",
+      "toastSuccessDesc": "Terima kasih! Tim kami akan menghubungi Anda dalam 1×24 jam kerja.",
+      "toastFailTitle": "Gagal mengirim pesan",
+      "toastFailDesc": "Silakan coba lagi atau hubungi WhatsApp kami."
+    },
+    "quoteForm": {
+      "ariaLabel": "Formulir pemesanan air bambu",
+      "title": "Formulir Pemesanan & Konsultasi",
+      "subtitle": "Gratis, tanpa komitmen — balasan dalam 1×24 jam kerja.",
+      "nameLabel": "Nama Lengkap",
+      "namePlaceholder": "cth. Budi Santoso",
+      "phoneLabel": "No. WhatsApp / Telepon",
+      "phonePlaceholder": "cth. 0812 3456 7890",
+      "emailLabel": "Email (opsional)",
+      "emailPlaceholder": "nama@email.com",
+      "cityLabel": "Kota Pengiriman",
+      "cityPlaceholder": "cth. Surabaya",
+      "needTypeLabel": "Jenis Kebutuhan",
+      "orderTypeLabels": ["Air Bambu (Retail)", "Bambu Batang", "Grosir / Reseller", "Korporat / Proyek"],
+      "messageLabel": "Pesan / Kebutuhan",
+      "messagePlaceholder": "cth. Saya ingin pesan galon air bambu suling 19L sebanyak 10 galon ke Surabaya...",
+      "submitting": "Mengirim...",
+      "submitCta": "Kirim Permintaan",
+      "privacyNote": "Data Anda aman & hanya digunakan untuk memproses pesanan.",
+      "sentTitle": "Terima Kasih",
+      "sentBody": "Permintaan Anda sudah kami terima. Tim Bambu Water Nusantara akan menghubungi Anda melalui WhatsApp atau telepon dalam 1×24 jam kerja.",
+      "waConfirmCta": "Konfirmasi via WhatsApp",
+      "waMessage": "Halo, saya {name} baru saja mengirim permintaan ({type}). Mohon diproses ya!",
+      "toastIncompleteTitle": "Data belum lengkap",
+      "toastIncompleteDesc": "Mohon isi nama, nomor telepon/WhatsApp, dan pesan Anda.",
+      "errorFallback": "Gagal mengirim",
+      "toastSuccessTitle": "Permintaan terkirim! 🌿",
+      "toastSuccessDesc": "Terima kasih! Tim kami akan menghubungi Anda dalam 1×24 jam kerja.",
+      "toastFailTitle": "Gagal mengirim",
+      "toastFailDesc": "Silakan coba lagi atau hubungi via WhatsApp."
+    },
+    "footer": {
+      "ariaLabel": "Footer situs",
+      "ctaTitle": "Mulai Hidup Sehat dengan",
+      "ctaHighlight": "Sari Bambu",
+      "ctaDesc": "Pesan air bambu untuk keluarga Anda, atau jadikan mitra distribusi kami di kota Anda.",
+      "ctaConsult": "Konsultasi gratis via WhatsApp",
+      "waCta": "WhatsApp",
+      "ctaForm": "Formulir Pemesanan",
+      "waMessage": "Halo Bambu Water Nusantara! Saya ingin konsultasi gratis tentang air bambu / bambu batang.",
+      "columns": {
+        "explore": "Jelajahi",
+        "health": "Kesehatan",
+        "products": "Produk & Layanan",
+        "articles": "Artikel Kesehatan"
+      },
+      "navAria": "Navigasi footer",
+      "articleLinks": [
+        "Semua Artikel",
+        "Air Bambu & Gula Darah",
+        "Air Bambu & Batu Ginjal",
+        "Air Bambu & Kolesterol",
+        "Detoksifikasi Alami",
+        "Tulang & Sendi",
+        "Kecantikan & Kulit"
+      ],
+      "labelOverrides": {
+        "sejarah-air-bambu": "Sejarah Air Bambu"
+      },
+      "socialLabels": [
+        "Instagram Bambu Water Nusantara",
+        "Facebook Bambu Water Nusantara",
+        "LinkedIn Bambu Water Nusantara"
+      ],
+      "phoneNote": "telepon / WhatsApp",
+      "fullAddressNote": "alamat lengkap di halaman Kontak"
+    },
+    "float": {
+      "waMessage": "Halo Bambu Water Nusantara! Saya ingin bertanya tentang air bambu / bambu batang."
+    }
+  }
+}

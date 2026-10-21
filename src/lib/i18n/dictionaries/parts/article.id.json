@@ -1,0 +1,20 @@
+{
+  "ui": {
+    "article": {
+      "notFound": "Artikel tidak ditemukan.",
+      "poinUtama": "Poin Utama",
+      "kesimpulan": "Kesimpulan",
+      "faqTitle": "Pertanyaan Umum",
+      "faqHighlight": "Terkait",
+      "relatedTitle": "Baca Juga",
+      "relatedHighlight": "Artikel Lainnya",
+      "referensi": "Referensi",
+      "disclaimer": "Disclaimer: Konten ini bersifat edukatif dan bukan pengganti nasihat medis profesional.",
+      "ctaTitle": "Tertarik Mencoba Air Bambu?",
+      "ctaDesc": "Mulai dari botol kecil untuk keluarga, atau tanya paket grosir untuk praktik terapi Anda.",
+      "ctaWa": "Tanya via WhatsApp",
+      "ctaPricing": "Lihat Harga & Paket",
+      "waMessage": "Halo! Saya baca artikel \"{title}\" dan ingin mencoba produk air bambu."
+    }
+  }
+}

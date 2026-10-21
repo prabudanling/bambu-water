@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "pengiriman-massal": {
+      "s": {
+        "tiersEyebrow": "Layanan Kargo",
+        "tiersTitle": "Tiga Jalur Pengiriman",
+        "tiersHighlight": "Sesuai Kebutuhan Anda",
+        "tiersDescription": "Dari kurir reguler hingga kargo udara — semua distandarkan dengan packing aman.",
+        "capEyebrow": "Kapabilitas",
+        "capTitle": "Volume Besar?",
+        "capHighlight": "Siap.",
+        "capabilities": [
+          { "title": "Kapasitas Massal", "text": "Botol harian, jerigen/drum palet, hingga truk penuh bambu batang 200–400 batang per kirim." },
+          { "title": "Packing Aman", "text": "Karton double-wall, segel kayu, strapping, dan cold-pack untuk sadapan segar jarak jauh." },
+          { "title": "Pelacakan Kiriman", "text": "Nomor resi & update status via WhatsApp sampai barang diterima." },
+          { "title": "Jadwal Rutin", "text": "Kontrak pengiriman mingguan/bulanan untuk distributor, klinik, dan proyek." }
+        ],
+        "flowEyebrow": "Alur Kirim",
+        "flowTitle": "Bagaimana Pesanan Besar",
+        "flowHighlight": "Diproses",
+        "flowSteps": [
+          { "title": "Konsultasi & Penawaran", "text": "Sampaikan jenis, volume, dan kota tujuan — penawaran resmi kami kirim maks. 1×24 jam." },
+          { "title": "Kontrak & DP", "text": "Sepakati harga, jadwal, dan syarat. DP 50% memulai produksi/pengadaan." },
+          { "title": "Produksi & Packing", "text": "Produksi sesuai jadwal + packing standar kargo (segel kayu untuk muatan penuh)." },
+          { "title": "Kirim & Lacak", "text": "Barang berangkat dengan resi terlacak — pelunasan saat serah terima." }
+        ],
+        "ctaTitle": "Minta Penawaran Kargo Sekarang",
+        "ctaDescription": "Kirim detail kebutuhan Anda — penawaran resmi dengan estimasi ongkos kirim maksimal 1×24 jam kerja.",
+        "ctaWaMessage": "Halo! Saya ingin minta penawaran pengiriman massal. Berikut detail kebutuhan saya:"
+      }
+    }
+  }
+}

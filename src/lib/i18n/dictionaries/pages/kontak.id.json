@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "kontak": {
+      "s": {
+        "cards": [
+          { "title": "WhatsApp (Tercepat)", "note": "Balasan rata-rata < 15 menit di jam kerja" },
+          { "title": "Telepon" },
+          { "title": "Email Umum", "note": "Pertanyaan umum & kerja sama" },
+          { "title": "Email Sales", "note": "Penawaran grosir, kargo & kontrak" }
+        ],
+        "identityTitle": "Identitas Perusahaan",
+        "legalLabel": "Badan Hukum",
+        "legalValue": "PT resmi, akta tercatat",
+        "foundedLabel": "Berdiri",
+        "foundedValue": "Pionir sejak 2007 — terbesar & pertama di Indonesia",
+        "siteLabel": "Situs Resmi",
+        "addressTitle": "Alamat & Area Layanan",
+        "areaLabel": "Area layanan:",
+        "areaText": "seluruh 38 provinsi Indonesia — kirim reguler, kargo laut, dan ekspres udara.",
+        "ctaTitle": "Kami Balas Secepat Mungkin",
+        "ctaDescription": "WhatsApp {wa} adalah jalur tercepat — konsultasi gratis untuk semua kebutuhan."
+      }
+    }
+  }
+}

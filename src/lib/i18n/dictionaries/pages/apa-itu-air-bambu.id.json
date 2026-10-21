@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "apa-itu-air-bambu": {
+      "s": {
+        "p1_strong1": "Air bambu",
+        "p1_a": "— sering disebut",
+        "p1_em1": "air tuak bambu",
+        "p1_b": "atau",
+        "p1_em2": "air sadapan bambu",
+        "p1_c": "— adalah cairan bening semirair yang terbentuk secara alami di dalam ruas bambu muda. Selama berabad-abad, cairan ini menjadi rahasia penyembuhan tabib Nusantara, dan kini dikaji ilmu modern sebagai minuman dengan",
+        "p1_strong2": "kandungan silika organik tertinggi di alam",
+        "p1_d": "(hingga ~70% pada ekstrak daun bambu) serta antioksidan flavonoid dan polifenol.",
+        "p2": "Di Indonesia — negara dengan lahan bambu terluas di dunia (2,1 juta hektare, 157 spesies) — air bambu tumbuh melimpah namun belum banyak dimanfaatkan. Bambu Water Nusantara hadir sejak 2007 untuk memanen kekayaan ini secara berkelanjutan, memurnikannya dengan standar modern, dan mengantarnya ke seluruh Indonesia.",
+        "origin_eyebrow": "Asal Usul",
+        "origin_title": "Bagaimana Air Bambu",
+        "origin_highlight": "Terbentuk?",
+        "origin_steps": [
+          { "title": "Terbentuk di Dalam Ruas", "text": "Air hujan dan kelembapan diserap akar rizoma bambu, naik melalui batang, lalu berkondensasi menjadi sadapan murni di ruas bambu muda." },
+          { "title": "Momentum Panen", "text": "Kandungan mineral paling optimal saat bambu berumur 1–3 tahun — dipanen subuh saat sadapan segar." },
+          { "title": "Teknik Mata Tunas", "text": "Tabib tradisional membuka \"mata tunas\" di ruas untuk mengalirkan sadapan tanpa merusak pohon — warisan Nusantara." },
+          { "title": "Distilasi Higienis", "text": "Untuk konsumsi harian, sadapan disuling bertahap agar mineral terjaga dan mikrobiologi terjamin." }
+        ],
+        "types_eyebrow": "Jenis-Jenis",
+        "types_title": "Tiga Wujud",
+        "types_highlight": "Air Bambu",
+        "types_desc": "Dari tradisi tabib hingga laboratorium modern — tiga bentuk pemanfaatan air bambu.",
+        "types": [
+          { "name": "Air Sadapan Mentah (Tabib)", "desc": "Langsung dari ruas — dipakai tabib untuk terapi, harus segar & diolah tepat.", "badge": "Tradisional" },
+          { "name": "Air Bambu Suling", "desc": "Dimurnikan bertahap — aman harian, tahan simpan, mineral & silika terjaga.", "badge": "Populer" },
+          { "name": "Ekstrak Daun Bambu", "desc": "Sumber riset ilmiah modern — silika hingga 70% dan antioksidan tinggi.", "badge": "Riset" }
+        ],
+        "diffs_eyebrow": "Perbandingan",
+        "diffs_title": "Mengapa Memilih",
+        "diffs_highlight": "Air Bambu?",
+        "diffs": [
+          { "label": "vs Air Mineral", "text": "Air bambu unggul kandungan silika organik & flavonoid unik yang tidak dimiliki air mineral biasa." },
+          { "label": "vs Air Kelapa", "text": "Keduanya minuman alami; air bambu lebih rendah gula alami dan kaya silika untuk tulang & kulit." },
+          { "label": "vs Teh Daun", "text": "Tanpa kafein — cocok dikonsumsi kapan saja, bahkan untuk anak dan ibu hamil (dengan anjuran)." }
+        ],
+        "fact_strong": "Tahukah Anda?",
+        "fact_a": "TIME (2015) meliput munculnya",
+        "fact_em": "bamboo water",
+        "fact_b": "sebagai tren minuman kesehatan dunia — dan Indonesia adalah rumah terbesar bagi bahan bakunya.",
+        "cta_title": "Ingin Mencoba Air Bambu Asli Nusantara?",
+        "cta_desc": "Konsultasi gratis dengan tim kami — pilih air bambu suling untuk harian, atau air bambu tabib untuk kebutuhan terapi.",
+        "cta_wa": "Halo! Saya ingin tahu lebih banyak tentang air bambu dan produknya."
+      }
+    }
+  }
+}

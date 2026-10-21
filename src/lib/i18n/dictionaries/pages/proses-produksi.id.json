@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "proses-produksi": {
+      "s": {
+        "introBefore": "Kepercayaan 18+ tahun kami bangun dari satu hal: ",
+        "introStrong": "transparansi mutu",
+        "introAfter": ". Dari rumpun bambu di hutan rakyat hingga segel kemasan dibuka di rumah Anda, setiap tahap tercatat dan terstandar — memadukan kearifan panen tradisional dengan teknologi distilasi modern.",
+        "timelineEyebrow": "Tahapan",
+        "timelineTitle": "Dari Hutan ke",
+        "timelineHighlight": "Gelas Anda",
+        "qcEyebrow": "Kontrol Mutu",
+        "qcTitle": "4 Lapis Jaminan",
+        "qcHighlight": "Kualitas",
+        "qcSteps": [
+          { "title": "Uji Mikrobiologi", "text": "Setiap batch diperiksa parameter TPC & patogen sebelum lolos kemasan." },
+          { "title": "Fasilitas Higienis", "text": "Ruang produksi terkontrol dengan sanitasi berkala dan aliran satu arah." },
+          { "title": "Kemasan Food-Grade", "text": "Botol, jerigen, dan drum bersertifikat food-grade, disegel tamper-proof." },
+          { "title": "Jejak Batch", "text": "Setiap kemasan tercatat asal panen & tanggal produksi — transparan penuh." }
+        ],
+        "commitmentStrong": "Komitmen berkelanjutan:",
+        "commitment": " kami hanya memanen bambu muda tanpa menebang rumpun — kelestarian hutan bambu rakyat adalah syarat keberlangsungan bisnis kami sejak 2007.",
+        "teamEyebrow": "Tim Produksi",
+        "teamTitle": "Disuling Santri Berpengalaman,",
+        "teamHighlight": "Diawasi Dewan Pakar Lintas Bidang",
+        "santriTitle": "Santri Berpengalaman",
+        "santriText": "Proses penyulingan kami dipercayakan kepada santri-santri berpengalaman — pekerja yang menjunjung kehati-hatian, kejujuran, dan ketelitian. Nilai-nilai inilah yang menjadikan setiap tetes air bambu kami bersih, halal, dan penuh keberkahan.",
+        "pakarTitle": "Dewan Pakar Lintas Bidang",
+        "pakarText": "Produksi kami dibackup dewan pakar lintas bidang — dari ahli teknologi pangan, praktisi pengobatan tradisional, hingga pakar mutu — memastikan setiap batch memenuhi standar keamanan dan khasiatnya terjaga.",
+        "ctaTitle": "Ingin Melihat Langsung Prosesnya?",
+        "ctaDescription": "Jadwalkan kunjungan fasilitas kami — terbuka untuk mitra, distributor, dan komunitas edukasi.",
+        "ctaWaMessage": "Halo! Saya ingin tahu lebih detail tentang proses produksi & uji mutu air bambu BWN."
+      }
+    }
+  }
+}

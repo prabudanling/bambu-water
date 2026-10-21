@@ -1,0 +1,66 @@
+{
+  "pages": {
+    "cara-pemesanan": {
+      "s": {
+        "stepsEyebrow": "4 Langkah Mudah",
+        "stepsTitle": "Dari Order ke",
+        "stepsHighlight": "Depan Pintu Anda",
+        "stepLabel": "Langkah",
+        "steps": [
+          {
+            "title": "1. Pilih Produk & Volume",
+            "text": "Tentukan jenis (air bambu suling/tabib atau bambu batang), kemasan, dan jumlah. Ragu? Tim kami bantu rekomendasikan."
+          },
+          {
+            "title": "2. Konfirmasi via WhatsApp",
+            "text": "Chat WhatsApp {wa} atau isi formulir di bawah. Sertakan kota kirim — kami balas dengan harga final & estimasi tiba."
+          },
+          {
+            "title": "3. Pembayaran Aman",
+            "text": "Transfer bank, QRIS, atau COD area tertentu. Untuk kontrak besar: DP 50%, pelunasan saat barang tiba."
+          },
+          {
+            "title": "4. Kirim & Terima",
+            "text": "Pesanan dikemas food-grade/kargo aman, berangkat dengan resi terlacak — sampai di 38 provinsi Indonesia."
+          }
+        ],
+        "paymentTitle": "Metode Pembayaran",
+        "paymentMethods": [
+          "Transfer Bank (BCA, BRI, Mandiri, BNI)",
+          "QRIS (semua e-wallet)",
+          "COD area Jabodetabek & Bandung",
+          "Invoice korporat / tempoh"
+        ],
+        "shippingTitle": "Estimasi Pengiriman",
+        "shipping": [
+          { "area": "Jabodetabek & Jawa Barat", "eta": "1–3 hari" },
+          { "area": "Pulau Jawa lainnya", "eta": "2–4 hari" },
+          { "area": "Sumatera/Kalimantan/Sulawesi", "eta": "3–7 hari" },
+          { "area": "Maluku, Papua & NTT", "eta": "2–5 hari (udara)" }
+        ],
+        "chatTitle": "Lebih Suka Chat Langsung?",
+        "chatDesc": "Balasan cepat di jam kerja {hours}.",
+        "chatWaLabel": "WhatsApp",
+        "faqEyebrow": "Info Cepat",
+        "faqTitle": "Pertanyaan Seputar",
+        "faqHighlight": "Pemesanan",
+        "quickFaqs": [
+          {
+            "q": "Berapa lama pesanan diproses?",
+            "a": "Pesanan reguler diproses hari yang sama (sebelum 15.00 WIB). Air Bambu Tabib dipanen subuh berikutnya. Kargo besar mengikuti jadwal armada 1–3 hari persiapan."
+          },
+          {
+            "q": "Apakah ada minimum order grosir?",
+            "a": "Harga grosir berlaku mulai 10 unit (jerigen/karton) atau 10 batang bambu. Di bawah itu tetap kami layani dengan harga retail."
+          },
+          {
+            "q": "Bisakah jadwal kirim rutin bulanan?",
+            "a": "Bisa. Kontrak pasokan rutin memberi harga terbaik + prioritas armada — populer untuk klinik terapi, distributor, dan proyek konstruksi."
+          }
+        ],
+        "faqMore": "Masih ada pertanyaan? Lihat",
+        "faqMoreLink": "halaman FAQ lengkap →"
+      }
+    }
+  }
+}

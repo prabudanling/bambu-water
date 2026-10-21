@@ -1,0 +1,571 @@
+{
+ "ui": {
+  "common": {
+   "home": "الرئيسية",
+   "learnMore": "تعلم المزيد",
+   "seeAll": "عرض الكل",
+   "readMore": "اقرأ المزيد",
+   "readArticle": "اقرأ المقال",
+   "orderNow": "الطلب الآن",
+   "chatWa": "محادثة واتساب",
+   "fillForm": "املأ النموذج",
+   "backHome": "العودة إلى الرئيسية",
+   "updated": "تم التحديث",
+   "minutes": "دقيقة قراءة",
+   "minRead": "دقيقة",
+   "officialSite": "الموقع الرسمي",
+   "notMedicalAdvice": "علاج طبيعي مساعد — ليس بديلاً عن الاستشارة الطبية",
+   "legalPt": "كيان قانوني PT رسمي",
+   "languageLabel": "اللغة",
+   "changeLanguage": "تغيير اللغة",
+   "copyright": "جميع الحقوق محفوظة."
+  },
+  "nav": {
+   "openMenu": "فتح قائمة التنقل",
+   "closeMenu": "إغلاق القائمة",
+   "orderCta": "الطلب الآن",
+   "waCta": "واتساب",
+   "groups": {
+    "Beranda": "الرئيسية",
+    "Kesehatan": "الصحة",
+    "Artikel": "المقالات",
+    "Produk": "المنتجات",
+    "Layanan": "الخدمات",
+    "Tentang": "حولنا"
+   }
+  },
+  "float": {
+   "title": "تحتاج إلى مساعدة سريعة؟",
+   "desc": "تواصل معنا الآن — استشارة مجانية، إجابات سريعة أثناء ساعات العمل.",
+   "cta": "ابدأ المحادثة",
+   "open": "فتح واجهة محادثة واتساب",
+   "close": "إغلاق واجهة محادثة واتساب",
+   "waMessage": "مرحباً بكم في Bambu Water Nusantara! أود أن أسأل حول الماء الخيزران / الخيزران القصب."
+  },
+  "pageHero": {
+   "breadcrumbHome": "الرئيسية",
+   "breadcrumbLabel": "مسار التنقل",
+   "updatedPrefix": "تم التحديث"
+  },
+  "languageSwitcher": {
+   "label": "اللغة",
+   "current": "اللغة النشطة",
+   "choose": "اختر اللغة — 30 لغة متاحة",
+   "search": "ابحث عن لغة...",
+   "noResults": "لم يتم العثور على اللغة",
+   "count": "30 لغة"
+  },
+  "about": {
+   "ariaLabel": "حول الشركة",
+   "eyebrow": "معلومات عنا — منذ 2007",
+   "title": "Pionir Air Bambu",
+   "highlight": "Terbesar & Pertama di Indonesia",
+   "description": "Sejak 2007 kami membawa tradisi penyembuhan air bambu Nusantara ke era modern — dengan standar produksi higienis dan jaringan distribusi nasional ke seluruh Indonesia.",
+   "imgAlt": "Hamparan perkebunan bambu berkelanjutan di perbukitan hijau Indonesia yang dijaga PT Bambu Water Nusantara",
+   "landChip": "Lahan bambu 2,1 juta ha di Indonesia",
+   "expLabel": "Pengalaman",
+   "expSince": "Sejak 2007",
+   "expHighlight": "Terbesar & Pertama",
+   "expYears": "di Indonesia — {years}+ tahun melayani",
+   "narrLead": "lahir dari keyakinan bahwa Nusantara menyimpan harta penyembuhan paling sederhana:",
+   "narrEm": "air yang mengalir di dalam bambu",
+   "narrAfter": "Selama berabad-abad, tabib tradisional memanen sadapan bambu muda untuk menurunkan demam, meredakan batuk, dan memulihkan tenaga. Kini kami menghadirkan kearifan itu dengan standar produksi modern — disuling oleh santri berpengalaman dan diawasi dewan pakar lintas bidang, dari panen berkelanjutan hingga pengiriman nasional.",
+   "visionTitle": "Visi",
+   "visionText": "Menjadi penyedia air bambu terapi terdepan di Asia Tenggara sekaligus pilar ekonomi bambu Indonesia.",
+   "missionTitle": "Misi",
+   "missionText": "Menyediakan air bambu murni berkualitas farmasi, memasok bambu konstruksi nasional, dan mengangkat kesejahteraan petani bambu."
+  },
+  "science": {
+   "ariaLabel": "Kandungan nutrisi air bambu",
+   "eyebrow": "Kandungan Alami",
+   "title": "Ilmu di Balik",
+   "highlight": "Setiap Tetes",
+   "description": "Silika organik bambu termasuk yang tertinggi di alam — dipadukan flavonoid, klorofil, asam amino, dan elektrolit esensial.",
+   "imgAlt": "Segelas air bambu bening di atas batu alam dengan daun bambu segar — suasana tenang dan menyembuhkan",
+   "electrolyteLabel": "Kaya Elektrolit Alami",
+   "microTestLabel": "Diuji Mikrobiologi",
+   "cardTitle": "Profil Nutrisi Air Bambu",
+   "cardSub": "Indeks kekayaan relatif per komponen alami"
+  },
+  "reasons": {
+   "ariaLabel": "Rahasia awet muda kaisar China dan 10 alasan minum air bambu",
+   "badge": "Rahasia Kuno yang Nyaris Tergores Sejarah",
+   "title": "Rahasia Awet Muda",
+   "highlight": "Kaisar China",
+   "p1Lead": "Sejak ribuan tahun lalu, tabib istana Dinasti China menyimpan satu rahasia paling dijaga:",
+   "p1Strong": "sari bambu",
+   "p1Mid": "— elixir yang dipercaya menjaga awet muda kaisar dan para bangsawan. Terdokumentasi dalam pengobatan tradisional Tiongkok sebagai",
+   "p1Em": "\"Tian Zhu Li\"",
+   "p1Tail": "(天竹瀝), sari bambu disuling dari ruas bambu muda untuk meredakan panas, menyegarkan tubuh, dan merawat vitalitas sang penguasa.",
+   "p2Lead": "Namun seiring waktu, rahasia besar itu nyaris",
+   "p2Strong": "tergores sejarah",
+   "p2Tail": "— hanya diketahui segelintir pembantu istana dan tabib warisan. Kini rahasia kuno itu kembali: riset modern membuktikan kandungan silika organik tertinggi di alam dan antioksidan luar biasa dalam air bambu.",
+   "luckLine": "Jadilah orang yang beruntung — Anda kini tahu rahasia besar ini. 🌿",
+   "subheading": "10 Alasan Kenapa Anda",
+   "subheadingHighlight": "Harus Minum Air Bambu",
+   "subDesc": "Dari rahasia kuno hingga pembuktian ilmiah modern.",
+   "cta": "Mulai Ritual Sehat Anda",
+   "ctaMessage": "Halo! Saya ingin mencoba air bambu — rahasia awet muda kaisar China 🌿"
+  },
+  "testimonials": {
+   "ariaLabel": "Testimoni pelanggan",
+   "eyebrow": "قصصهم",
+   "title": "الثقة",
+   "highlight": "تدفق",
+   "description": "من مطابخ العائلات إلى المشاريع الوطنية للبناء — هذه هي تجارب عملاء bambu water nusantara.",
+   "ratingAria": "تقييم {rating} من 5",
+   "prevAria": "الشهادة السابقة",
+   "nextAria": "الشهادة التالية",
+   "dotAria": "إظهار شهادة {n}"
+  },
+  "leadership": {
+   "ariaLabel": "هيكل الإدارة الشركة",
+   "eyebrow": "الحوكمة",
+   "title": "فريق القيادة",
+   "highlight": "خبير",
+   "description": "مجلس الأ founders، مجلس الإدارة، مجلس الإدارة التنفيذي، إلى مديري العمليات — مزيج من الخبرة التجارية، والالتزام بالصحة العامة، ومعايير الجودة الحديثة.",
+   "pendiriTitle": "مجلس الأ founders",
+   "komisarisTitle": "مجلس الإدارة",
+   "direkturTitle": "مجلس الإدارة التنفيذي",
+   "managersTitle": "قسم مديري العمليات",
+   "sharesLabel": "أسهم"
+  },
+  "benefits": {
+   "ariaLabel": "فوائد ماء البامبو للصحة",
+   "eyebrow": "الفوائد والعلاج",
+   "title": "إرث الشفاء",
+   "highlight": "ماء البامبو",
+   "description": "يعتقد أطباء الأرخبيل لقرون، مدعوم الآن بدراسات علمية دولية. ماء البامبو هو رفيق طبيعي نحو جسم متوازن.",
+   "research": "مدعوم بأبحاث علمية",
+   "researchSub": "نحن ننقل المصادر الموثوقة بوضوح.",
+   "disclaimer": "* ماء bambu water nusantara هو مشروب صحي طبيعي ومرافق للعلاج — وليس بديلاً عن الأدوية الموصوفة من قبل الطبيب. استشر طبيبًا متخصصًا بشأن حالتك الصحية.",
+   "sources": [
+    {
+     "title": "مجلة أبحاث النباتات الطبية (2015)",
+     "detail": "تم توثيق مستخلص البامبو بأنه يوفر حماية من الإجهاد التأكسدي، والالتهاب، والسمية الدهنية، والسرطان، والأمراض القلبية الوعائية."
+    },
+    {
+     "title": "TIME — \"ماء البامبو الآن أمر واقعي\"",
+     "detail": "الإعلام الدولي يغطي ماء البامبو كظاهرة عالمية للمشروبات الصحية بآثار مضادة للأكسدة والميكروبات."
+    }
+   ]
+  },
+  "faq": {
+   "ariaLabel": "الأسئلة الشائعة",
+   "eyebrow": "الأسئلة الشائعة",
+   "title": "أسئلة",
+   "highlight": "شائعة",
+   "description": "كل ما تحتاج إلى معرفته حول ماء البامبو، ومنتجات البامبو، وكيفية الطلب.",
+   "moreAsk": "لا تزال لديك أسئلة؟",
+   "moreCta": "اسأل مباشرة عبر WhatsApp"
+  },
+  "contact": {
+   "ariaLabel": "الاتصال والطلب",
+   "eyebrow": "اتصل بنا",
+   "title": "اطلب الآن،",
+   "highlight": "أرسل إلى أي مكان",
+   "description": "اخبرنا باحتياجاتك — فريقنا سيرد بأفضل عرض خلال 1×24 ساعة عمل.",
+   "officeTitle": "مكتب التسويق",
+   "phoneLabel": "الهاتف / WhatsApp",
+   "emailLabel": "البريد الإلكتروني",
+   "addressLabel": "العنوان",
+   "hoursLabel": "ساعات العمل",
+   "branchesNote": "الفرع 2: Mangkubumi, Tasikmalaya • الفرع 3: Cihaurgeulis, Bandung",
+   "guarantees": [
+    {
+     "title": "رد خلال أقل من 24 ساعة",
+     "text": "استجابة سريعة من فريقنا"
+    },
+    {
+     "title": "وثائق كاملة",
+     "text": "للعطاءات والتوريدات"
+    },
+    {
+     "title": "تغليف آمن",
+     "text": "معايير الشحن الوطنية"
+    },
+    {
+     "title": "ضمان الجودة",
+     "text": "إرجاع في حال عدم المطابقة"
+    }
+   ],
+   "formTitle": "نموذج الطلب والاستشارة",
+   "formSubtitle": "املأ احتياجاتك — للتجزئة أو الكميات الكبيرة (الجملة/الشحن).",
+   "orderLegend": "أرغب في الطلب",
+   "orderTypeLabels": [
+    "ماء البامبو (تجزئة)",
+    "أعواد البامبو",
+    "جملة / موزع",
+    "شركات / مشاريع"
+   ],
+   "nameLabel": "الاسم الكامل",
+   "namePlaceholder": "مثال. أحمد السويان",
+   "phonePlaceholder": "مثال. 0812-3456-7890",
+   "emailPlaceholder": "name@email.com",
+   "cityLabel": "مكان التسليم",
+   "cityPlaceholder": "اختر المدينة",
+   "cityOther": "مدينة أخرى",
+   "messageLabel": "تفاصيل الطلب",
+   "messagePlaceholder": "مثال. أحتاج 50 جallon/شهر من ماء البامبو المقطوع لقهوة في باندونغ، أرسل كل يوم اثنين.",
+   "submitting": "جاري الإرسال...",
+   "submitCta": "إرسال طلب العرض",
+   "submitNote": "بتقديمك للنموذج، توافق على التواصل معك من قبل فريقنا.",
+   "sentTitle": "تم إرسال رسالتك!",
+   "sentThanks": "شكراً لك،",
+   "sentBody": "فريق Bambu Water Nusantara سيتواصل معك عبر الهاتف/WhatsApp خلال 1×24 ساعة عمل.",
+   "sendAnother": "إرسال رسالة أخرى",
+   "toastIncompleteTitle": "البيانات غير مكتملة",
+   "toastIncompleteDesc": "يرجى ملء اسمك، رقم هاتفك، ورسالتك.",
+   "errorFallback": "فشل الإرسال",
+   "toastSuccessTitle": "تم إرسال الرسالة! 🌿",
+   "toastSuccessDesc": "شكراً! فريقنا سيتواصل معك خلال 1×24 ساعة عمل.",
+   "toastFailTitle": "فشل إرسال الرسالة",
+   "toastFailDesc": "يرجى المحاولة مرة أخرى أو التواصل معنا عبر WhatsApp."
+  },
+  "quoteForm": {
+   "ariaLabel": "نموذج طلب ماء البامبو",
+   "title": "نموذج الطلب والاستشارة",
+   "subtitle": "مجاني، بدون التزام — رد خلال 1×24 ساعة عمل.",
+   "nameLabel": "الاسم الكامل",
+   "namePlaceholder": "مثلاً: بودي سانتوسو",
+   "phoneLabel": "رقم واتساب / الهاتف",
+   "phonePlaceholder": "مثلاً: 0812 3456 7890",
+   "emailLabel": "البريد الإلكتروني (اختياري)",
+   "emailPlaceholder": "name@email.com",
+   "cityLabel": "مدينة الشحن",
+   "cityPlaceholder": "مثلاً: سورابايا",
+   "needTypeLabel": "نوع الحاجة",
+   "orderTypeLabels": [
+    "ماء الخيزون (تجزئة)",
+    "أعواد الخيزون",
+    "الجملة / الموزع",
+    "شركات / مشاريع"
+   ],
+   "messageLabel": "رسالة / الحاجة",
+   "messagePlaceholder": "مثلاً: أرغب في طلب 10 جالونات من ماء الخيزون المقطرة سعة 19L إلى سورابايا...",
+   "submitting": "جاري الإرسال...",
+   "submitCta": "إرسال الطلب",
+   "privacyNote": "بياناتك آمنة وتستخدم فقط لمعالجة طلبك.",
+   "sentTitle": "شكراً",
+   "sentBody": "لقد استلمنا طلبك. فريق Bambu Water Nusantara سيتواصل معك عبر واتساب أو الهاتف خلال 24 ساعة عمل واحدة.",
+   "waConfirmCta": "التأكيد عبر واتساب",
+   "waMessage": "مرحباً، أنا {name} لقد أرسلت للتو طلب ({type}). يرجى معالجته!",
+   "toastIncompleteTitle": "البيانات غير مكتملة",
+   "toastIncompleteDesc": "يرجى ملء اسمك ورقم الهاتف/واتساب ورسالتك.",
+   "errorFallback": "فشل الإرسال",
+   "toastSuccessTitle": "تم إرسال الطلب! 🌿",
+   "toastSuccessDesc": "شكراً! فريقنا سيتواصل معك خلال 24 ساعة عمل واحدة.",
+   "toastFailTitle": "فشل الإرسال",
+   "toastFailDesc": "يرجى المحاولة مرة أخرى أو التواصل عبر واتساب."
+  },
+  "footer": {
+   "ariaLabel": "تذييل الموقع",
+   "ctaTitle": "ابدأ حياة صحية مع",
+   "ctaHighlight": "عصارة الخيزون",
+   "ctaDesc": "اطلب ماء الخيزون لعائلتك، أو اصبح شريك توزيعنا في مدينتك.",
+   "ctaConsult": "استشارة مجانية عبر واتساب",
+   "waCta": "واتساب",
+   "ctaForm": "نموذج الطلب",
+   "waMessage": "مرحباً Bambu Water Nusantara! أرغب في استشارة مجانية حول ماء الخيزون / أعواد الخيزون.",
+   "columns": {
+    "explore": "استكشف",
+    "health": "الصحة",
+    "products": "المنتجات والخدمات",
+    "articles": "مقالات الصحة"
+   },
+   "navAria": "تنقل التذييل",
+   "articleLinks": [
+    "كل المقالات",
+    "ماء الخيزون وسكر الدم",
+    "ماء الخيزون وحصوات الكلى",
+    "ماء الخيزون والكوليسترول",
+    "التنظيف الطبيعي",
+    "العظام والمفاصل",
+    "الجمال والبشرة"
+   ],
+   "labelOverrides": {
+    "sejarah-air-bambu": "تاريخ ماء الخيزران"
+   },
+   "socialLabels": [
+    "انستغرام bambu water nusantara",
+    "فيسبوك bambu water nusantara",
+    "لينكدإن bambu water nusantara"
+   ],
+   "phoneNote": "هاتف / واتساب",
+   "fullAddressNote": "العنوان الكامل في صفحة الاتصال"
+  },
+  "hero": {
+   "ariaLabel": "الرئيسية bambu water nusantara",
+   "imageAlt": "غابة خيزران إندونيسيا عند الفجر — أشعة ذهبية تخترق الضباب وقطرات ماء السداب تتساقط من أغصان الخيزران الشابة",
+   "badge": "الأكبر والأول في إندونيسيا",
+   "badgeSince": "منذ 2007",
+   "titleLine1": "مستخلص الخيزران النقي،",
+   "titleLine2": "صحة من الطبيعة",
+   "titleLine3": "نوسانتارا",
+   "subtitle": "ماء السداب الخشبي للعلاج الطبيعي — غني بالسليكا العضوية والفلافونيدات والمعادن الأساسية. نحن نخدم أيضًا",
+   "subtitleHighlight": "توزيع ماء الخيزران والخيزران عالي الجودة",
+   "subtitleAfter": "بكميات كبيرة إلى جميع أنحاء إندونيسيا.",
+   "ctaPrimary": "استكشف المنتجات",
+   "ctaSecondary": "طلب بالجملة / الشحن",
+   "trust": [
+    "تصفية صحية متدرجة",
+    "100٪ طبيعي بدون مواد حافظة",
+    "شحن إلى 38 مقاطعة"
+   ],
+   "scrollAriaLabel": "قم بالتمرير لأسفل — من نحن"
+  },
+  "stats": {
+   "millionSuffix": " مليون",
+   "thousandSuffix": " ألف"
+  },
+  "cta": {
+   "ariaLabel": "دعوة للعمل",
+   "title": "هل أنت مستعد لشعور فوائد ماء الخيزران؟",
+   "description": "استشارة مجانية مع فريقنا — للاحتياجات العلاجية للعائلة، والجملة، وحتى شحن الخيزران بالجملة إلى مدينتك.",
+   "legal": "كيان قانوني رسمي",
+   "chatCta": "دردشة واتساب",
+   "formCta": "املأ النموذج"
+  },
+  "productTemplate": {
+   "packaging": "خيارات التعبئة",
+   "orderWa": "طلب عبر واتساب",
+   "viewPrice": "عرض السعر",
+   "usesEyebrow": "لماذا",
+   "usesTitle": "الاستخدامات وال",
+   "usesHighlight": "الفوائد",
+   "guideTitle": "دليل",
+   "guideHighlight": "الاستخدام",
+   "faqTitle": "أسئلة",
+   "faqHighlight": "شائعة",
+   "safetyNote": "منتج غذائي، معالج بصحة، بدون مواد حافظة.",
+   "relatedLabel": "منتجات أخرى"
+  }
+ },
+ "pages": {
+  "beranda": {
+   "navLabel": "الرئيسية",
+   "seoTitle": "Bambu Water Nusantara — عصا الخيزران للعلاج الطبيعي وتوزيع الخيزران في جميع أنحاء إندونيسيا",
+   "metaDescription": "منتجو عصا الخيزران المقطوع وعصا الخيزران للطب التقليدي. توزيع كمية كبيرة من الخيزران عالي الجودة إلى جميع المدن الإندونيسية. WA 0813-1651-6524.",
+   "h1": "سلالة خالصة من الخيزران للصحة من الداخل",
+   "eyebrow": "PT Bambu Water Nusantara — bambuwater.web.id",
+   "intro": "ماء الخيزران المختار للعلاج والعلاج الطبيعي، وخيزران عالي الجودة بكميات كبيرة — يتم شحنه إلى جميع أنحاء إندونيسيا.",
+   "menuDesc": "شركة بامبو ووتر نوسانتارا - المياه من الخيزران للعلاج والتوزيع"
+  },
+  "tentang-kami": {
+   "navLabel": "من نحن",
+   "seoTitle": "من نحن — PT Bambu Water Nusantara، الكيان القانوني الموثوق به",
+   "metaDescription": "تعرف على PT Bambu Water Nusantara: ملف الشركة، الرؤية والرسالة، الشرعية، هيئة الإدارة، والتزامنا بالجودة.",
+   "h1": "من نحن PT Bambu Water Nusantara",
+   "eyebrow": "ملف الشركة",
+   "intro": "شركة كيان قانوني رسمي يقدم ماء علاج الخيزران عالي الجودة وخيزران نوسانتارا الممتاز — من الغابات المنظمة إلى منزلك.",
+   "menuDesc": "الملف، الرؤية والرسالة، والشرعية"
+  },
+  "apa-itu-air-bambu": {
+   "navLabel": "ما هو ماء الخيزران",
+   "seoTitle": "ما هو ماء الخيزران؟ دليل شامل لماء الخيزران وفوائده",
+   "metaDescription": "تعرف على ماء الخيزران (ماء نخيل الخيزران): أصل ماء الأنبوب الخيزري، طريقة جمعه، الأنواع، حتى عملية التقطير.",
+   "h1": "ما هو ماء الخيزران؟",
+   "eyebrow": "دليل شامل",
+   "intro": "تعرف على ماء الخيزران — كنز الطبيعة الغني بالسيليكا ومضادات الأكسدة، من تكوينه إلى كوبك.",
+   "menuDesc": "المعنى، الأصل، وأنواع ماء الخيزران"
+  },
+  "manfaat-air-bambu": {
+   "navLabel": "فوائد ماء الخيزران",
+   "seoTitle": "8 فوائد ماء الخيزران للصحة والعلاج الطبيعي المؤكدة",
+   "metaDescription": "8 فوائد ماء الخيزران للصحة: خفض الحمى، تخفيف السعال، صحة القلب، سكر الدم، الهضم، المناعة، البشرة، حتى آلام الدورة الشهرية.",
+   "h1": "8 فوائد ماء الخيزران للصحة",
+   "eyebrow": "الفوائد والمنافع",
+   "intro": "من تقليد الطبيب في نوسانتارا إلى الدراسات العلمية الحديثة — فوائد ماء الخيزران الكاملة للجسم، من الداخل إلى الخارج.",
+   "menuDesc": "8 فائدة رئيسية للجسم"
+  },
+  "kandungan-nutrisi": {
+   "navLabel": "المحتوى الغذائي",
+   "seoTitle": "المحتوى الغذائي لماء الخيزران — أعلى نسبة سيليكا عضوي ومضادات أكسدة",
+   "metaDescription": "تحليل محتوى ماء الخيزران: السيليكا العضوي حتى 70%، الفلافونويد، البوليفينول، الكلوروفيل، الأحماض الأمينية، والمعادن K-Ca-Mg للجسم.",
+   "h1": "المحتوى الغذائي وعلم ماء الخيزران",
+   "eyebrow": "تحليل علمي",
+   "intro": "لماذا يُعرف ماء الخيزران بـ \"أكثر ميامناجم المعدنية اكتمالاً من الطبيعة\"؟ تحليل المحتوى بناءً على أحدث الأبحاث العلمية.",
+   "menuDesc": "السيليكا، الفلافونويد، والمعادن الطبيعية"
+  },
+  "air-bambu-pengobatan": {
+   "navLabel": "للعلاج",
+   "seoTitle": "ماء الخيزران للعلاج التقليدي والعلاج التكميلي",
+   "metaDescription": "دور ماء الخيزران في الطب التقليدي في نوسانتارا: الحمى، السعال، السكري، الكوليسترول، حتى آلام الدورة الشهرية — دليل آمن وصحيح.",
+   "h1": "ماء الخيزران للعلاج التقليدي",
+   "eyebrow": "العلاج التكميلي",
+   "intro": "تراث العلاج السلفي الذي يدعمه الآن البحث — الطريقة الصحيحة لاستخدام ماء الخيزران كعلاج صحتي.",
+   "menuDesc": "العلاج التقليدي والتكميلي"
+  },
+  "air-bambu-gula-darah": {
+   "navLabel": "ماء الخيزران لسكر الدمر والسكري",
+   "seoTitle": "ماء الخيزران لسكر الدم والسكري — حقائق، أبحاث، وطريقة آمنة",
+   "metaDescription": "هل يساعد ماء الخيزران على استقرار سكر الدم لدى مرضى السكري؟ تعرف على الحقائق العلمية، والتقاليد، وطريقة الاستخدام الآمن، ومحدودياته.",
+   "h1": "ماء البامبو للسكر والسكري",
+   "eyebrow": "مقالات طبية",
+   "intro": "ملايين الأندونيسيين يعيشون مع مرض السكري. هل يمكن لماء البامبو أن يكون مشروبًا مساعدًا؟ إليك الإجابة بناءً على الأبحاث.",
+   "menuDesc": "مرافق مرضى السكري"
+  },
+  "air-bambu-batu-ginjal": {
+   "navLabel": "ماء البامبو للحصوات الكلوية والصحة الكلوية",
+   "seoTitle": "ماء البامبو للحصوات الكلوية والصحة الكلوية — الفوائد ونصائح آمنة",
+   "metaDescription": "ماء البامبو كمشروك داعم للصحة الكلوية: ترطيب مثالي، معادن طبيعية، وتقاليد لتفريع البول بأمان.",
+   "h1": "ماء البامبو للحصوات الكلوية والصحة الكلوية",
+   "eyebrow": "مقالات طبية",
+   "intro": "الكلى هي فلتر الجسم. إليك كيف يساعد ماء البامبو على الحفاظ على الكلى نظيفة وعملها الأمثل.",
+   "menuDesc": "الحفاظ على نظافة الكلى"
+  },
+  "air-bambu-kolesterol": {
+   "navLabel": "ماء البامبو للكوليسترول وصحة القلب",
+   "seoTitle": "ماء البامبو للكوليسترول وصحة القلب — دليل شامل",
+   "metaDescription": "الفلافونيدات والبوليفينول في ماء البامبو تساعد على مقاومة الكوليسترول السيئ وحماية القلب. تعرف على الآلية والأبحاث وطريقة الاستهلاك.",
+   "h1": "ماء البامبو للكوليسترول وصحة القلب",
+   "eyebrow": "مقالات طبية",
+   "intro": "أمراض القلب والأوعية الدموية هي القاتل رقم واحد. كيف يساعد مضادات الأكسدة في ماء البامبو على حماية القلب والأوعية الدموية؟",
+   "menuDesc": "حماية القلب والأوعية الدموية"
+  },
+  "air-bambu-detoksifikasi": {
+   "navLabel": "التنظيف الطبيعي بماء البامبو",
+   "seoTitle": "التنظيف الطبيعي بماء البامبو — برنامج 7 أيام مليء بالطاقة",
+   "metaDescription": "برنامج التنظيف الطبيعي لمدة 7 أيام بماء البامبو: تحسين الهضم، إزالة السموم، واستعادة الطاقة للجسم بلطف.",
+   "h1": "التنظيف الطبيعي بماء البامبو",
+   "eyebrow": "مقالات طبية",
+   "intro": "جسمك يتراكم السموم كل يوم من الطعام والتلوث والضغط. ماء البامبو يوفر طريقة تنظيف لطيفة ومنعشة.",
+   "menuDesc": "برنامج تنظيف 7 أيام"
+  },
+  "air-bambu-tulang-silika": {
+   "navLabel": "السيليكا في ماء البامبو للعظام والمفاصل",
+   "seoTitle": "السيليكا في ماء البامبو للعظام والمفاصل — الوقايت الطبيعية من هشاشة العظام",
+   "metaDescription": "السيليكا العضوية في ماء البامبو — الأعلى في الطبيعة — تلعب دورًا حيويًا في تكوين العظام، والحفاظ على المفاصل، ومنع هشاشة العظام.",
+   "h1": "السيليكا في ماء البامبو للعظام والمفاصل",
+   "eyebrow": "مقالات طبية",
+   "intro": "الكالسيوم ليس المفتاح الوحيد لعظام قوية. تعرف على دور السيليكا العضوية — ولماذا البامبو هو أفضل مصدر لها.",
+   "menuDesc": "السيليكا لكثافة العظام"
+  },
+  "air-bambu-kecantikan": {
+   "navLabel": "ماء البامبو للجمال، البشرة، الشعر والأظافر",
+   "seoTitle": "ماء البامبو للجمال — بشرة مرنة، شعر وأظافر قوية",
+   "metaDescription": "سر البشرة المرنة من الطبيعة: السيليكا في ماء البامبو تدعم إنتاج الكولاجين للبشرة والشعر والأظافر. جمال من الداخل الطبيعي.",
+   "h1": "ماء البامبو للجمال، البشرة، الشعر والأظافر",
+   "eyebrow": "مقالات طبية",
+   "intro": "الجمال الحقيقي يبدأ من الداخل. كيف تعمل السيليكا ومضادات الأكسدة في ماء البامبو كـ \"الكولاجين الطبيعي\" من الطبيعة؟",
+   "menuDesc": "الكولاجين الطبيعي من الداخل"
+  },
+  "sejarah-air-bambu": {
+   "navLabel": "التاريخ والتقاليد لماء البامبو النوسانتارا",
+   "seoTitle": "تاريخ ماء البامبو — تراث علاج أرخبيلي تقليدي",
+   "metaDescription": "استكشاف تاريخ ماء البامبو: من تقاليد أطباء سوندا وجاوة، إلى \"تامو بارانغ\" البامبو الصيني، وحتى اتجاه المشروبات الصحية العالمية اليوم.",
+   "h1": "التاريخ والتقاليد لماء البامبو النوسانتارا",
+   "eyebrow": "مقالات ثقافية",
+   "intro": "قبل أن يصبح اتجاهًا عالميًا بعقود، كان ماء البامبو سر علاج أسلاف أرخبيلي. هذه هي رحلته.",
+   "menuDesc": "إرث الأطباء الأندونيسي"
+  },
+  "air-bambu-suling": {
+   "navLabel": "ماء الخيزرون المقطر",
+   "seoTitle": "ماء الخيزرون المقطر المميز — مشروب علاجي يومي 600مل–19لتر",
+   "metaDescription": "ماء الخيزرون المقطر المميز: عصارة الخيزرون الشاب المُطهرة بالتقطير المتدرج. زجاجات 600مل، 1.5لتر، جallon 19لتر حتى براميل 30لتر للجملة.",
+   "h1": "ماء الخيزرون المقطر المميز",
+   "eyebrow": "منتج مميز",
+   "intro": "عصارة الخيزرون الشاب المُطهرة بالتقطير المتدرج — معادن السيليكا الطبيعية محفوظة، أمانه مضمون.",
+   "menuDesc": "مشروب علاجي يومي مميز"
+  },
+  "air-bambu-tabib": {
+   "navLabel": "ماء الخيزرون الطبيب",
+   "seoTitle": "ماء الخيزرون الطبيب — عصارة خام طازجة للعلاج والطب",
+   "metaDescription": "ماء الخيزرون الطبيب: عصارة خام طازجة مباشرة من عقدة الخيزرون الشاب، حصاد تقنية البرعم للعلاج، الأطباء والممارسين الطبيين.",
+   "h1": "ماء الخيزرون الطبيب — عصارة خام للعلاج",
+   "eyebrow": "منتجات علاجية",
+   "intro": "ماء العصارة النقي كما تعرفه تقاليد الأطباء الأندونيسي — حصاد طازج حسب الطلب بتقنية البرعم.",
+   "menuDesc": "عصارة خام طازجة للعلاج"
+  },
+  "bambu-berkualitas": {
+   "navLabel": "خيزرون عالي الجودة",
+   "seoTitle": "خيزرون عالي الجودة بالجملة — بتونغ، وولونغ، أبيوس،وري جميع أنحاء إندونيسيا",
+   "metaDescription": "خيزرون عالي الجودة اختيار عمر 3+ سنوات: بتونغ للبناء، وولونغ مميز، أبيوس للنسيج، أوري للإطار. بالقطعة حتى الشاحنات إلى جميع أنحاء إندونيسيا.",
+   "h1": "خيزرون عالي الجودة بكميات كبيرة",
+   "eyebrow": "منتجات جملة",
+   "intro": "بتونغ، وولونغ، أبيوس، وأوري — مختارة من الغابات الشعبية المنظمة، جاهزة للشحن بالقطعة حتى الشاحنات إلى جميع أنحاء إندونيسيا.",
+   "menuDesc": "بتونغ، وولونغ، أبيوس، أوري بالجملة"
+  },
+  "proses-produksi": {
+   "navLabel": "عملية الإنتاج",
+   "seoTitle": "عملية إنتاج وتقطير ماء الخيزرون — معايير النظافة BWN",
+   "metaDescription": "4 مراحل إنتاج ماء الخيزرون BWN: حصاد مستمر، عصارة البرعم، التقطير وفحص الجودة الميكروبي، حتى التعبئة الغذائية.",
+   "h1": "عملية الإنتاج والتقطير",
+   "eyebrow": "معايير الجودة",
+   "intro": "من شجرة الخيزرون المستدامة حتى التعبئة الغذائية — شفافية كاملة في كيفية إنتاجنا لماء الخيزرون عالي الجودة.",
+   "menuDesc": "الحصاد، العصارة، التقطير وفحص الجودة"
+  },
+  "pengiriman-massal": {
+   "navLabel": "الشحن بالجملة",
+   "seoTitle": "الشحن بالجملة لماء الخيزرون وخيزرون الأعواد إلى جميع أنحاء إندونيسيا",
+   "metaDescription": "خدمة الشحن بكميات كبيرة: الجوارب، البراميل، حتى شحنة شاحنات الخيزرون الأعواد. عادي 1-3 يوم، شحن بين الجزر، جوي سريع.",
+   "h1": "الشحن بالجملة إلى جميع أنحاء إندونيسيا",
+   "eyebrow": "خدمة التوزيع",
+   "intro": "الحجوم الكبيرة ليست مشكلة — الجوارب، البراميل، حزم الخيزرون حتى شحنة شاحنة كاملة، نحن نصل إلى 38 مقاطعة بتعبئة آمنة.",
+   "menuDesc": "شحن بري، بحري وجوي"
+  },
+  "jangkauan-kota": {
+   "navLabel": "مدن التغطية",
+   "seoTitle": "مدن التغطية للشحن — 38 مقاطعة في جميع أنحاء إندونيسيا | BWN",
+   "metaDescription": "نحن نرسل ماء الخيزرون وخيزرون الأعواد إلى المدن في جميع أنحاء إندونيسيا: جاكرتا، باندونغ، سورابايا، ميدان، ماكاسار حتى جايابورا.",
+   "h1": "مدن التغطية في جميع أنحاء إندونيسيا",
+   "eyebrow": "نطاق التغطية",
+   "intro": "38 مقاطعة، عشرات المدن، شبكة توزيع موثوقة. ابحث عن مدينتك وابدأ الطلب اليوم.",
+   "menuDesc": "38 مقاطعة في جميع أنحاء إندونيسيا"
+  },
+  "harga-paket": {
+   "navLabel": "الأسعار والحزم",
+   "seoTitle": "أسعار وحزم ميَّات الخيزران والعيدان — التجزئة إلى الجملة",
+   "metaDescription": "قائمة أسعار ماء الخيزون المنقوع، ماء الخيزون الطبي، والخيزون (بتونغ، وولونغ، أبوس، أوري) — التجزئة، والجملة، والشحن للشركات.",
+   "h1": "الأسعار والباقات",
+   "eyebrow": "شفافة وميسرة",
+   "intro": "أسعار واضحة بدون رسوم خفية — من زجاجة واحدة للعائلة إلى شاحنات الجملة للموزعين والمشاريع.",
+   "menuDesc": "البيع بالتجزئة، والجملة، والشركات"
+  },
+  "cara-pemesanan": {
+   "navLabel": "كيفية الطلب",
+   "seoTitle": "كيفية طلب ماء الخيزون والخيزون — 4 خطوات سهلة",
+   "metaDescription": "كيفية طلب ماء الخيزون والخيزون من BWN: اختر المنتج، أكد عبر WhatsApp 0813-1651-6524، دفع آمن، شحن إلى جميع أنحاء إندونيسيا.",
+   "h1": "كيفية الطلب السهل والسريع",
+   "eyebrow": "دليل الطلب",
+   "intro": "أربع خطوات بسيطة من اختيار المنتج إلى وصول ماء الخيزون إلى بابك — في أي مكان في إندونيسيا.",
+   "menuDesc": "4 خطوات سهلة لطلب المنتج"
+  },
+  "artikel": {
+   "navLabel": "كل المقالات",
+   "seoTitle": "مقالات ومعرفة ماء الخيزون — مركز معلومات صحة BWN",
+   "metaDescription": "مجموعة مقالات صحة ماء الخيزون: السكري، حصوات الكلى، الكوليسترول، детوكس، العظام، الجمال، وحتى تاريخ أرخipelago التقليدي.",
+   "h1": "مركز معرفة ماء الخيزون",
+   "eyebrow": "المدونة والمقالات",
+   "intro": "كل ما تحتاج إلى معرفته عن ماء الخيزون — مُعد من البحث العلمي والحكمة التقليدية لأرخipelago.",
+   "menuDesc": "مركز معرفة ماء الخيزون"
+  },
+  "testimoni": {
+   "navLabel": "آراء العملاء",
+   "seoTitle": "آراء العملاء — قصص حقيقية عن فوائد ماء الخيزون BWN",
+   "metaDescription": "قصص حقيقية من عملاء Bambu Water Nusantara: عائلات صحية، معالجون يثقون بهم، وموزعون شركاء في جميع أنحاء إندونيسيا.",
+   "h1": "آراء عملائنا",
+   "eyebrow": "قصص حقيقية",
+   "intro": "من مطبخ العائلة إلى عيادة المعالج — هذه هي قصصهم الذين جربوا فوائد ماء الخيزون BWN.",
+   "menuDesc": "قصص حقيقية من العملاء"
+  },
+  "faq": {
+   "navLabel": "الأسئلة الشائعة",
+   "seoTitle": "الأسئلة الشائعة — أسئلة شائعة حول ماء الخيزون وخدمات BWN",
+   "metaDescription": "إجابات شاملة للأسئلة الشائعة: ما هو ماء الخيزون، السلامة اليومية، الفروق بين المنتجات، كيفية طلب الجملة، الشحن، والشرعية الشركة.",
+   "h1": "الأسئلة الشائعة",
+   "eyebrow": "المساعدة والمعلومات",
+   "intro": "كل الأسئلة حول ماء الخيزون، المنتجات، الطلب، والشحن — مُجابة بالكامل في صفحة واحدة.",
+   "menuDesc": "الأسئلة الشائعة"
+  },
+  "kontak": {
+   "navLabel": "اتصل بنا",
+   "seoTitle": "الاتصال والطلب — WhatsApp 0813-1651-6524 | Bambu Water Nusantara",
+   "metaDescription": "تواصل مع PT Bambu Water Nusantara: WhatsApp 0813-1651-6524، البريد الإلكتروني، نموذج الطلب. استشارة مجانية للاحتياجات العلاجية والجملة.",
+   "h1": "اتصل بنا — استشارة مجانية",
+   "eyebrow": "الاتصال والطلب",
+   "intro": "فريقنا جاهز لمساعدتك من احتياجات العلاج العائلي إلى عقود التوزيع الجماعي. ردود سريعة في ساعات العمل.",
+   "menuDesc": "تواصل معنا"
+  }
+ }
+}
